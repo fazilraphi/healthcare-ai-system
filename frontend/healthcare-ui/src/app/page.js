@@ -41,7 +41,7 @@ export default function Home() {
 
         <div>
           <img
-            src="/doctor-ai.png"
+            src="/donda.jpg"
             alt="Healthcare AI"
             className="rounded-xl shadow-lg"
           />
