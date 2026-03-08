@@ -1,0 +1,1000 @@
+Patient ID,Name,Age,Gender,Blood Type,Medical Condition,Date of Admission,Doctor,Hospital,Insurance Provider,Billing Amount,Room Number,Admission Type,Discharge Date,Test Results,Medication,Severity,Dosage,Treatment Outcome,length_of_stay
+ID0001,Bobby JacksOn,30,Male,B-,Cancer,2024-01-31,Matthew Smith,Sons and Miller,Blue Cross,18856.2813059781,328,Urgent,2024-02-02,Normal,Imatinib,Moderate,400 mg,Improving,2
+ID0002,LesLie TErRy,62,Male,A+,Obesity,2019-08-20,Samantha Davies,Kim Inc,Medicare,33643.3272865778,265,Emergency,2019-08-26,Inconclusive,Liraglutide,Mild,0.6 mg,Stable,6
+ID0003,DaNnY sMitH,76,Female,A-,Obesity,2022-09-22,Tiffany Mitchell,Cook PLC,Aetna,27955.0960788424,205,Emergency,2022-10-07,Normal,Orlistat,Severe,120 mg,Critical,15
+ID0004,andrEw waTtS,28,Female,O+,Diabetes,2020-11-18,Kevin Wells,"Hernandez Rogers and Vang,",Medicare,37909.7824098752,450,Elective,2020-12-18,Abnormal,Glipizide,Moderate,5 mg,Improving,30
+ID0005,adrIENNE bEll,43,Female,AB+,Cancer,2022-09-19,Kathleen Hanna,White-White,Aetna,14238.3178139376,458,Urgent,2022-10-09,Abnormal,Imatinib,Moderate,400 mg,Critical,20
+ID0006,EMILY JOHNSOn,36,Male,A+,Asthma,2023-12-20,Taylor Newton,Nunez-Humphrey,UnitedHealthcare,48145.1109510418,389,Urgent,2023-12-24,Normal,Budesonide,Mild,200 mcg,Critical,4
+ID0007,edwArD EDWaRDs,21,Female,AB-,Diabetes,2020-11-03,Kelly Olson,Group Middleton,Medicare,19580.8723448609,389,Emergency,2020-11-15,Inconclusive,Glipizide,Severe,5 mg,Improving,12
+ID0008,CHrisTInA MARtinez,20,Female,A+,Cancer,2021-12-28,Suzanne Thomas,"Powell Robinson and Valdez,",Cigna,45820.4627215945,277,Emergency,2022-01-07,Inconclusive,Paclitaxel,Severe,175 mg,Stable,10
+ID0009,JASmINe aGuIlaR,82,Male,AB+,Asthma,2020-07-01,Daniel Ferguson,Sons Rich and,Cigna,50119.2227915485,316,Elective,2020-07-14,Abnormal,Montelukast,Severe,10 mg,Stable,13
+ID0010,ChRISTopher BerG,58,Female,AB-,Cancer,2021-05-23,Heather Day,Padilla-Walker,UnitedHealthcare,19784.6310622107,249,Elective,2021-06-22,Inconclusive,Paclitaxel,Mild,175 mg,Recovered,30
+ID0011,mIchElLe daniELs,72,Male,O+,Cancer,2020-04-19,John Duncan,Schaefer-Porter,Medicare,12576.7956090502,394,Urgent,2020-04-22,Normal,Imatinib,Moderate,400 mg,Stable,3
+ID0012,aaRon MARtiNeZ,38,Female,A-,Hypertension,2023-08-13,Douglas Mayo,Lyons-Blair,Medicare,7999.58687960418,288,Urgent,2023-09-05,Inconclusive,Lisinopril,Severe,10 mg,Critical,23
+ID0013,connOR HANsEn,75,Female,A+,Diabetes,2019-12-12,Kenneth Fletcher,"Powers Miller, and Flores",Cigna,43282.2833577043,134,Emergency,2019-12-28,Abnormal,Insulin,Severe,10 units,Recovered,16
+ID0014,rObeRt bAuer,68,Female,AB+,Asthma,2020-05-22,Theresa Freeman,Rivera-Gutierrez,UnitedHealthcare,33207.7066337296,309,Urgent,2020-06-19,Normal,Montelukast,Mild,10 mg,Improving,28
+ID0015,bROOkE brady,44,Female,AB+,Cancer,2021-10-08,Roberta Stewart,Morris-Arellano,UnitedHealthcare,40701.5992273087,182,Urgent,2021-10-13,Normal,Paclitaxel,Severe,175 mg,Critical,5
+ID0016,MS. nAtalIE gAMble,46,Female,AB-,Obesity,2023-01-01,Maria Dougherty,Cline-Williams,Blue Cross,12263.3574250213,465,Elective,2023-01-11,Inconclusive,Orlistat,Mild,120 mg,Improving,10
+ID0017,haley perkins,63,Female,A+,Arthritis,2020-06-23,Erica Spencer,Cervantes-Wells,UnitedHealthcare,24499.8479037365,114,Elective,2020-07-14,Normal,Naproxen,Severe,500 mg,Recovered,21
+ID0018,mRS. jamiE cAMPBELl,38,Male,AB-,Obesity,2020-03-08,Justin Kim,"Torres, and Harrison Jones",Cigna,17440.4654441246,449,Urgent,2020-04-02,Abnormal,Liraglutide,Severe,0.6 mg,Critical,25
+ID0019,LuKE BuRgEss,34,Female,A-,Hypertension,2021-03-04,Justin Moore Jr.,Houston PLC,Blue Cross,18843.0230178341,260,Elective,2021-03-14,Abnormal,Lisinopril,Severe,10 mg,Recovered,10
+ID0020,dANIEL schmIdt,63,Male,B+,Asthma,2022-11-15,Denise Galloway,Hammond Ltd,Cigna,23762.2035790595,465,Elective,2022-11-22,Normal,Salbutamol,Severe,2 puffs,Critical,7
+ID0021,tIMOTHY burNs,67,Female,A-,Asthma,2023-06-28,Krista Smith,Jones LLC,Blue Cross,42.5145885533243,115,Elective,2023-07-02,Normal,Salbutamol,Severe,2 puffs,Critical,4
+ID0022,ChRISToPHEr BRiGhT,48,Male,B+,Asthma,2020-01-21,Gregory Smith,Williams-Davis,Aetna,17695.9116223438,295,Urgent,2020-02-09,Normal,Salbutamol,Severe,2 puffs,Stable,19
+ID0023,KatHRYn StewArt,58,Female,O+,Arthritis,2022-05-12,Vanessa Newton,Clark-Mayo,Aetna,5998.10290819591,327,Urgent,2022-06-10,Inconclusive,Hydroxychloroquine,Mild,200 mg,Improving,29
+ID0024,dR. EilEEn thomPsoN,59,Male,A+,Asthma,2021-08-02,Donna Martinez MD,and Sons Smith,Aetna,25250.0524282161,119,Urgent,2021-08-12,Inconclusive,Budesonide,Mild,200 mcg,Stable,10
+ID0025,PAUl hEndERsOn,72,Female,AB+,Hypertension,2020-05-15,Stephanie Kramer,Wilson Group,Medicare,33211.295419012,109,Emergency,2020-06-08,Inconclusive,Amlodipine,Mild,5 mg,Stable,24
+ID0026,PeTER fiTzgeRaLd,73,Male,AB+,Obesity,2020-05-15,Angela Contreras,Garner-Bowman,Medicare,19746.8320076043,162,Urgent,2020-05-20,Abnormal,Metformin,Severe,500 mg,Improving,5
+ID0027,cathy sMaLl,51,Female,O-,Asthma,2023-12-23,Wendy Glenn,"Brown, and Jones Weaver",Blue Cross,26786.5295553112,401,Elective,2024-01-19,Normal,Salbutamol,Severe,2 puffs,Critical,27
+ID0028,mr. KenNEth MoORE,34,Female,A+,Diabetes,2022-06-21,James Ellis,Serrano-Dixon,UnitedHealthcare,18834.8013411783,157,Emergency,2022-06-30,Abnormal,Metformin,Severe,500 mg,Stable,9
+ID0029,MaRy hUNter,38,Female,O-,Hypertension,2021-01-03,Jared Bruce Jr.,Gardner-Miller,Cigna,32643.2993532771,223,Emergency,2021-01-16,Normal,Lisinopril,Moderate,10 mg,Recovered,13
+ID0030,jOSHUA OLiVer,63,Female,B+,Hypertension,2023-10-03,Brandy Mitchell,Guerrero-Boone,Aetna,5767.01105381601,293,Elective,2023-10-12,Abnormal,Lisinopril,Mild,10 mg,Stable,9
+ID0031,ThOMAS MartInEZ,34,Male,B-,Asthma,2019-08-18,Jacob Huynh,Hart Ltd,Cigna,47909.1288098749,371,Urgent,2019-09-01,Inconclusive,Budesonide,Moderate,200 mcg,Improving,14
+ID0032,JAmES pattERson,23,Female,A+,Arthritis,2019-11-03,Kristina Frazier,Cruz-Santiago,UnitedHealthcare,25835.3235946882,108,Urgent,2019-11-29,Abnormal,Naproxen,Mild,500 mg,Critical,26
+ID0033,WilLIAM cOOPEr,78,Male,AB-,Arthritis,2023-05-18,John Hartman,Group Duncan,Medicare,17993.2262000155,245,Elective,2023-06-15,Normal,Naproxen,Mild,500 mg,Stable,28
+ID0034,Erin oRTEga,43,Male,AB-,Cancer,2023-05-24,Heather Garcia,Lopez-Phillips,Medicare,21185.9535303942,494,Elective,2023-06-03,Normal,Cisplatin,Mild,50 mg,Recovered,10
+ID0035,NicOlE RodriGUEz,30,Female,AB+,Diabetes,2020-01-17,Lynn Young,Poole Inc,Blue Cross,8408.94935429195,285,Emergency,2020-02-10,Normal,Metformin,Moderate,500 mg,Stable,24
+ID0036,DAvID AndErSON,25,Female,AB+,Asthma,2021-01-07,Emma Allison,Sons and Cox,Medicare,45453.4185456651,228,Elective,2021-01-26,Abnormal,Budesonide,Severe,200 mcg,Critical,19
+ID0037,DEnIse ToRRES,33,Male,AB+,Diabetes,2019-10-14,Laura Myers,LLC Martin,Aetna,4397.77699541333,481,Urgent,2019-10-19,Inconclusive,Insulin,Mild,10 units,Critical,5
+ID0038,CasSAndrA Robinson,26,Female,B-,Hypertension,2021-12-19,Travis Parsons,Espinoza-Stone,Aetna,9380.32596752843,212,Urgent,2022-01-16,Normal,Amlodipine,Mild,5 mg,Recovered,28
+ID0039,NIcOlE LUcErO,70,Female,O-,Diabetes,2022-03-12,Christine Johnson,"and Garcia Morris Cunningham,",Cigna,48290.6934073641,113,Emergency,2022-03-29,Abnormal,Insulin,Severe,10 units,Improving,17
+ID0040,PAmela fErNanDeZ,57,Female,B-,Obesity,2021-01-17,Emily Taylor,Walton-Meyer,Medicare,32973.9408329662,272,Urgent,2021-01-29,Abnormal,Orlistat,Severe,120 mg,Recovered,12
+ID0041,chRiSTOPHer LEe,74,Female,B-,Hypertension,2021-09-15,William Reynolds,PLC Young,Cigna,49943.2784987872,478,Emergency,2021-10-05,Normal,Lisinopril,Mild,10 mg,Improving,20
+ID0042,ThomAS morsE,81,Male,A+,Hypertension,2020-01-27,Jennifer Carter,Meadows Group,Cigna,35633.9554543878,196,Urgent,2020-02-09,Normal,Losartan,Mild,50 mg,Stable,13
+ID0043,Mr. eRiC Lane,49,Female,A-,Asthma,2022-06-24,Matthew Thomas,"and Howell Brooks, Rogers",Cigna,25966.3286102209,418,Elective,2022-07-18,Normal,Salbutamol,Severe,2 puffs,Stable,24
+ID0044,KAThEriNE SmiTH,26,Female,AB+,Obesity,2021-06-09,Mary Logan,"and Mcclure White Boone,",UnitedHealthcare,21784.4450707236,410,Urgent,2021-07-01,Normal,Orlistat,Moderate,120 mg,Recovered,22
+ID0045,pAUL wILLiAmS,81,Female,AB-,Cancer,2020-08-23,Kristin Martinez,"Gates Brown, and Stuart",Medicare,42684.5588845502,328,Urgent,2020-09-08,Abnormal,Paclitaxel,Moderate,175 mg,Critical,16
+ID0046,lYNn MaRtinez,65,Male,O+,Cancer,2022-10-12,Daniel Murphy,Group Armstrong,Medicare,45585.8865599394,300,Emergency,2022-11-02,Normal,Imatinib,Mild,400 mg,Critical,21
+ID0047,chRIsTOpHEr CHaPmAN,31,Female,O+,Hypertension,2021-12-01,Emily Patterson,Ltd Schwartz,Cigna,29615.4418636461,211,Elective,2021-12-09,Normal,Lisinopril,Mild,10 mg,Critical,8
+ID0048,CHRis fRYe,58,Male,A-,Diabetes,2020-05-04,Heather Smith,Nelson-Phillips,Cigna,36992.2736882838,413,Urgent,2020-05-13,Normal,Glipizide,Severe,5 mg,Stable,9
+ID0049,kyLE bEnneTT,22,Male,O+,Hypertension,2023-09-09,John Smith,"Knight and Nguyen, Riggs",UnitedHealthcare,28051.4994839463,157,Urgent,2023-09-23,Abnormal,Amlodipine,Mild,5 mg,Improving,14
+ID0050,BRandOn coLLINS,77,Female,O+,Asthma,2019-07-19,Cameron Young,Lopez PLC,Cigna,16320.2324472718,138,Urgent,2019-07-29,Abnormal,Montelukast,Mild,10 mg,Improving,10
+ID0051,mIchael LiU,30,Male,AB-,Hypertension,2024-04-05,Vicki Nguyen,"Fernandez and Phillips, Singh",Medicare,30590.5418063406,456,Emergency,2024-04-22,Inconclusive,Lisinopril,Mild,10 mg,Recovered,17
+ID0052,STepHaNie kEnt,42,Female,A-,Cancer,2019-06-15,Mary Moss,Beck-Galloway,Aetna,14681.0163601259,234,Emergency,2019-07-05,Abnormal,Cisplatin,Mild,50 mg,Improving,20
+ID0053,JessE BaNks,67,Female,AB+,Cancer,2022-10-29,Alexander Garcia,"Decker Glover, and Christensen",Aetna,21879.5319110635,492,Urgent,2022-11-20,Inconclusive,Cisplatin,Mild,50 mg,Stable,22
+ID0054,PeGGY LEe,24,Female,A-,Obesity,2022-04-08,Patrick Burns,"Nelson Walker Myers, and",UnitedHealthcare,6767.63439654494,180,Elective,2022-04-13,Abnormal,Metformin,Moderate,500 mg,Critical,5
+ID0055,TAmARa hErNAndez,84,Female,B-,Asthma,2023-08-17,Kayla Powers,Mitchell-Navarro,Cigna,19973.4629261595,250,Elective,2023-09-11,Inconclusive,Montelukast,Mild,10 mg,Critical,25
+ID0056,mR. DAVID pIERce Md,73,Female,A-,Hypertension,2023-11-05,Julia Cox,Group Delgado,UnitedHealthcare,14362.3144875023,296,Emergency,2023-11-07,Inconclusive,Lisinopril,Moderate,10 mg,Critical,2
+ID0057,beThaNY MoOrE,55,Female,A+,Cancer,2023-04-09,Penny Pruitt,"and Montes Graves, Thomas",Cigna,10300.6573113759,330,Emergency,2023-04-21,Normal,Paclitaxel,Moderate,175 mg,Improving,12
+ID0058,MIChael MIllS,23,Male,O-,Hypertension,2022-09-21,Mrs. Lori Hurst PhD,Hall-Bentley,Aetna,37951.6649098497,405,Emergency,2022-09-25,Inconclusive,Amlodipine,Mild,5 mg,Improving,4
+ID0059,kyle Wiley,40,Female,AB-,Cancer,2021-01-21,Stephen Carr,Taylor-Nguyen,Aetna,6733.99094706883,300,Urgent,2021-02-06,Normal,Paclitaxel,Moderate,175 mg,Stable,16
+ID0060,jACqUeLINE jORdaN,51,Male,O+,Hypertension,2020-07-10,Jacob Daniel,Hunter-Grant,Aetna,17839.7456516471,306,Elective,2020-07-20,Abnormal,Losartan,Severe,50 mg,Stable,10
+ID0061,ASHleY guTIERreZ,83,Male,AB+,Obesity,2019-11-06,Tyler Braun,Miller-Lawson,Aetna,24637.0900640332,333,Elective,2019-11-22,Inconclusive,Metformin,Mild,500 mg,Stable,16
+ID0062,Kim ScOtt,63,Male,A-,Asthma,2024-04-07,Cindy Ellis,Scott-Kelly,UnitedHealthcare,39723.1660514278,244,Emergency,2024-05-04,Inconclusive,Montelukast,Severe,10 mg,Improving,27
+ID0063,tRAvIs carTeR,18,Male,A+,Cancer,2022-07-06,Megan Hahn,"Moss and Ferguson, Baker",UnitedHealthcare,48407.3862911005,325,Emergency,2022-07-18,Normal,Imatinib,Severe,400 mg,Stable,12
+ID0064,LArry rodgeRs,23,Female,B-,Hypertension,2022-08-03,Eric Kelly,"and Mason Smith Chase,",Cigna,5517.39364222399,113,Elective,2022-08-10,Inconclusive,Amlodipine,Mild,5 mg,Critical,7
+ID0065,Nancy glOVeR,58,Male,A-,Hypertension,2020-05-08,Jennifer Larson,"Khan, and Rodriguez Fischer",Medicare,19183.1688853955,378,Emergency,2020-06-01,Abnormal,Losartan,Severe,50 mg,Recovered,24
+ID0066,JessIca king,27,Male,AB-,Cancer,2019-12-09,William Hess,Sons Watson and,Medicare,8320.66080328743,468,Urgent,2019-12-21,Abnormal,Imatinib,Mild,400 mg,Recovered,12
+ID0067,ChRiStOPhER gOnzAlez,59,Male,B+,Diabetes,2019-11-21,Patricia Dunn,Rhodes-Carey,Medicare,10107.1876510572,368,Emergency,2019-12-08,Abnormal,Glipizide,Moderate,5 mg,Stable,17
+ID0068,jOhN hARTmAN,27,Male,B-,Hypertension,2023-01-07,Jack Jackson,Bullock-Ramsey,Cigna,49402.2983725271,263,Elective,2023-01-27,Inconclusive,Lisinopril,Moderate,10 mg,Improving,20
+ID0069,MicHAEl MillEr,31,Male,B+,Diabetes,2024-02-06,Jonathan Drake,"Clark Brown, and Myers",UnitedHealthcare,35776.8151114537,489,Emergency,2024-02-10,Normal,Insulin,Severe,10 units,Stable,4
+ID0070,Erica myERS,19,Female,A+,Arthritis,2020-01-30,Ian Benitez,"Jackson and Lane, Dillon",Medicare,20227.8637267447,241,Elective,2020-02-12,Normal,Methotrexate,Mild,15 mg,Critical,13
+ID0071,cAROl PaTtERSoN,29,Female,O+,Cancer,2022-10-24,Jamie Baker,"Turner Cook, Banks and",Blue Cross,19328.1185790799,231,Urgent,2022-11-07,Normal,Imatinib,Severe,400 mg,Improving,14
+ID0072,JOSe LopEz,18,Male,A-,Obesity,2022-01-09,Erika Jackson,"Miles, and Weaver Hudson",Aetna,46956.5457306324,377,Emergency,2022-01-15,Inconclusive,Orlistat,Moderate,120 mg,Recovered,6
+ID0073,kEVIn SiMmoNs Jr.,24,Male,AB-,Cancer,2023-12-28,Amanda Garcia,Evans Ltd,Cigna,10709.6903889001,407,Emergency,2024-01-02,Abnormal,Paclitaxel,Mild,175 mg,Recovered,5
+ID0074,DuANe HaneY,27,Male,AB-,Diabetes,2021-09-16,Raven Wong,Sons and Schaefer,Aetna,45353.9907773854,263,Urgent,2021-10-14,Abnormal,Metformin,Severe,500 mg,Stable,28
+ID0075,JONathAn yaTeS,57,Female,AB-,Arthritis,2023-07-24,Cynthia Scott,Sons Hodges and,Aetna,8451.00175847895,135,Elective,2023-08-11,Abnormal,Naproxen,Severe,500 mg,Stable,18
+ID0076,johN THoMaS,74,Female,A+,Arthritis,2021-11-13,Mark Padilla,Simpson-Mccall,UnitedHealthcare,29850.8797281837,131,Emergency,2021-12-07,Inconclusive,Naproxen,Moderate,500 mg,Improving,24
+ID0077,AdriaN BuckLEY,22,Female,A-,Arthritis,2023-10-11,Julie Ramirez,"Lin Thompson Wells, and",Blue Cross,42696.5211638991,102,Urgent,2023-10-27,Normal,Hydroxychloroquine,Moderate,200 mg,Improving,16
+ID0078,apRil SANTIAgO,33,Female,B-,Diabetes,2021-01-30,Jacob Rich,Jones-Scott,Cigna,2305.13913953849,249,Emergency,2021-02-04,Inconclusive,Insulin,Mild,10 units,Improving,5
+ID0079,DIane scHultz,57,Male,B+,Arthritis,2021-11-21,Mark Hartman Jr.,Howe-Kelly,UnitedHealthcare,44437.4706733572,255,Emergency,2021-12-05,Inconclusive,Naproxen,Moderate,500 mg,Improving,14
+ID0080,tiMOThY myers,61,Male,B+,Cancer,2024-03-02,Timothy Baker,and Sons Reyes,UnitedHealthcare,29504.3874422114,422,Urgent,2024-03-26,Inconclusive,Paclitaxel,Moderate,175 mg,Recovered,24
+ID0081,NICOLE HUGhes,20,Male,O+,Arthritis,2020-12-04,Lori Sanchez,Shaw-Young,Blue Cross,34617.7883449372,320,Emergency,2020-12-08,Abnormal,Methotrexate,Moderate,15 mg,Recovered,4
+ID0082,ChAd MorEnO,67,Male,AB+,Hypertension,2020-08-26,Connie Boyd,Inc Skinner,Aetna,46814.0111951116,134,Urgent,2020-08-27,Abnormal,Amlodipine,Mild,5 mg,Critical,1
+ID0083,SeaN jenniNGs,80,Female,AB-,Diabetes,2023-11-12,James Tucker,Clark-Johnson,Blue Cross,20257.5442829324,255,Elective,2023-12-12,Abnormal,Insulin,Severe,10 units,Stable,30
+ID0084,DIAnE brAnch,44,Male,O+,Obesity,2020-05-30,Juan Acevedo,Perez and Sons,Cigna,22841.3638769056,410,Emergency,2020-06-14,Inconclusive,Liraglutide,Severe,0.6 mg,Critical,15
+ID0085,cindY OROzco,26,Female,B-,Asthma,2023-05-12,Julie Finley,Kemp LLC,Medicare,10283.7168581291,273,Emergency,2023-06-10,Abnormal,Salbutamol,Mild,2 puffs,Critical,29
+ID0086,pAtriCIa MEdinA,80,Male,AB+,Cancer,2022-07-07,Miguel Parker,LLC Dixon,UnitedHealthcare,1586.47660143828,395,Emergency,2022-07-23,Normal,Cisplatin,Severe,50 mg,Critical,16
+ID0087,kayLa padillA,63,Male,B-,Asthma,2020-09-24,Jermaine Peters,"and Morales Jennings Cook,",Aetna,34774.3511270575,152,Emergency,2020-10-08,Inconclusive,Budesonide,Mild,200 mcg,Critical,14
+ID0088,JUan klEiN,58,Female,B-,Arthritis,2023-08-19,Lisa Edwards,Group Hood,UnitedHealthcare,24870.1036589338,321,Emergency,2023-08-25,Inconclusive,Hydroxychloroquine,Severe,200 mg,Stable,6
+ID0089,wILLIAM hIlL,38,Female,A+,Cancer,2023-05-16,Matthew Walker,Lindsey Inc,Cigna,39476.9475143799,428,Elective,2023-06-01,Abnormal,Paclitaxel,Mild,175 mg,Improving,16
+ID0090,CARL BEst,60,Male,B+,Hypertension,2022-08-22,Gregory Hansen,Ltd Wang,Blue Cross,26062.434320291,482,Elective,2022-09-07,Inconclusive,Losartan,Mild,50 mg,Recovered,16
+ID0091,TInA GriFfin,49,Male,B+,Cancer,2022-06-17,Jessica Cruz,Inc Ford,Medicare,25302.1126340112,268,Elective,2022-06-28,Abnormal,Paclitaxel,Moderate,175 mg,Stable,11
+ID0092,MR. TYler TAYLOR Phd,80,Male,A+,Diabetes,2022-11-05,Robert Salazar,Dean-Hawkins,UnitedHealthcare,10661.5106491327,120,Emergency,2022-11-25,Abnormal,Glipizide,Moderate,5 mg,Recovered,20
+ID0093,TAyLoR howeLl Dds,35,Female,B+,Diabetes,2021-09-10,Kyle Patterson,Walter PLC,Blue Cross,30358.1945795447,318,Elective,2021-09-18,Inconclusive,Metformin,Mild,500 mg,Critical,8
+ID0094,mIcHAeL MaRTIn,84,Male,A+,Asthma,2022-09-06,John Summers,Sons Horn and,Cigna,23684.5254727448,162,Urgent,2022-09-27,Inconclusive,Salbutamol,Mild,2 puffs,Recovered,21
+ID0095,heatHER mIller,76,Male,A+,Diabetes,2021-04-17,Scott Grant,"Powell Ward, and Mercado",Aetna,3908.94656794631,428,Elective,2021-05-10,Inconclusive,Metformin,Mild,500 mg,Stable,23
+ID0096,cathERinE gArDnEr,79,Female,A-,Hypertension,2019-08-19,David Ruiz,James Ltd,Medicare,25503.673806852,144,Elective,2019-08-26,Abnormal,Lisinopril,Moderate,10 mg,Stable,7
+ID0097,ANNE THOMPSoN,76,Female,O+,Diabetes,2024-03-24,Kyle Smith,Kemp-Munoz,Aetna,6312.60769101852,226,Elective,2024-04-14,Abnormal,Glipizide,Mild,5 mg,Improving,21
+ID0098,TOdd coopeR,55,Female,A+,Diabetes,2022-12-10,Jason Price,Henderson-Taylor,UnitedHealthcare,21772.3413986496,459,Elective,2022-12-31,Normal,Metformin,Moderate,500 mg,Recovered,21
+ID0099,PhILLIP lyOnS,53,Male,B-,Cancer,2022-09-14,Stephanie Clements,"Parsons, Hartman Martinez and",Blue Cross,30437.001787641,208,Elective,2022-09-18,Normal,Imatinib,Moderate,400 mg,Improving,4
+ID0100,MaRk foRD,18,Male,B+,Asthma,2022-10-18,Steven James,Luna Inc,UnitedHealthcare,28837.6770525072,227,Elective,2022-11-11,Abnormal,Montelukast,Moderate,10 mg,Improving,24
+ID0101,mARcUS ZAmorA,69,Male,O+,Arthritis,2021-11-13,Jeremiah Wolf,"Hernandez, Ritter and Huffman",Cigna,25425.727862607,115,Elective,2021-11-21,Normal,Hydroxychloroquine,Severe,200 mg,Recovered,8
+ID0102,KaTiE hENry,70,Male,B+,Diabetes,2022-07-08,Roberto Petersen,Reed LLC,Aetna,7187.2723460995,402,Emergency,2022-07-25,Normal,Metformin,Moderate,500 mg,Recovered,17
+ID0103,wilLIAm morTON,21,Male,A+,Diabetes,2023-06-25,Christina Hammond,Thompson-Walker,UnitedHealthcare,3125.73647660125,442,Urgent,2023-07-11,Normal,Glipizide,Mild,5 mg,Recovered,16
+ID0104,KaTRina maRTin,47,Male,A-,Diabetes,2019-07-09,Patricia Colon,Group Nguyen,Medicare,31516.1007343743,418,Elective,2019-08-05,Inconclusive,Glipizide,Severe,5 mg,Stable,27
+ID0105,HunTeR mckAy,85,Male,A-,Arthritis,2021-05-14,Dominic Mitchell,Newton-White,UnitedHealthcare,40014.7623484579,425,Emergency,2021-06-03,Abnormal,Naproxen,Mild,500 mg,Improving,20
+ID0106,dWAYnE DAViS,28,Male,O+,Cancer,2024-01-15,Wendy Davis,Ltd Thomas,Medicare,40782.9278084865,373,Elective,2024-02-07,Abnormal,Paclitaxel,Mild,175 mg,Critical,23
+ID0107,sARAH CalDweLL,62,Male,A-,Obesity,2019-09-30,Daniel Carson,"Pierce Ward, Torres and",Cigna,3879.08460181339,290,Elective,2019-10-15,Inconclusive,Orlistat,Moderate,120 mg,Stable,15
+ID0108,DAVid higgInS,49,Female,B-,Arthritis,2021-03-05,Erin Henderson MD,"Evans and Hall Schneider,",Medicare,24948.4778240269,361,Emergency,2021-03-20,Abnormal,Hydroxychloroquine,Mild,200 mg,Improving,15
+ID0109,bRADlEY coMbS,52,Male,AB-,Hypertension,2021-05-14,Christopher Butler,Stout-Brown,Cigna,37734.7421803869,251,Elective,2021-06-06,Abnormal,Amlodipine,Moderate,5 mg,Recovered,23
+ID0110,chrisTiNa SChMitt,53,Male,B+,Cancer,2023-06-08,Samuel Robles,Cruz Ltd,UnitedHealthcare,27360.4618905512,231,Elective,2023-07-05,Abnormal,Imatinib,Moderate,400 mg,Stable,27
+ID0111,coLtoN stRONg,55,Male,AB-,Asthma,2022-05-13,Benjamin Webb,Stewart Sons and,Aetna,37405.6965286312,212,Elective,2022-05-20,Normal,Salbutamol,Mild,2 puffs,Critical,7
+ID0112,MARK priCE,18,Male,B-,Arthritis,2022-09-22,Krystal Fox,"Hall Roberts and Duarte,",Medicare,31485.9731617159,440,Emergency,2022-10-14,Normal,Hydroxychloroquine,Mild,200 mg,Recovered,22
+ID0113,sUZaNnE SchNeIder,52,Male,AB-,Hypertension,2023-08-25,Bruce Garrett,Ramirez-Robinson,Medicare,23737.399323627,414,Urgent,2023-09-18,Normal,Losartan,Moderate,50 mg,Recovered,24
+ID0114,MIchaEL HUrLEY,67,Male,AB-,Obesity,2019-06-02,Jonathan Watson,"Garcia, and Bishop Hernandez",Aetna,3326.38267468151,424,Emergency,2019-06-04,Inconclusive,Orlistat,Moderate,120 mg,Stable,2
+ID0115,LIndsEy laMbErt,82,Female,A+,Hypertension,2021-11-19,Christopher Guerra,"and Brown Oneal, Shah",Medicare,23067.6721652454,307,Elective,2021-12-12,Normal,Amlodipine,Mild,5 mg,Improving,23
+ID0116,reBEcCA PARsONs,37,Female,O+,Asthma,2019-12-02,Steven Adams,Group White,Aetna,8521.21425267109,476,Elective,2019-12-13,Abnormal,Salbutamol,Severe,2 puffs,Critical,11
+ID0117,jUdy joHNsoN,52,Female,AB-,Cancer,2020-08-21,Victoria Patel,"Hughes and Erickson, Anderson",Cigna,47985.1673383277,388,Elective,2020-09-06,Inconclusive,Paclitaxel,Mild,175 mg,Improving,16
+ID0118,TOnyA caMpbell,37,Female,B+,Asthma,2021-02-12,Louis Bell,Lane-Kelly,UnitedHealthcare,25230.2468818024,326,Elective,2021-03-11,Inconclusive,Montelukast,Moderate,10 mg,Critical,27
+ID0119,JAMEs Ross,83,Female,A+,Diabetes,2024-01-13,Michael Baker,Cox-Hester,Blue Cross,10352.2084867408,394,Urgent,2024-01-22,Abnormal,Insulin,Mild,10 units,Stable,9
+ID0120,SaRA COOk,33,Male,O-,Arthritis,2021-12-26,Douglas Fleming,"Jarvis Scott, Fleming and",Medicare,6175.86724929242,138,Urgent,2022-01-12,Abnormal,Methotrexate,Severe,15 mg,Recovered,17
+ID0121,annE howeLl,22,Female,A-,Obesity,2022-08-22,Patrick Carter,Cline-Carpenter,Blue Cross,23499.9362509787,178,Urgent,2022-09-07,Normal,Metformin,Moderate,500 mg,Stable,16
+ID0122,RENEE bAilEY,19,Female,B+,Cancer,2021-07-03,Sarah Shaffer,"Johnson, and Ross Harris",Medicare,33681.5726441015,177,Elective,2021-07-31,Abnormal,Paclitaxel,Severe,175 mg,Recovered,28
+ID0123,Jeffrey tuRNER,85,Female,O+,Obesity,2020-05-31,Matthew Carter,"Kim Rosario, and Hammond",Aetna,39957.9406222297,211,Urgent,2020-06-01,Normal,Liraglutide,Severe,0.6 mg,Stable,1
+ID0124,DR. LaUreN ClaRk DDs,19,Male,B+,Cancer,2020-10-26,Brian Wagner,PLC Jimenez,UnitedHealthcare,49833.7077178545,302,Elective,2020-11-17,Inconclusive,Cisplatin,Mild,50 mg,Recovered,22
+ID0125,terRY THoMaS,50,Female,B-,Asthma,2021-06-03,Lucas Cole,Cantu-Berry,Aetna,48175.4661168079,368,Urgent,2021-07-01,Inconclusive,Budesonide,Mild,200 mcg,Improving,28
+ID0126,JasOn baKEr,50,Female,O-,Obesity,2020-10-24,Julia Yoder,Wright-Alexander,UnitedHealthcare,40133.9673924551,130,Urgent,2020-11-13,Normal,Liraglutide,Moderate,0.6 mg,Improving,20
+ID0127,JEssicA gUtiERrEz,40,Male,O+,Obesity,2019-08-27,Crystal Chavez,Guzman-Carlson,Aetna,9585.95212799372,424,Urgent,2019-09-06,Inconclusive,Liraglutide,Severe,0.6 mg,Stable,10
+ID0128,COURTNey HOdGes,57,Male,AB-,Obesity,2021-11-30,Brenda Lopez,Meyer-Hill,Medicare,40693.3542239535,430,Emergency,2021-12-09,Abnormal,Metformin,Severe,500 mg,Critical,9
+ID0129,ANthONy reYEs,82,Male,AB+,Obesity,2023-10-15,Michael Cole,Dudley-Atkinson,UnitedHealthcare,16399.2657610018,133,Emergency,2023-11-08,Abnormal,Metformin,Severe,500 mg,Stable,24
+ID0130,LeaH cRoSs Dds,20,Male,AB+,Diabetes,2024-03-17,Michael Larson,Kelly-Allen,Blue Cross,44939.565524761,430,Emergency,2024-03-28,Inconclusive,Glipizide,Moderate,5 mg,Recovered,11
+ID0131,PaUL MaRTinEz,20,Male,B+,Hypertension,2019-10-13,Tracey Spence,"Lewis Livingston, Lowe and",Blue Cross,10663.9100050385,104,Emergency,2019-10-16,Normal,Amlodipine,Moderate,5 mg,Critical,3
+ID0132,DenisE rOdRIGuEZ,19,Female,A-,Hypertension,2020-03-02,Susan Gibson,Rodriguez Ltd,Cigna,22564.7879835172,408,Elective,2020-03-07,Normal,Losartan,Severe,50 mg,Stable,5
+ID0133,ashLEy ERIcKSoN,32,Female,AB-,Cancer,2019-11-05,Gerald Hooper,"and Johnson Moore, Branch",Aetna,-502.507812700947,376,Urgent,2019-11-23,Normal,Imatinib,Mild,400 mg,Critical,18
+ID0134,SEaN carDenaS,55,Male,B-,Diabetes,2021-02-07,Todd Sanchez,"Holmes and Hughes, Phillips",Cigna,34758.256750986,331,Emergency,2021-03-05,Normal,Insulin,Mild,10 units,Improving,26
+ID0135,aLaN AlVaREz,81,Male,B+,Hypertension,2021-10-25,Elizabeth Morales,"and Smith, Tucker Cross",UnitedHealthcare,46377.8651492315,275,Urgent,2021-11-22,Normal,Losartan,Severe,50 mg,Improving,28
+ID0136,JeSsICA phiLliPS,26,Male,O-,Hypertension,2022-07-24,Kimberly Petersen,Sons and Lozano,Blue Cross,7555.77296480884,425,Elective,2022-07-31,Abnormal,Lisinopril,Moderate,10 mg,Critical,7
+ID0137,tiMOthY CoLemaN,54,Female,AB+,Cancer,2020-03-04,Misty Garcia,Russell Ltd,UnitedHealthcare,14299.9934469067,480,Emergency,2020-03-05,Abnormal,Cisplatin,Mild,50 mg,Stable,1
+ID0138,cHristina wooDS,57,Male,B-,Arthritis,2021-08-01,Melissa Fernandez,Jones Ltd,Cigna,46429.5082037226,233,Elective,2021-08-19,Inconclusive,Hydroxychloroquine,Moderate,200 mg,Stable,18
+ID0139,mELIssa sCOtt,38,Female,AB+,Asthma,2020-01-24,Kari Moore,Gordon-Ward,Medicare,17978.9507448961,384,Elective,2020-02-12,Abnormal,Salbutamol,Moderate,2 puffs,Recovered,19
+ID0140,GaRy hoPkiNS,54,Male,O+,Obesity,2021-07-30,David Hubbard,Barnes and Sons,Medicare,32629.0677482352,380,Elective,2021-08-13,Normal,Orlistat,Moderate,120 mg,Stable,14
+ID0141,aPRIL VAleNCIA,42,Male,A+,Diabetes,2024-01-04,Lonnie Morgan,Levine-Miller,Medicare,22356.2264918334,310,Urgent,2024-02-03,Inconclusive,Insulin,Moderate,10 units,Recovered,30
+ID0142,riTA archER,20,Male,O-,Diabetes,2024-01-05,Victoria Gonzales,"and Marquez Silva Smith,",Medicare,48995.9805916571,406,Elective,2024-02-04,Normal,Metformin,Mild,500 mg,Recovered,30
+ID0143,kIm PenA,44,Female,O-,Hypertension,2020-08-11,Cindy White,Jackson-Copeland,UnitedHealthcare,4532.48355361687,213,Emergency,2020-09-04,Inconclusive,Lisinopril,Moderate,10 mg,Recovered,24
+ID0144,jaSoN FOlEy,54,Male,B+,Diabetes,2022-06-17,Douglas Li,"Perez and Ochoa White,",Medicare,35521.5821482775,130,Elective,2022-06-24,Normal,Insulin,Mild,10 units,Critical,7
+ID0145,ShAUN GuzmAn,21,Female,AB-,Arthritis,2022-04-02,Lori Mendoza,Ltd Conrad,Aetna,1589.50352318586,244,Emergency,2022-04-09,Inconclusive,Methotrexate,Moderate,15 mg,Improving,7
+ID0146,MATTHeW wHite,45,Female,AB+,Diabetes,2020-06-03,Ryan Ross,Hampton-Thomas,Medicare,22950.6511391825,233,Elective,2020-06-22,Abnormal,Insulin,Severe,10 units,Stable,19
+ID0147,aLExiS wilsOn,68,Female,B+,Arthritis,2019-08-16,Brian Walton,Thomas-Kelley,Aetna,2678.9539360591,427,Urgent,2019-08-21,Abnormal,Methotrexate,Moderate,15 mg,Recovered,5
+ID0148,JaCQueLiNE maRshAll,27,Male,A+,Hypertension,2024-02-22,Michael Berg,Myers-Monroe,UnitedHealthcare,39615.6006557046,500,Urgent,2024-02-24,Inconclusive,Amlodipine,Moderate,5 mg,Critical,2
+ID0149,RoBErt hIGGInS,42,Male,AB-,Asthma,2021-05-06,Scott Davis,"and Ford Lee, Rodriguez",Medicare,13355.7820854809,451,Elective,2021-05-29,Inconclusive,Budesonide,Mild,200 mcg,Recovered,23
+ID0150,SierRa MoRTON,27,Female,B-,Asthma,2021-10-27,Daniel Shelton,Sons Garcia and,Aetna,32561.5304064226,485,Elective,2021-11-04,Inconclusive,Montelukast,Moderate,10 mg,Improving,8
+ID0151,nATAliE sTANtoN,80,Male,B+,Asthma,2020-09-01,Tara Moreno,"Perry Little, and Moore",Medicare,29221.3402076791,208,Emergency,2020-09-17,Inconclusive,Salbutamol,Severe,2 puffs,Stable,16
+ID0152,jEssica aceveDo,21,Male,O+,Diabetes,2021-05-26,Kristie Morgan,Anderson Group,Medicare,12880.6524127714,267,Urgent,2021-06-22,Normal,Insulin,Moderate,10 units,Recovered,27
+ID0153,JENnIfEr mCmillan,84,Female,A-,Obesity,2022-06-22,Joseph Jones,Rodriguez and Sons,Aetna,15475.4032365425,154,Elective,2022-07-22,Abnormal,Liraglutide,Severe,0.6 mg,Recovered,30
+ID0154,ChRISTopher mccLAiN,67,Female,O-,Arthritis,2023-05-17,Maria Tran,Thomas-Huber,Medicare,27309.4367606972,293,Elective,2023-05-31,Abnormal,Methotrexate,Moderate,15 mg,Improving,14
+ID0155,kevIn HiCKs,66,Male,AB+,Arthritis,2021-06-23,Kelly Murphy,Robinson Inc,Medicare,1897.89172714767,196,Elective,2021-07-09,Abnormal,Methotrexate,Mild,15 mg,Improving,16
+ID0156,MELIndA richARds,37,Female,A-,Cancer,2023-11-17,Katherine Brown,Wood-Mathews,Aetna,31308.2060084951,466,Urgent,2023-11-25,Normal,Imatinib,Mild,400 mg,Recovered,8
+ID0157,roBYn miRaNDa,30,Female,A-,Diabetes,2020-10-11,Elizabeth Frank,"Walker and Gardner Fernandez,",Medicare,42792.2412821748,468,Elective,2020-10-21,Abnormal,Glipizide,Mild,5 mg,Recovered,10
+ID0158,scoTt caSTillO,78,Male,O+,Diabetes,2021-08-10,Alyssa Edwards,"Smith and Johnston, Collins",Cigna,14377.3343184946,114,Emergency,2021-08-27,Abnormal,Insulin,Moderate,10 units,Critical,17
+ID0159,jOHN GarciA,39,Female,A+,Diabetes,2023-08-29,Jesse Thomas,Sons Miller and,UnitedHealthcare,1150.87498608758,408,Urgent,2023-09-07,Abnormal,Metformin,Moderate,500 mg,Critical,9
+ID0160,miCHAeL TayloR,29,Male,O-,Asthma,2020-02-27,Erica Mccormick,Donaldson-Frey,Medicare,41939.1199366963,453,Elective,2020-03-26,Normal,Montelukast,Severe,10 mg,Critical,28
+ID0161,jeFfReY WoOd,81,Female,AB-,Cancer,2021-07-07,Amber Holmes,Brown-Yoder,UnitedHealthcare,41982.3743962325,261,Elective,2021-07-15,Abnormal,Cisplatin,Severe,50 mg,Recovered,8
+ID0162,MiCHAEl smIth,66,Female,AB-,Obesity,2022-06-03,Austin Jackson,"Morgan Rios and Keller,",Cigna,33861.0186317446,115,Elective,2022-06-27,Normal,Liraglutide,Mild,0.6 mg,Recovered,24
+ID0163,wiLLiam grIFfItH,65,Male,B-,Asthma,2020-02-20,Shane Morris,Gonzalez-King,Aetna,49321.1576314917,167,Emergency,2020-03-01,Abnormal,Montelukast,Severe,10 mg,Stable,10
+ID0164,CHrISTiNa lAwReNCe,80,Male,AB-,Asthma,2021-02-05,Brent Smith,Wagner Ltd,Cigna,47433.2786547111,179,Elective,2021-03-05,Inconclusive,Salbutamol,Moderate,2 puffs,Recovered,28
+ID0165,jeSsiCA HolmeS,72,Female,O-,Arthritis,2020-10-24,Kayla Davis,"and Brown White, Jones",Medicare,19065.0608855169,490,Emergency,2020-11-02,Abnormal,Methotrexate,Severe,15 mg,Recovered,9
+ID0166,traCEY grEenE,85,Male,O-,Cancer,2023-12-06,Rose Zuniga,James-Smith,Cigna,50142.026947853,258,Elective,2023-12-19,Abnormal,Cisplatin,Mild,50 mg,Stable,13
+ID0167,aMAnda lOpeZ,68,Female,O+,Hypertension,2021-12-21,Ethan Wagner,Hanson Group,Aetna,12081.6790346649,483,Urgent,2021-12-30,Abnormal,Amlodipine,Severe,5 mg,Improving,9
+ID0168,LaurA pEtErS,56,Female,A-,Cancer,2023-09-03,Phillip Williams,Mcclain-Reed,Aetna,18030.7907802356,273,Elective,2023-09-30,Inconclusive,Imatinib,Moderate,400 mg,Improving,27
+ID0169,LAUrEn ANDErSOn,53,Female,O-,Asthma,2020-10-18,Maureen Hill,Young-Smith,Medicare,5142.16376347468,120,Elective,2020-11-10,Abnormal,Salbutamol,Severe,2 puffs,Stable,23
+ID0170,wILliAm CAmpos,37,Female,B+,Asthma,2021-07-07,Heidi Compton MD,Hart-Brock,UnitedHealthcare,19851.2429251884,202,Elective,2021-07-24,Normal,Budesonide,Severe,200 mcg,Critical,17
+ID0171,jEssiCa GoNzAleS,57,Female,O+,Hypertension,2023-08-28,Kimberly Gonzalez,"Jones and Jones, Turner",Cigna,20545.8717628298,198,Urgent,2023-09-16,Abnormal,Lisinopril,Mild,10 mg,Critical,19
+ID0172,brUcE gOnzaleS,36,Male,O+,Arthritis,2019-11-17,Rebecca Morgan,Spears-Shah,Cigna,36869.7257390398,368,Urgent,2019-12-01,Normal,Methotrexate,Severe,15 mg,Improving,14
+ID0173,rOBert WAlsH,20,Female,B+,Cancer,2020-11-22,Sabrina Rogers,"and Anderson Smith Sanchez,",Cigna,40598.4225708786,113,Elective,2020-12-17,Normal,Cisplatin,Mild,50 mg,Improving,25
+ID0174,lIsA LeWis,83,Male,O-,Asthma,2021-11-13,Kevin Brown,"Tran, and Ferrell Garcia",Aetna,18198.0585178538,308,Urgent,2021-12-08,Normal,Montelukast,Mild,10 mg,Improving,25
+ID0175,WiLlIaM RUiZ,79,Male,B+,Obesity,2022-02-13,Sarah Cole,Ltd Walton,Blue Cross,4920.0411890887,278,Elective,2022-02-20,Normal,Metformin,Mild,500 mg,Critical,7
+ID0176,StEven BALdWIn,62,Male,O+,Diabetes,2019-05-16,Jennifer Hall,Group Rodriguez,UnitedHealthcare,3864.13949887163,103,Urgent,2019-05-31,Inconclusive,Insulin,Moderate,10 units,Improving,15
+ID0177,meGAn CoLON,38,Male,AB+,Asthma,2021-08-04,Emily Cruz,Carr LLC,Blue Cross,21562.8610510203,400,Urgent,2021-08-26,Normal,Salbutamol,Mild,2 puffs,Improving,22
+ID0178,kImbErlY brOoks,75,Female,B-,Cancer,2020-01-03,Michael Anderson,Rodriguez-Guerra,Medicare,11815.2027414876,401,Elective,2020-01-27,Abnormal,Imatinib,Moderate,400 mg,Recovered,24
+ID0179,EdWARd SMiTh jR.,28,Male,A+,Hypertension,2022-09-13,Natalie Sellers,"Sullivan Mullins, Macias and",Cigna,25796.8696692934,258,Urgent,2022-10-07,Abnormal,Lisinopril,Moderate,10 mg,Improving,24
+ID0180,aLliSoN CorDoVA,36,Male,O-,Hypertension,2020-12-19,Patrick Ochoa,Ballard PLC,UnitedHealthcare,4266.78430718752,268,Emergency,2021-01-09,Normal,Losartan,Mild,50 mg,Critical,21
+ID0181,lINdA THOMAs,54,Male,AB+,Obesity,2023-03-31,Daniel Rodgers,Liu-Wilson,Cigna,4751.16274103238,192,Urgent,2023-04-29,Inconclusive,Orlistat,Moderate,120 mg,Recovered,29
+ID0182,paRkEr moOrE,81,Female,B-,Diabetes,2020-05-08,Taylor Baldwin,LLC Lewis,Aetna,17968.49598759,285,Emergency,2020-05-28,Inconclusive,Metformin,Moderate,500 mg,Improving,20
+ID0183,tanya SOto,56,Female,AB+,Obesity,2023-07-31,Adam Ross,"Stokes Chambers and Martin,",Cigna,11311.3273479975,302,Urgent,2023-08-02,Normal,Metformin,Severe,500 mg,Critical,2
+ID0184,mIChaEL jOrdaN,30,Male,AB-,Hypertension,2022-01-09,Amy Williams,Hernandez-Green,Blue Cross,47242.224297681,418,Emergency,2022-01-12,Inconclusive,Amlodipine,Mild,5 mg,Improving,3
+ID0185,ChRiSTINA MArTin,64,Female,A-,Diabetes,2023-12-16,Martha Graham,Inc Lee,Cigna,17670.5052173935,128,Elective,2024-01-15,Inconclusive,Insulin,Mild,10 units,Recovered,30
+ID0186,TrACy BUrke,76,Male,A+,Obesity,2020-12-05,Emily Thomas,Wilkins Group,Medicare,5714.74801791466,238,Elective,2020-12-18,Abnormal,Liraglutide,Moderate,0.6 mg,Improving,13
+ID0187,daVID SPeNCE,21,Female,AB+,Diabetes,2021-11-11,Terrance Rosales,Valentine Ltd,Cigna,5985.97848724019,136,Urgent,2021-12-04,Normal,Glipizide,Mild,5 mg,Recovered,23
+ID0188,JOsEph fOstER,59,Female,O+,Obesity,2019-09-11,Daniel Smith,Alvarado-Deleon,Blue Cross,27385.7362279881,427,Emergency,2019-09-15,Inconclusive,Metformin,Severe,500 mg,Recovered,4
+ID0189,NIcholAs haLl,31,Female,A-,Diabetes,2020-12-15,Marissa Stevenson,"Alexander and Jensen Andrews,",UnitedHealthcare,3730.00219089662,218,Urgent,2021-01-01,Abnormal,Glipizide,Mild,5 mg,Recovered,17
+ID0190,ChriSTiNA maCiAS,36,Female,O+,Asthma,2022-12-08,Katie Fitzpatrick,"and Black, Henson Rhodes",Blue Cross,22480.9659289307,348,Elective,2023-01-02,Inconclusive,Montelukast,Moderate,10 mg,Critical,25
+ID0191,scoTT JoNes,42,Female,B+,Diabetes,2021-07-15,Dennis Small,Sons and Marshall,Aetna,35022.3167123606,486,Elective,2021-08-05,Inconclusive,Glipizide,Severe,5 mg,Stable,21
+ID0192,jaMEs AnDerSon,18,Female,AB+,Asthma,2022-06-16,Chris Holt,Rodriguez-Franco,Blue Cross,45072.418258941,147,Urgent,2022-07-04,Inconclusive,Salbutamol,Severe,2 puffs,Critical,18
+ID0193,sHaUN LonG,62,Female,A+,Obesity,2024-02-09,Jenny Griffith,"Fritz Henderson Stanton, and",UnitedHealthcare,45902.7076446902,126,Urgent,2024-02-19,Normal,Metformin,Severe,500 mg,Critical,10
+ID0194,krIStInA morA,53,Male,AB+,Hypertension,2024-03-04,Gregory Lambert,West-Young,Medicare,28899.1857587483,314,Emergency,2024-03-18,Abnormal,Losartan,Moderate,50 mg,Improving,14
+ID0195,joshUa rIcHmOnd,82,Female,A+,Obesity,2022-02-11,Michael Armstrong,Ltd Solis,Blue Cross,39003.1814380949,133,Elective,2022-02-25,Normal,Orlistat,Mild,120 mg,Critical,14
+ID0196,Mark lAWrencE,19,Female,O-,Diabetes,2022-02-08,Melissa Terry,Mcneil-Blake,Blue Cross,10348.8185214386,271,Emergency,2022-02-17,Inconclusive,Metformin,Mild,500 mg,Improving,9
+ID0197,JOhN eLlis,83,Female,A-,Hypertension,2023-06-15,Thomas Bruce,Moore-Waters,UnitedHealthcare,14371.5396986661,341,Urgent,2023-06-30,Inconclusive,Losartan,Severe,50 mg,Improving,15
+ID0198,MRs. TiFFAny DeNnIs,26,Male,O-,Diabetes,2021-10-11,James James DVM,Group Scott,UnitedHealthcare,13769.4031287638,498,Urgent,2021-10-24,Abnormal,Metformin,Moderate,500 mg,Critical,13
+ID0199,cyNTHIa HuANG,51,Male,O+,Arthritis,2021-12-12,Sean Smith,and Simmons Sons,Aetna,35868.5386367655,309,Elective,2021-12-30,Abnormal,Hydroxychloroquine,Severe,200 mg,Improving,18
+ID0200,meLiSSA LawRENcE,20,Male,O+,Obesity,2023-07-09,John Hansen,"Humphrey and Browning Fitzgerald,",Blue Cross,35205.2845980244,104,Emergency,2023-07-15,Abnormal,Liraglutide,Moderate,0.6 mg,Critical,6
+ID0201,STEvEn goodwIN,61,Female,A-,Obesity,2020-09-08,Teresa Mccarthy,Adams-Molina,Blue Cross,21576.5023455387,308,Emergency,2020-10-03,Abnormal,Liraglutide,Mild,0.6 mg,Improving,25
+ID0202,mARY HuNT,44,Male,AB-,Hypertension,2020-08-31,Stephanie Barnett,Guzman LLC,Aetna,18771.0106871058,168,Urgent,2020-09-18,Abnormal,Amlodipine,Mild,5 mg,Improving,18
+ID0203,ERic riveRa,74,Female,AB+,Cancer,2024-04-10,Mr. Luke Nunez Jr.,Gonzalez-Pacheco,Blue Cross,21668.5645083491,115,Emergency,2024-05-03,Abnormal,Cisplatin,Severe,50 mg,Stable,23
+ID0204,ALAn tayLor,82,Female,B-,Diabetes,2021-08-10,Stacy Stewart,"Hunt, Carlson and Cherry",Cigna,36339.8190811746,189,Elective,2021-09-09,Inconclusive,Glipizide,Severe,5 mg,Critical,30
+ID0205,mIcHaEL cAMPbeLl,83,Male,O-,Diabetes,2022-01-25,Andrea Oneal,Ltd Barnes,Cigna,40825.184423605,438,Elective,2022-01-28,Abnormal,Insulin,Moderate,10 units,Stable,3
+ID0206,asHLEY webb ddS,62,Female,AB-,Cancer,2023-09-12,Eric Coleman,"Gordon, Fox Lane and",Blue Cross,40469.5662591005,286,Elective,2023-10-12,Normal,Imatinib,Severe,400 mg,Recovered,30
+ID0207,SHaNNON broWn,62,Female,B-,Obesity,2020-08-05,Anthony Barnes,Petersen Ltd,Medicare,25749.5208355403,138,Elective,2020-08-14,Inconclusive,Orlistat,Moderate,120 mg,Recovered,9
+ID0208,LAwrenCE shEPherD,18,Male,A-,Asthma,2022-05-07,Michael Hickman,and Mcdonald Sons,Aetna,15841.2016765125,275,Urgent,2022-06-03,Abnormal,Montelukast,Moderate,10 mg,Recovered,27
+ID0209,scoTt wADE,66,Male,A+,Arthritis,2022-02-13,Dustin Wolf,"Smith, Elliott and Blackburn",Medicare,36086.5720780543,266,Urgent,2022-02-23,Normal,Naproxen,Moderate,500 mg,Critical,10
+ID0210,heAthER curTis,26,Female,AB+,Asthma,2024-03-03,Amanda Wells,PLC Oliver,Blue Cross,32085.2276465087,392,Urgent,2024-03-27,Inconclusive,Budesonide,Severe,200 mcg,Recovered,24
+ID0211,kEvIN jEFFeRsON,45,Female,B+,Cancer,2020-03-14,Jason Miller,"Griffin and Lyons Rivers,",Cigna,12356.5606512939,156,Emergency,2020-04-03,Inconclusive,Paclitaxel,Moderate,175 mg,Stable,20
+ID0212,dAvId gRifFIn,26,Male,AB-,Asthma,2024-02-07,Holly James,Craig-Garcia,Aetna,15367.4113155228,255,Emergency,2024-02-24,Inconclusive,Budesonide,Moderate,200 mcg,Critical,17
+ID0213,GRanT GeoRge,26,Male,O+,Cancer,2019-07-21,April Cox,Baker-Jones,Medicare,40190.2029180175,315,Elective,2019-08-05,Abnormal,Imatinib,Severe,400 mg,Recovered,15
+ID0214,eRIc SteWART,79,Female,O+,Diabetes,2023-04-14,Virginia Lynch,Duffy-Kelly,Aetna,3872.09698519108,322,Elective,2023-04-18,Inconclusive,Insulin,Moderate,10 units,Improving,4
+ID0215,RoBErt pittmAn,33,Female,B-,Arthritis,2024-01-17,Patricia Fuller,Rodriguez-Becker,Cigna,3311.58910555355,184,Elective,2024-02-05,Normal,Naproxen,Mild,500 mg,Critical,19
+ID0216,SYdNey Cross,34,Female,O+,Cancer,2019-06-25,Michelle Ward,Group Brown,UnitedHealthcare,18524.8666374857,472,Urgent,2019-06-30,Abnormal,Imatinib,Severe,400 mg,Stable,5
+ID0217,DaviD CrawfoRD,76,Female,AB-,Hypertension,2021-05-20,Robin Adams,Powers-Vincent,UnitedHealthcare,30107.4870351719,494,Emergency,2021-06-12,Inconclusive,Amlodipine,Mild,5 mg,Improving,23
+ID0218,LEAH DRaKE,50,Female,B-,Obesity,2020-04-03,Emily Morales,"and Ramos Brown Edwards,",UnitedHealthcare,15826.1012762539,398,Emergency,2020-04-11,Normal,Liraglutide,Mild,0.6 mg,Stable,8
+ID0219,DiAna hALL,44,Male,B-,Diabetes,2020-01-21,Adriana Morrow,Johnson Group,Blue Cross,26437.7746301457,267,Emergency,2020-01-30,Abnormal,Insulin,Moderate,10 units,Stable,9
+ID0220,JUsTIN lE,38,Female,AB-,Arthritis,2021-12-02,Michael Mitchell,Atkins Inc,Aetna,49663.4528710204,435,Emergency,2021-12-07,Normal,Methotrexate,Mild,15 mg,Improving,5
+ID0221,KaREn pricE dDs,43,Male,AB+,Cancer,2021-05-28,Caroline Choi,Marshall LLC,Aetna,27278.2368852241,174,Urgent,2021-06-18,Abnormal,Imatinib,Severe,400 mg,Recovered,21
+ID0222,CaROlYN sTEeLE,27,Female,AB+,Hypertension,2020-03-23,Michael Robinson,Ltd Cruz,Cigna,33170.4367400385,137,Urgent,2020-04-11,Abnormal,Amlodipine,Moderate,5 mg,Recovered,19
+ID0223,LAURen RAMireZ,78,Male,A+,Asthma,2022-08-06,Heather Miller,Harrison-Parker,Medicare,1791.38900111131,405,Urgent,2022-09-05,Normal,Budesonide,Mild,200 mcg,Critical,30
+ID0224,jAcOb nEWman,40,Male,A+,Diabetes,2024-03-09,Howard Obrien,Lee-Clayton,Blue Cross,31188.0414917411,111,Elective,2024-04-05,Normal,Insulin,Mild,10 units,Recovered,27
+ID0225,KAThErInE BARnEtt,25,Male,AB-,Arthritis,2022-03-15,Faith Cook,Mcdaniel and Sons,Medicare,13854.6457636635,328,Elective,2022-04-10,Inconclusive,Hydroxychloroquine,Moderate,200 mg,Stable,26
+ID0226,JODI martiNeZ,67,Female,AB+,Obesity,2020-08-08,Donna Colon,Inc Lynch,Blue Cross,11870.9083801416,196,Elective,2020-08-14,Abnormal,Metformin,Moderate,500 mg,Stable,6
+ID0227,andrEa aLlEN,47,Female,AB+,Obesity,2019-06-09,David Lindsey,"and Mendoza Rich Morales,",UnitedHealthcare,25574.1276190986,464,Elective,2019-07-01,Inconclusive,Orlistat,Mild,120 mg,Improving,22
+ID0228,nOah baxtEr,75,Male,AB-,Arthritis,2019-09-07,Anthony Nixon,Proctor-Jones,Aetna,6132.40409523864,231,Urgent,2019-10-06,Normal,Naproxen,Mild,500 mg,Improving,29
+ID0229,hECTOR MAXweLL,58,Female,A-,Obesity,2021-02-14,Doris Hawkins,"and Ramirez Figueroa May,",Medicare,33343.9024937478,117,Elective,2021-02-26,Inconclusive,Orlistat,Mild,120 mg,Critical,12
+ID0230,holLy WALters,26,Female,A-,Hypertension,2019-11-10,Caleb James,Michael-Jenkins,Medicare,43484.2497464405,244,Urgent,2019-11-26,Abnormal,Lisinopril,Severe,10 mg,Critical,16
+ID0231,JOsepH SmIth,22,Male,O+,Obesity,2023-04-16,Patricia Moore,Hardy Inc,UnitedHealthcare,7858.92685994679,414,Urgent,2023-05-14,Normal,Metformin,Mild,500 mg,Recovered,28
+ID0232,albERt tHOmAS,29,Female,B+,Asthma,2020-04-25,Matthew Gray,"Turner, and Williams Mercado",Cigna,33161.9384029981,493,Urgent,2020-04-28,Inconclusive,Salbutamol,Severe,2 puffs,Critical,3
+ID0233,jeFfErY WIlliaMSOn,30,Male,A-,Cancer,2021-08-21,Justin Lowe,PLC Williams,Cigna,2879.46053205424,183,Urgent,2021-08-28,Normal,Cisplatin,Severe,50 mg,Critical,7
+ID0234,joNAthAn meADOWS,22,Female,O+,Asthma,2021-01-14,Danny Mcdonald,Evans Ltd,Aetna,46492.8617729489,471,Elective,2021-01-27,Inconclusive,Montelukast,Severe,10 mg,Critical,13
+ID0235,kRIStIN BeNnETT,34,Male,AB+,Hypertension,2020-09-12,Gina Weaver,Merritt-Gray,Aetna,5259.27304964771,341,Elective,2020-09-26,Abnormal,Lisinopril,Moderate,10 mg,Stable,14
+ID0236,miCHaEl SmITh,20,Male,AB+,Arthritis,2020-03-27,Eddie Jackson,"Huang Travis Thomas, and",UnitedHealthcare,2784.58248997835,164,Emergency,2020-04-16,Inconclusive,Methotrexate,Mild,15 mg,Improving,20
+ID0237,JOSepH cARpenteR,37,Female,A-,Arthritis,2019-07-26,Miss Valerie Saunders MD,Rodriguez-Zimmerman,Aetna,13418.2163679355,102,Emergency,2019-08-17,Abnormal,Hydroxychloroquine,Severe,200 mg,Recovered,22
+ID0238,larRy MaYEr,25,Female,A+,Cancer,2023-12-07,Richard Petty,Miller PLC,Blue Cross,36990.4557753253,356,Urgent,2023-12-14,Normal,Paclitaxel,Moderate,175 mg,Recovered,7
+ID0239,CLaYTON PEterSon,45,Female,B-,Cancer,2021-06-11,Patricia Bean,"May, Mullins and Martin",Aetna,43567.1441579709,325,Urgent,2021-07-03,Normal,Imatinib,Severe,400 mg,Improving,22
+ID0240,donaLD aLVArEZ,18,Male,O-,Diabetes,2022-02-11,Ronald Jones,Moore-Robbins,UnitedHealthcare,35570.0765570962,497,Emergency,2022-02-23,Inconclusive,Metformin,Severe,500 mg,Improving,12
+ID0241,SaRAh leE,56,Male,O+,Arthritis,2020-09-12,Jack Wall,Ltd Howard,Blue Cross,6848.13042719658,421,Emergency,2020-09-22,Normal,Hydroxychloroquine,Mild,200 mg,Stable,10
+ID0242,joHN peReZ,44,Male,AB-,Asthma,2020-05-25,Felicia Morrison,Group Crosby,Aetna,4677.59584650444,488,Emergency,2020-06-05,Inconclusive,Salbutamol,Moderate,2 puffs,Recovered,11
+ID0243,Timothy jAcobS,34,Male,O+,Hypertension,2023-09-25,Crystal Schultz,Cook Ltd,Aetna,35157.1702673228,328,Elective,2023-10-21,Normal,Losartan,Severe,50 mg,Stable,26
+ID0244,nAThaN sMall,26,Male,B+,Obesity,2022-06-22,Bailey Gonzalez,"Rivas, Mcconnell Hill and",UnitedHealthcare,34719.1738501764,317,Elective,2022-07-20,Normal,Metformin,Severe,500 mg,Recovered,28
+ID0245,dUSTin WriGhT,32,Male,O+,Obesity,2020-01-12,Michael Guzman,Conner-Flores,Aetna,23775.4490069404,133,Elective,2020-01-19,Normal,Orlistat,Mild,120 mg,Critical,7
+ID0246,jacOb wilLiAMS,64,Male,B+,Arthritis,2022-07-29,Elizabeth Flowers,Suarez-Nelson,UnitedHealthcare,17732.4693660627,247,Urgent,2022-08-07,Normal,Naproxen,Moderate,500 mg,Critical,9
+ID0247,wiLlIAm mcCOY,80,Male,A-,Asthma,2023-02-20,Whitney Vaughan,"and Walker Glenn, Long",Cigna,3845.39749562647,158,Emergency,2023-03-10,Normal,Salbutamol,Moderate,2 puffs,Stable,18
+ID0248,dr. MATthEW wilkinS,80,Male,A-,Cancer,2021-07-14,Seth Nelson,PLC Anderson,Blue Cross,22401.5503534375,242,Elective,2021-07-24,Inconclusive,Paclitaxel,Moderate,175 mg,Recovered,10
+ID0249,JosEpH gONZaLeZ,37,Female,O+,Hypertension,2024-04-17,Erin Wright,Blackwell-Gamble,UnitedHealthcare,23340.3047192135,151,Urgent,2024-05-07,Normal,Amlodipine,Severe,5 mg,Improving,20
+ID0250,rObErt fiElDS,52,Female,A+,Hypertension,2021-02-04,Jennifer Flores,Wagner PLC,Blue Cross,3042.40918359702,221,Urgent,2021-02-28,Abnormal,Lisinopril,Moderate,10 mg,Recovered,24
+ID0251,lawrencE mIRAndA,83,Female,O-,Diabetes,2021-09-02,Brandi Knight,Goodman-Kelly,Blue Cross,41817.6791825064,223,Urgent,2021-09-19,Inconclusive,Glipizide,Mild,5 mg,Stable,17
+ID0252,mitCheLl caRrOlL,28,Female,B-,Arthritis,2022-09-10,Chad Irwin,"and Boyd Powell, Sims",Cigna,49700.3242065521,359,Elective,2022-10-01,Abnormal,Hydroxychloroquine,Moderate,200 mg,Recovered,21
+ID0253,COdY nIcHoLs,63,Male,A+,Diabetes,2022-11-25,Victoria Williams,"and Conrad Boyd, Burnett",Blue Cross,45157.4711248389,480,Elective,2022-12-20,Normal,Glipizide,Moderate,5 mg,Recovered,25
+ID0254,KELlI tHompSOn,85,Male,O-,Asthma,2023-08-04,Travis Walton,Ayala-Armstrong,Cigna,18832.1003427796,472,Emergency,2023-08-12,Abnormal,Salbutamol,Severe,2 puffs,Critical,8
+ID0255,dAnIElle lOPeZ,37,Male,O-,Hypertension,2020-11-20,Catherine Hernandez,"and Lambert White, Vargas",Aetna,31732.1300778819,373,Elective,2020-12-06,Normal,Losartan,Severe,50 mg,Recovered,16
+ID0256,melINda JONES,22,Male,AB-,Diabetes,2019-10-23,Kristen Johnson,Group Doyle,Blue Cross,42214.9796977142,370,Urgent,2019-11-09,Abnormal,Insulin,Mild,10 units,Critical,17
+ID0257,KRiSTIN sMith,80,Female,AB+,Arthritis,2020-10-17,Tammy Chavez,Henderson-Johnson,Medicare,12400.2050988106,141,Elective,2020-10-29,Normal,Hydroxychloroquine,Moderate,200 mg,Recovered,12
+ID0258,StEphaniE REYNolDs,48,Female,O+,Arthritis,2022-12-27,Savannah Colon,"Baker Conrad and Andrews,",Blue Cross,1133.58647605806,343,Urgent,2022-12-31,Abnormal,Hydroxychloroquine,Moderate,200 mg,Recovered,4
+ID0259,AnNA NORMaN,29,Male,B+,Obesity,2023-06-16,Jessica Parks MD,"Perkins, Salazar and Johnson",Blue Cross,24340.3228569656,310,Emergency,2023-07-14,Inconclusive,Liraglutide,Moderate,0.6 mg,Improving,28
+ID0260,MAria haYeS,76,Male,A+,Arthritis,2023-11-06,Joshua Singleton,Johnson-Perez,Blue Cross,39390.9355470849,319,Elective,2023-11-21,Abnormal,Methotrexate,Moderate,15 mg,Improving,15
+ID0261,toNya riLEy mD,23,Female,A+,Hypertension,2023-12-26,Vincent Ramirez,Powell-Werner,Medicare,17012.5074022272,121,Elective,2024-01-22,Normal,Lisinopril,Severe,10 mg,Stable,27
+ID0262,REgiNa DUnn,33,Male,B-,Asthma,2023-02-10,Natasha Smith,Morales Group,Cigna,14493.6139032184,166,Emergency,2023-03-05,Inconclusive,Salbutamol,Mild,2 puffs,Improving,23
+ID0263,mIcHael JACoBS,34,Male,O+,Hypertension,2020-07-01,John Sparks,"and Fernandez, Wilson Morrison",Aetna,32679.2685926962,397,Emergency,2020-07-10,Normal,Losartan,Moderate,50 mg,Stable,9
+ID0264,jaSon mOOrE md,44,Female,AB+,Obesity,2023-09-21,Michelle Gutierrez,Mayo and Sons,UnitedHealthcare,6232.00178684709,186,Emergency,2023-09-25,Inconclusive,Metformin,Severe,500 mg,Recovered,4
+ID0265,eRiC HALl,84,Male,B+,Diabetes,2020-11-25,Rachel Williams,"Huffman Hall Orozco, and",Cigna,22982.2521217276,320,Urgent,2020-12-02,Abnormal,Glipizide,Mild,5 mg,Recovered,7
+ID0266,MALIk MARtINeZ,25,Female,A+,Cancer,2020-07-10,Sergio Shelton,White-Buchanan,Aetna,28213.8154666384,296,Urgent,2020-07-18,Abnormal,Paclitaxel,Severe,175 mg,Improving,8
+ID0267,LisA KENNEdY,42,Male,B-,Arthritis,2022-12-24,Mr. Michael White MD,"and Dixon Taylor Hunter,",Cigna,10645.5658530089,251,Emergency,2023-01-06,Normal,Methotrexate,Severe,15 mg,Improving,13
+ID0268,kRIstIn ocHOA,57,Male,B+,Arthritis,2019-10-05,Mary Drake,"Anderson and Medina, Sullivan",Blue Cross,35041.0309676033,299,Elective,2019-10-20,Normal,Hydroxychloroquine,Severe,200 mg,Recovered,15
+ID0269,joSeph ZuNiGA,75,Female,O-,Arthritis,2022-03-13,Tonya Wade,PLC Dixon,Cigna,45980.292293796,101,Emergency,2022-03-26,Inconclusive,Hydroxychloroquine,Severe,200 mg,Stable,13
+ID0270,kYLe TYlER,24,Female,AB+,Obesity,2020-05-15,Charles Torres,Bowman-Keith,UnitedHealthcare,25163.8224838312,142,Elective,2020-06-10,Normal,Liraglutide,Severe,0.6 mg,Stable,26
+ID0271,eric duNCan,43,Female,AB-,Asthma,2020-12-02,Jennifer Freeman,Tyler PLC,UnitedHealthcare,43670.3781916689,181,Elective,2020-12-23,Normal,Budesonide,Moderate,200 mcg,Recovered,21
+ID0272,raChel roMERo,22,Male,AB+,Asthma,2024-01-08,Reginald Becker,Velazquez-Patton,UnitedHealthcare,33706.5976706835,282,Emergency,2024-01-15,Inconclusive,Salbutamol,Severe,2 puffs,Critical,7
+ID0273,mIcHael anDeRson,64,Female,AB-,Arthritis,2019-08-16,Charles Webb,Bass Inc,Medicare,5549.7854357922,302,Emergency,2019-09-06,Inconclusive,Naproxen,Mild,500 mg,Recovered,21
+ID0274,emILY clARK,66,Female,AB+,Arthritis,2023-03-23,Emily Perez,"Newton, Smith Ruiz and",Blue Cross,49078.4690110566,389,Elective,2023-04-19,Abnormal,Methotrexate,Moderate,15 mg,Improving,27
+ID0275,danIeL mCKINnEy,19,Male,O+,Obesity,2020-01-20,Rachel Thomas,Graham-Fisher,UnitedHealthcare,23687.9936424676,481,Emergency,2020-02-11,Normal,Metformin,Severe,500 mg,Improving,22
+ID0276,BOnnIe WILlIaMS,79,Female,B-,Diabetes,2024-01-23,Christopher Flores,Scott Ltd,UnitedHealthcare,17720.318726459,275,Elective,2024-02-22,Abnormal,Insulin,Moderate,10 units,Recovered,30
+ID0277,MARcUs henry,76,Male,B-,Asthma,2022-12-20,Jennifer Stevenson,Rosales-Sweeney,UnitedHealthcare,27361.2496848068,231,Emergency,2023-01-02,Normal,Budesonide,Moderate,200 mcg,Critical,13
+ID0278,katheRiNE HART,37,Female,A+,Obesity,2021-08-10,Matthew Garcia,"Larson Andrews, and Lynch",UnitedHealthcare,39265.6460545451,350,Elective,2021-09-03,Normal,Liraglutide,Moderate,0.6 mg,Improving,24
+ID0279,MIchelle pIeRCE,62,Male,O-,Arthritis,2020-11-23,Brett Meyer,PLC York,Aetna,32868.0827709227,114,Emergency,2020-11-28,Inconclusive,Naproxen,Severe,500 mg,Critical,5
+ID0280,Julie Mejia,80,Male,A-,Asthma,2020-02-10,David Murphy,Kelly-Watson,Blue Cross,22032.3895867422,262,Emergency,2020-02-29,Normal,Salbutamol,Severe,2 puffs,Recovered,19
+ID0281,cAMeRoN sAnChEz,49,Female,A+,Diabetes,2019-06-04,Erin Henson,"Smith Gonzalez Robinson, and",Blue Cross,43165.6940860102,428,Elective,2019-06-17,Abnormal,Insulin,Mild,10 units,Stable,13
+ID0282,davId Vincent,66,Female,O+,Obesity,2023-09-24,Katrina Fuentes,Cook-Taylor,Blue Cross,1870.60843977259,234,Emergency,2023-10-11,Inconclusive,Orlistat,Mild,120 mg,Improving,17
+ID0283,MeLiSSA gOMez,50,Male,B-,Diabetes,2021-08-16,Harold Jackson,Robinson-Reyes,Blue Cross,50254.2018311622,210,Elective,2021-08-20,Inconclusive,Insulin,Severe,10 units,Improving,4
+ID0284,AMAnDa pONCe,39,Male,AB-,Arthritis,2020-07-06,Christopher Merritt,Reid Inc,Aetna,23159.6630336393,333,Elective,2020-07-22,Inconclusive,Naproxen,Mild,500 mg,Stable,16
+ID0285,CArOl GOMEz,31,Female,B-,Diabetes,2022-12-07,Haley Kim,"Kemp and Taylor, Jones",Aetna,11469.390589717,391,Elective,2022-12-29,Abnormal,Insulin,Moderate,10 units,Stable,22
+ID0286,cHRISTopHEr PalmER,84,Male,AB-,Cancer,2023-12-29,Dr. Steven Johnson,Richards-Mack,Aetna,35435.1701526956,458,Elective,2024-01-16,Abnormal,Cisplatin,Severe,50 mg,Stable,18
+ID0287,PAUL Hahn,71,Male,O-,Cancer,2023-02-16,Erin Cole,"and Smith Harmon, Marshall",UnitedHealthcare,26139.7859488467,195,Urgent,2023-02-25,Abnormal,Paclitaxel,Moderate,175 mg,Improving,9
+ID0288,aSHLeY MOORe,79,Male,B+,Cancer,2022-05-12,Breanna Nielsen,"Velasquez and Walker Russo,",UnitedHealthcare,21296.5187269638,214,Emergency,2022-05-16,Abnormal,Cisplatin,Severe,50 mg,Recovered,4
+ID0289,lINDa haMiLTOn,56,Male,O+,Arthritis,2023-09-20,John Smith,"Harrington, and Owens Preston",UnitedHealthcare,8421.91538451632,409,Emergency,2023-09-25,Inconclusive,Hydroxychloroquine,Mild,200 mg,Improving,5
+ID0290,robiN coX,36,Male,O-,Obesity,2020-01-11,Frank Gonzalez,Downs PLC,Cigna,23892.5526692264,268,Emergency,2020-01-16,Normal,Metformin,Mild,500 mg,Stable,5
+ID0291,AnthoNY HalL,38,Male,O-,Obesity,2022-03-30,Matthew Williams,"Zhang Long Eaton, and",Blue Cross,8171.46261471492,279,Elective,2022-04-26,Inconclusive,Liraglutide,Mild,0.6 mg,Critical,27
+ID0292,roberT smitH,21,Male,AB+,Arthritis,2020-05-11,Jonathan Gray,PLC Mills,UnitedHealthcare,23457.3092865079,322,Elective,2020-05-20,Normal,Naproxen,Moderate,500 mg,Critical,9
+ID0293,dEREK CARTER,55,Female,O+,Cancer,2022-01-20,Timothy Rodriguez,"Hoffman Cox Mcdonald, and",Cigna,25787.4391437459,205,Emergency,2022-02-16,Normal,Imatinib,Mild,400 mg,Critical,27
+ID0294,HEAthER MAY,79,Female,A-,Hypertension,2019-11-13,Victor Welch,Carpenter and Sons,Blue Cross,28525.5247676882,243,Urgent,2019-11-24,Abnormal,Lisinopril,Severe,10 mg,Improving,11
+ID0295,pETer gOnzAlEZ,55,Male,AB-,Arthritis,2021-02-03,Robert Adams MD,"Collins and Moore Chan,",UnitedHealthcare,17182.8698118769,408,Emergency,2021-02-20,Abnormal,Methotrexate,Moderate,15 mg,Recovered,17
+ID0296,chrIs flEtCheR,24,Male,AB+,Asthma,2020-10-24,Andrew Jefferson,"and Wood Lewis, Monroe",Cigna,20980.3030648722,106,Elective,2020-11-15,Inconclusive,Montelukast,Moderate,10 mg,Recovered,22
+ID0297,sHIRley wiLkinsoN,39,Female,O+,Hypertension,2022-10-03,Sharon Hensley,"and Keller, Ortega Miller",Medicare,4243.20264383059,138,Urgent,2022-10-06,Abnormal,Losartan,Moderate,50 mg,Stable,3
+ID0298,COurtNey FaRRelL,63,Female,B+,Cancer,2023-12-24,Eugene Branch,"Austin, and Reynolds Duran",Cigna,40137.7891714806,467,Elective,2024-01-02,Normal,Imatinib,Moderate,400 mg,Stable,9
+ID0299,aNDReA WiLliS,26,Male,AB-,Asthma,2023-11-18,Anthony Greer,Lopez LLC,Medicare,30676.441759527,290,Elective,2023-11-26,Normal,Budesonide,Moderate,200 mcg,Recovered,8
+ID0300,cHAD huFF,76,Female,AB+,Hypertension,2024-03-12,Bob Moyer,Clark-Tran,Aetna,45594.8890706359,192,Urgent,2024-04-09,Abnormal,Lisinopril,Mild,10 mg,Recovered,28
+ID0301,dEvin giLBert,69,Male,A+,Cancer,2023-04-12,Heather Shea,"Villanueva and Carter Hughes,",Medicare,29076.629611154,135,Urgent,2023-05-07,Abnormal,Imatinib,Mild,400 mg,Improving,25
+ID0302,DOnALD davIS,38,Female,O+,Obesity,2021-06-16,Nicholas Stevenson,Ltd Osborn,Cigna,5223.50208134405,255,Emergency,2021-07-11,Abnormal,Orlistat,Severe,120 mg,Critical,25
+ID0303,KUrT murphy,19,Male,AB-,Hypertension,2021-11-24,Laura Guerra,LLC Hodge,Blue Cross,41840.6580344238,176,Elective,2021-12-13,Abnormal,Amlodipine,Moderate,5 mg,Critical,19
+ID0304,SYlvia wEsT,61,Male,B-,Obesity,2020-07-06,Michele Bradford,"Lopez and Shepard Smith,",Blue Cross,26504.8659110347,287,Emergency,2020-07-22,Normal,Liraglutide,Mild,0.6 mg,Improving,16
+ID0305,DONaLd vAZQuEZ,42,Female,AB-,Arthritis,2022-06-26,Mr. Jesse Cook,"Moss and Meadows Jones,",Cigna,7946.12911295769,111,Elective,2022-07-01,Inconclusive,Naproxen,Moderate,500 mg,Critical,5
+ID0306,REbeCCA rUsH,57,Male,AB-,Diabetes,2020-07-21,Heather Simon,Young-Williams,Cigna,18689.138447934,133,Urgent,2020-07-31,Normal,Insulin,Moderate,10 units,Recovered,10
+ID0307,ChrIstoPhER curRY,36,Female,A-,Arthritis,2019-11-04,Larry Mendez,"Bailey Morgan Frey, and",Blue Cross,30051.9750727671,482,Urgent,2019-12-03,Abnormal,Hydroxychloroquine,Severe,200 mg,Recovered,29
+ID0308,miCHaeL EdwARds,68,Female,AB+,Hypertension,2021-11-01,Taylor Smith,"Neal Price and Smith,",Medicare,22913.5542530079,124,Urgent,2021-11-03,Normal,Losartan,Mild,50 mg,Recovered,2
+ID0309,cHriSTOPheR ARnoLd,25,Female,B+,Obesity,2019-11-17,Ian Singleton,"and Johnson Hobbs Owens,",UnitedHealthcare,36238.5768493333,131,Elective,2019-11-30,Inconclusive,Metformin,Severe,500 mg,Stable,13
+ID0310,RAcheL hickmAn,37,Female,B+,Obesity,2022-12-19,Angela Burton,Melton Inc,Medicare,25217.4561843394,352,Urgent,2023-01-06,Normal,Metformin,Severe,500 mg,Stable,18
+ID0311,ashlEY grAy,68,Male,A+,Asthma,2020-10-06,Lisa Payne,and Weber Sons,Aetna,41548.408314477,124,Urgent,2020-10-20,Normal,Montelukast,Moderate,10 mg,Improving,14
+ID0312,eLiZaBeTh PeREz,81,Female,AB-,Arthritis,2022-01-16,Sara Perry,"Chung Rodriguez Bradley, and",Aetna,7562.39437964212,471,Elective,2022-01-22,Abnormal,Hydroxychloroquine,Mild,200 mg,Stable,6
+ID0313,ANgeL RaNDOlPH ddS,74,Female,A+,Asthma,2023-07-06,Ann Brown,"White Wilson and Farmer,",UnitedHealthcare,386.054054691336,165,Elective,2023-08-03,Normal,Budesonide,Mild,200 mcg,Stable,28
+ID0314,maRk SaUNderS,75,Male,O+,Arthritis,2021-06-12,David Marshall,Group Thompson,Cigna,31491.6147107443,347,Urgent,2021-06-15,Abnormal,Hydroxychloroquine,Moderate,200 mg,Improving,3
+ID0315,ChriSTiAn lAnG,74,Female,AB+,Cancer,2019-08-27,Shirley Dawson,and Sons Rangel,UnitedHealthcare,34224.3483445802,228,Elective,2019-09-01,Abnormal,Cisplatin,Mild,50 mg,Improving,5
+ID0316,Pam perKIns,28,Female,AB-,Diabetes,2022-05-17,Susan Hernandez,"Travis, and Richardson Hampton",Medicare,23673.7217393301,354,Urgent,2022-06-12,Abnormal,Glipizide,Moderate,5 mg,Recovered,26
+ID0317,kAyLA GrEENe,35,Male,AB+,Hypertension,2020-10-02,Gina Edwards,"and Wilson Matthews, Faulkner",UnitedHealthcare,40301.9973092428,250,Elective,2020-10-17,Inconclusive,Lisinopril,Severe,10 mg,Improving,15
+ID0318,mIcHAEl daVId,79,Female,O+,Asthma,2021-08-20,Laura Howell,Group Bailey,Medicare,37116.1638141008,225,Elective,2021-09-16,Abnormal,Salbutamol,Mild,2 puffs,Improving,27
+ID0319,aLeXIs mCcALl,59,Female,O-,Asthma,2019-11-05,Scott Beltran,Rosales-Johnson,Aetna,38606.9637968325,357,Elective,2019-11-17,Inconclusive,Montelukast,Severe,10 mg,Stable,12
+ID0320,mr. brandON perEz md,84,Female,O-,Arthritis,2024-02-06,William Campbell,Bush-Brown,Cigna,17813.9305038873,140,Emergency,2024-02-28,Inconclusive,Hydroxychloroquine,Mild,200 mg,Improving,22
+ID0321,dr. jeffREy ColE,36,Female,O-,Asthma,2024-02-07,Ethan Brock,Saunders-Smith,Aetna,20773.0233188859,352,Urgent,2024-02-21,Normal,Budesonide,Mild,200 mcg,Improving,14
+ID0322,maTthEw broWN,69,Male,O+,Arthritis,2023-06-22,Nicholas Gomez,"and Mckay, Morrow Myers",Blue Cross,9609.52230714936,404,Urgent,2023-07-11,Normal,Naproxen,Moderate,500 mg,Recovered,19
+ID0323,RoBErT sExtON,54,Male,A-,Cancer,2020-11-19,Richard Buchanan,Sherman-Martinez,Blue Cross,3771.23716557387,426,Urgent,2020-11-27,Abnormal,Cisplatin,Mild,50 mg,Stable,8
+ID0324,ashLEy vasQUEZ,30,Female,O+,Asthma,2021-11-24,David Gonzalez,"Baker, Weber Patton and",Medicare,51587.936816502,236,Emergency,2021-12-07,Abnormal,Budesonide,Severe,200 mcg,Recovered,13
+ID0325,mIcHelLe FLYnn,31,Male,O-,Cancer,2019-07-26,Kristin Schmitt,"and Fitzgerald Shaw, Edwards",Medicare,28456.6985574468,395,Elective,2019-07-29,Inconclusive,Paclitaxel,Moderate,175 mg,Improving,3
+ID0326,StEVEn trAn,81,Female,AB+,Cancer,2022-07-05,Kelly King,Kim-Higgins,Cigna,33870.1209049485,194,Elective,2022-07-08,Abnormal,Imatinib,Moderate,400 mg,Stable,3
+ID0327,JAMeS MilLeR,61,Female,O+,Diabetes,2019-08-29,Jeffery Morgan,"Morgan, Kramer Munoz and",Medicare,2303.99842275666,408,Elective,2019-09-07,Normal,Glipizide,Mild,5 mg,Recovered,9
+ID0328,Bonnie hiLl,52,Male,B+,Hypertension,2024-05-02,Patricia Fowler,Harvey Group,Aetna,1878.00730181789,188,Elective,2024-05-21,Abnormal,Amlodipine,Mild,5 mg,Improving,19
+ID0329,AnTHONy DaviS,25,Male,B+,Asthma,2020-05-26,David Patterson,Mercer-Rogers,Blue Cross,19160.993728264,361,Elective,2020-05-31,Normal,Montelukast,Severe,10 mg,Improving,5
+ID0330,DaViD ShEPPArD,56,Male,B+,Cancer,2024-03-20,Daisy Eaton,Duran Sons and,Blue Cross,5811.62985103773,176,Urgent,2024-04-06,Normal,Imatinib,Severe,400 mg,Improving,17
+ID0331,JOdi LAnG,44,Male,O+,Diabetes,2024-03-27,Benjamin Bryant,"Vaughan Parker and Wagner,",Medicare,22868.5303422015,295,Elective,2024-04-08,Abnormal,Insulin,Moderate,10 units,Stable,12
+ID0332,VaNeSSa TAylor,30,Female,O+,Arthritis,2021-03-22,Cynthia Velazquez,Lee-Jacobson,Blue Cross,48281.911940192,415,Urgent,2021-03-25,Abnormal,Naproxen,Mild,500 mg,Stable,3
+ID0333,WAYnE lyncH,82,Male,O-,Cancer,2020-10-03,William Brock,"Hayes Robbins and Gallagher,",Medicare,30562.5676252004,185,Emergency,2020-10-28,Abnormal,Imatinib,Severe,400 mg,Improving,25
+ID0334,YEsENiA MCfarland,67,Male,B+,Obesity,2023-05-17,Douglas Lambert,"Evans and Byrd, Smith",Medicare,24293.6330258266,278,Emergency,2023-05-31,Normal,Metformin,Moderate,500 mg,Stable,14
+ID0335,KEnNETH WilSON,41,Male,A+,Arthritis,2022-08-12,Alex Mcknight,and Howell Sons,Aetna,5878.77885332326,358,Emergency,2022-08-31,Abnormal,Methotrexate,Severe,15 mg,Improving,19
+ID0336,JIlLiAn MArks,84,Male,A-,Arthritis,2020-06-20,Gregory Fox,"Clements and Scott, Peters",UnitedHealthcare,28410.4387679273,451,Urgent,2020-06-22,Abnormal,Naproxen,Severe,500 mg,Improving,2
+ID0337,MiCHELLe cruz ddS,85,Female,AB+,Asthma,2023-04-20,Carrie Navarro,Gomez-Olson,Medicare,27414.0188047217,390,Emergency,2023-05-05,Normal,Montelukast,Moderate,10 mg,Stable,15
+ID0338,CLaREnce fORD jr.,26,Female,A-,Hypertension,2019-10-28,Laura Murillo,"and Medina Morgan, Whitehead",Aetna,5826.24402705413,226,Emergency,2019-11-21,Abnormal,Amlodipine,Moderate,5 mg,Stable,24
+ID0339,DonAlD kaNe,49,Female,O+,Diabetes,2021-08-31,Alyssa Walsh,Miller LLC,Cigna,2133.73720227139,189,Urgent,2021-09-05,Normal,Glipizide,Mild,5 mg,Recovered,5
+ID0340,ZaChaRY LARsEN,47,Female,A+,Hypertension,2021-07-14,Jeff Barton,Jones-Aguirre,Blue Cross,34262.609469234,112,Urgent,2021-08-06,Inconclusive,Losartan,Severe,50 mg,Improving,23
+ID0341,sHeRYl MaRTinez,69,Male,A-,Diabetes,2022-01-21,Ricky Anderson,PLC Gonzalez,Aetna,44897.0490148505,283,Elective,2022-02-02,Normal,Metformin,Mild,500 mg,Improving,12
+ID0342,mr. NaTHAN avILA,78,Female,O+,Asthma,2019-09-16,John Hurst,and Davies Sons,Cigna,22230.1227639829,439,Urgent,2019-10-16,Normal,Montelukast,Moderate,10 mg,Recovered,30
+ID0343,aNnE aNTHONY,29,Male,AB+,Diabetes,2023-01-20,Cristina Wyatt,Soto-Richmond,Cigna,32895.1018913032,123,Urgent,2023-01-29,Abnormal,Metformin,Severe,500 mg,Improving,9
+ID0344,hOlly LaMBERt,73,Male,A+,Cancer,2020-01-04,Christina Fowler,"and Morrison Ho Woods,",Medicare,5349.05611631197,469,Emergency,2020-01-16,Normal,Imatinib,Mild,400 mg,Improving,12
+ID0345,JAmes rASmuSsen,53,Male,AB-,Obesity,2024-03-03,Gary Barr,Lewis and Sons,Cigna,23235.8544100344,442,Elective,2024-03-15,Inconclusive,Orlistat,Moderate,120 mg,Improving,12
+ID0346,SaRAH cannON,34,Male,AB+,Diabetes,2019-07-06,Frederick Whitney,Wood-Sandoval,Aetna,25683.2798622156,295,Elective,2019-08-01,Inconclusive,Insulin,Mild,10 units,Improving,26
+ID0347,melInda tannER,38,Female,AB-,Obesity,2022-12-01,Mary Miller,Ball LLC,Cigna,45560.2818387258,309,Elective,2022-12-03,Normal,Liraglutide,Moderate,0.6 mg,Critical,2
+ID0348,LauriE josEPh,70,Female,B-,Arthritis,2020-05-10,Evan Lewis,Scott LLC,UnitedHealthcare,16850.8863121927,230,Urgent,2020-05-30,Abnormal,Naproxen,Severe,500 mg,Improving,20
+ID0349,stEPHAnIe hUnteR,59,Female,AB+,Hypertension,2024-03-10,Adrienne Howard,"and Wright, Long Schroeder",Aetna,34365.9971239597,157,Elective,2024-03-16,Inconclusive,Losartan,Mild,50 mg,Improving,6
+ID0350,gIna daviS,43,Male,AB+,Arthritis,2020-01-14,Daniel Jones,Ltd Crawford,UnitedHealthcare,11968.0238168351,171,Urgent,2020-01-19,Inconclusive,Hydroxychloroquine,Mild,200 mg,Critical,5
+ID0351,chRiStoPheR sHEA Jr.,49,Male,B-,Diabetes,2020-06-07,Craig Wolfe,Group Moore,Cigna,10076.8925329912,380,Elective,2020-06-26,Inconclusive,Glipizide,Severe,5 mg,Improving,19
+ID0352,MrS. SabRIna BaLL,63,Male,AB-,Asthma,2020-11-11,Tina Griffin,Burch-Marks,Blue Cross,44582.8173592592,189,Elective,2020-11-30,Abnormal,Salbutamol,Mild,2 puffs,Recovered,19
+ID0353,JoyCe McCoRmIcK,40,Female,O+,Asthma,2021-05-07,John Hansen,Koch-Alvarado,Medicare,30334.9890660505,102,Urgent,2021-05-31,Abnormal,Salbutamol,Moderate,2 puffs,Improving,24
+ID0354,DEVIN bElL,80,Male,B-,Arthritis,2021-07-13,Trevor Evans,"Garcia Edwards and Daniel,",Cigna,6196.6351360699,484,Urgent,2021-08-05,Normal,Hydroxychloroquine,Mild,200 mg,Recovered,23
+ID0355,alLISoN rAmiREZ,74,Female,B+,Cancer,2024-03-25,Mark Johnson,Carter-Camacho,Cigna,45438.9069463693,256,Emergency,2024-04-03,Normal,Cisplatin,Severe,50 mg,Stable,9
+ID0356,lauRA roMERO,70,Male,O+,Diabetes,2020-03-25,James Hays,Malone LLC,Aetna,43707.1792421981,365,Urgent,2020-04-02,Normal,Insulin,Severe,10 units,Stable,8
+ID0357,TONi fAULKNer,39,Female,AB-,Diabetes,2023-05-14,Nicholas Ferguson,Zamora PLC,Blue Cross,20105.0299292768,286,Urgent,2023-05-20,Normal,Glipizide,Moderate,5 mg,Improving,6
+ID0358,patrIcia tuRnEr,47,Female,AB+,Diabetes,2022-11-19,Mr. Jeffrey Powell,Ltd Hernandez,UnitedHealthcare,11938.0676946801,452,Urgent,2022-11-23,Normal,Metformin,Severe,500 mg,Recovered,4
+ID0359,naThaN rAy,49,Male,AB+,Diabetes,2021-03-10,Timothy Carter,"Gomez Ray, and Jones",Cigna,10836.2112173349,481,Emergency,2021-03-30,Abnormal,Metformin,Mild,500 mg,Critical,20
+ID0360,RYan sAnCHeZ,64,Male,A-,Obesity,2020-11-15,Jennifer Gonzales,"Davis, Ray and Thompson",Cigna,40037.4799867787,278,Urgent,2020-11-20,Inconclusive,Liraglutide,Moderate,0.6 mg,Critical,5
+ID0361,tHOMas DENnIs,40,Male,A+,Asthma,2024-01-28,Leonard Chen,Mckinney-Edwards,Medicare,42959.2998143182,410,Elective,2024-02-21,Abnormal,Montelukast,Moderate,10 mg,Stable,24
+ID0362,mR. timOtHY FLoRES,77,Male,A-,Arthritis,2020-07-07,Margaret Ramos,Parker-Shannon,Medicare,40196.8252778048,152,Urgent,2020-08-05,Abnormal,Hydroxychloroquine,Moderate,200 mg,Improving,29
+ID0363,WeNDy lEVIne,61,Male,AB-,Hypertension,2023-01-22,Joy Davis,Lawrence LLC,Aetna,39827.6634172361,172,Elective,2023-01-27,Inconclusive,Losartan,Mild,50 mg,Critical,5
+ID0364,nicOLe gOnzAleZ,36,Female,A-,Asthma,2020-05-10,Mary Mckee,"and Thompson Burke, Harrington",Aetna,3516.84785009067,314,Emergency,2020-05-24,Inconclusive,Salbutamol,Severe,2 puffs,Critical,14
+ID0365,miCHaeL eLlIsoN,19,Female,O+,Diabetes,2021-07-09,John Evans,"Johnson Goodman Clark, and",Cigna,25414.7959336239,283,Elective,2021-08-04,Abnormal,Glipizide,Mild,5 mg,Improving,26
+ID0366,BRAndON dAVIS,21,Male,O-,Cancer,2020-06-11,Benjamin Payne,"Doyle Hess, and Dudley",Cigna,36230.3877609556,404,Elective,2020-06-21,Inconclusive,Paclitaxel,Moderate,175 mg,Critical,10
+ID0367,vaNESsa GArCia,49,Male,AB-,Asthma,2020-04-21,Jeanne Allen,Bass PLC,UnitedHealthcare,22427.1741373668,197,Emergency,2020-05-09,Inconclusive,Salbutamol,Moderate,2 puffs,Critical,18
+ID0368,AUtUmn PEck,62,Female,A+,Obesity,2019-10-06,Kelly Jackson,"Willis and Hunt Pope,",Cigna,39250.4474387077,110,Urgent,2019-11-04,Normal,Liraglutide,Severe,0.6 mg,Recovered,29
+ID0369,NAthAnIEL REynoLdS,54,Female,O-,Hypertension,2020-07-11,Michael Barber,"Gray, Hensley and Hanson",UnitedHealthcare,5226.00129713463,437,Urgent,2020-07-31,Normal,Losartan,Mild,50 mg,Stable,20
+ID0370,JOYCE MoOdY,22,Male,AB-,Obesity,2022-04-03,Steven Clark,Moore-Woods,Cigna,7732.67226473495,397,Elective,2022-04-17,Abnormal,Metformin,Severe,500 mg,Improving,14
+ID0371,MaRK FuEnTes,74,Male,A-,Hypertension,2020-01-21,Amy Bailey,Moore-Franco,Medicare,11304.0025772337,419,Urgent,2020-01-29,Abnormal,Amlodipine,Severe,5 mg,Stable,8
+ID0372,brETT FerGusoN,35,Female,A+,Asthma,2022-12-16,Cody Houston,Hamilton and Sons,UnitedHealthcare,38403.5765782834,476,Elective,2023-01-08,Abnormal,Montelukast,Severe,10 mg,Stable,23
+ID0373,TravIS SiMMOnS,20,Male,B-,Asthma,2022-07-20,Gregory Nichols,Burke Group,UnitedHealthcare,14039.88613756,416,Emergency,2022-07-29,Inconclusive,Budesonide,Mild,200 mcg,Critical,9
+ID0374,jEremY fRye,18,Female,B-,Cancer,2021-07-25,Christopher Odom,Anderson LLC,UnitedHealthcare,6958.6976712132,493,Elective,2021-07-28,Abnormal,Paclitaxel,Mild,175 mg,Stable,3
+ID0375,cAmerOn MilLER,55,Female,O+,Cancer,2023-07-19,Raymond Bell,Sims-Jimenez,Medicare,3254.03221968062,404,Urgent,2023-08-02,Normal,Cisplatin,Moderate,50 mg,Critical,14
+ID0376,wilLIAM wiLliams dDS,66,Male,B-,Diabetes,2023-05-22,Autumn Fitzgerald,Holloway PLC,Aetna,11855.9520190659,123,Urgent,2023-06-08,Inconclusive,Metformin,Moderate,500 mg,Improving,17
+ID0377,tRACIe WrigHt,62,Female,O-,Hypertension,2020-07-08,James Armstrong,Cain-Stone,Blue Cross,22368.3759384447,461,Emergency,2020-07-25,Inconclusive,Losartan,Severe,50 mg,Improving,17
+ID0378,DaVid reyEs,43,Female,A-,Asthma,2022-12-27,Darius Schaefer,Garner Group,Medicare,48511.6547338423,172,Urgent,2023-01-24,Inconclusive,Salbutamol,Severe,2 puffs,Recovered,28
+ID0379,pAiGE KIng,24,Female,B-,Diabetes,2019-06-21,Katherine Dunn,Ltd Logan,Aetna,10126.5025725437,242,Urgent,2019-07-12,Abnormal,Glipizide,Mild,5 mg,Recovered,21
+ID0380,James gArCIA,46,Female,O+,Diabetes,2021-01-01,Katherine Flynn,Bishop PLC,UnitedHealthcare,8470.64129955333,328,Elective,2021-01-27,Inconclusive,Glipizide,Moderate,5 mg,Improving,26
+ID0381,lOri hArvEY,58,Male,AB-,Asthma,2022-09-07,Julian Perkins,Lewis-Mitchell,Medicare,25086.0139150671,476,Urgent,2022-09-28,Inconclusive,Budesonide,Moderate,200 mcg,Stable,21
+ID0382,amy wANG,58,Male,B+,Obesity,2022-06-09,Holly Taylor,and Campbell Sons,Cigna,36524.3772465517,371,Urgent,2022-06-26,Abnormal,Orlistat,Mild,120 mg,Recovered,17
+ID0383,joRDAn vARgaS,48,Male,B+,Cancer,2023-11-01,Mark King,James PLC,UnitedHealthcare,5945.0118164359,431,Elective,2023-11-10,Inconclusive,Cisplatin,Severe,50 mg,Improving,9
+ID0384,GORDON kELLY,43,Male,O-,Obesity,2023-08-06,Shelby Johnson,Colon-Meyer,Blue Cross,3601.68167937205,409,Urgent,2023-08-13,Inconclusive,Orlistat,Mild,120 mg,Recovered,7
+ID0385,nathaN Scott,74,Female,AB+,Obesity,2022-07-30,Angela Logan MD,"and Woods Liu, Berry",Cigna,4920.19041843111,135,Elective,2022-08-25,Abnormal,Metformin,Mild,500 mg,Critical,26
+ID0386,LiSA grEEn,47,Female,AB-,Diabetes,2021-02-04,Gloria Schultz,LLC Clayton,UnitedHealthcare,48887.2345242024,105,Elective,2021-02-28,Inconclusive,Metformin,Severe,500 mg,Critical,24
+ID0387,amY CoMbS,35,Male,A+,Cancer,2021-11-26,Victor Morales,Le-Hawkins,Blue Cross,48826.3870565796,142,Urgent,2021-12-09,Normal,Imatinib,Moderate,400 mg,Critical,13
+ID0388,KelLY sANfoRD,28,Male,B-,Arthritis,2020-07-02,Nancy Vaughn,"Martinez Taylor Lopez, and",UnitedHealthcare,5509.59580144552,313,Emergency,2020-07-03,Abnormal,Naproxen,Moderate,500 mg,Critical,1
+ID0389,mrs. jEssIcA BlAck md,49,Male,A-,Diabetes,2021-08-09,Christopher Rivera,Williams Group,Medicare,37636.4416616169,385,Elective,2021-09-06,Normal,Metformin,Severe,500 mg,Stable,28
+ID0390,rObERT GoulD,28,Male,AB-,Obesity,2024-01-18,Brittany Rocha,Schmidt-Douglas,Cigna,20885.9195075241,247,Emergency,2024-02-04,Inconclusive,Orlistat,Severe,120 mg,Improving,17
+ID0391,cHRISTiNe VArgaS,50,Male,O-,Obesity,2023-01-17,Patricia Hall,Ltd Fleming,Aetna,35114.4899739483,183,Elective,2023-02-10,Normal,Metformin,Moderate,500 mg,Recovered,24
+ID0392,BARbara dIaZ,59,Male,A-,Obesity,2024-03-27,Christopher Hudson,"Smith Brown Wallace, and",Blue Cross,6191.39265563093,192,Elective,2024-04-21,Normal,Liraglutide,Mild,0.6 mg,Improving,25
+ID0393,jOHn washIngtON,22,Female,O+,Hypertension,2023-01-10,Walter Perez,Boyer Inc,Blue Cross,40697.9689475451,116,Elective,2023-01-23,Normal,Amlodipine,Mild,5 mg,Improving,13
+ID0394,DEVIn stEWaRt,62,Female,B+,Arthritis,2019-07-14,Jonathan Chang,Miranda-Collins,Aetna,43465.9527835804,325,Urgent,2019-07-18,Normal,Methotrexate,Moderate,15 mg,Improving,4
+ID0395,JAMeS ROBeRTs,21,Female,A+,Cancer,2020-05-18,Maria Ritter,Hoffman and Sons,Cigna,16866.0688240055,177,Elective,2020-06-02,Normal,Cisplatin,Severe,50 mg,Recovered,15
+ID0396,JaMes YATEs,44,Male,B-,Obesity,2022-06-15,Elizabeth Snyder,Group Ortega,Aetna,41454.6852615562,328,Emergency,2022-06-25,Inconclusive,Metformin,Mild,500 mg,Stable,10
+ID0397,PeTEr nIcHOLs,27,Male,B+,Hypertension,2020-03-27,Dennis Harris,"Mitchell, Vasquez and Chaney",Cigna,47735.3842426511,221,Urgent,2020-04-05,Normal,Amlodipine,Severe,5 mg,Stable,9
+ID0398,karen pRice,47,Male,O-,Diabetes,2020-02-20,Caroline Fields,Villa-Simpson,UnitedHealthcare,2826.81298129957,256,Elective,2020-03-01,Normal,Glipizide,Moderate,5 mg,Critical,10
+ID0399,chRisTOPHEr jONes,51,Male,O-,Hypertension,2020-06-16,Joseph Rivera,LLC Haynes,Blue Cross,26524.172804251,426,Elective,2020-06-21,Inconclusive,Amlodipine,Severe,5 mg,Critical,5
+ID0400,LaRRY LeoNarD,48,Female,B-,Hypertension,2019-06-06,Charles Reynolds,Inc Cummings,UnitedHealthcare,36727.5810051217,386,Urgent,2019-07-02,Normal,Lisinopril,Moderate,10 mg,Recovered,26
+ID0401,MiChELle zHaNg,83,Male,B-,Arthritis,2022-01-18,Patricia Valentine,Downs-Stephens,Blue Cross,4509.40306089449,175,Elective,2022-02-05,Abnormal,Methotrexate,Severe,15 mg,Improving,18
+ID0402,kriSTEn FlOrES,64,Male,A+,Arthritis,2021-01-11,Angela Reed,"Carson and Nielsen, Buchanan",Aetna,25709.5844317189,180,Elective,2021-01-23,Abnormal,Naproxen,Severe,500 mg,Recovered,12
+ID0403,MaTThEW bELl,19,Male,O+,Obesity,2021-02-04,Doris Johnson,Hicks-Perez,Medicare,20086.2171028671,270,Urgent,2021-02-15,Abnormal,Orlistat,Moderate,120 mg,Stable,11
+ID0404,brADLeY MIraNdA,39,Male,B-,Asthma,2022-05-30,Devin Pratt,"Wilson and Brown, Ortiz",UnitedHealthcare,36862.1718029631,338,Elective,2022-06-01,Inconclusive,Budesonide,Severe,200 mcg,Critical,2
+ID0405,cHRIsToPheR mOORE,23,Female,O+,Hypertension,2021-12-19,Angela Allison,Berg-Mcconnell,Blue Cross,40065.3388929749,360,Elective,2021-12-30,Normal,Losartan,Moderate,50 mg,Improving,11
+ID0406,dan PINEDA,24,Male,B+,Diabetes,2021-07-20,Phyllis Nguyen,Gilbert Ltd,UnitedHealthcare,41997.354559282,252,Elective,2021-08-07,Abnormal,Metformin,Severe,500 mg,Critical,18
+ID0407,maRIaH SmiTH,73,Female,AB-,Cancer,2022-12-27,Melissa Mendoza,Gutierrez-Webster,Blue Cross,22601.5674468481,215,Elective,2023-01-19,Abnormal,Imatinib,Severe,400 mg,Critical,23
+ID0408,saBRINa cOoK,56,Male,O-,Obesity,2022-09-05,Christopher Bates,Group Thompson,UnitedHealthcare,36204.7323306432,430,Urgent,2022-10-04,Normal,Liraglutide,Moderate,0.6 mg,Stable,29
+ID0409,MelIssA hOFfMAN,36,Male,B+,Cancer,2022-07-27,April Cummings,Cooley-Reid,Cigna,41311.2939011373,434,Emergency,2022-08-19,Inconclusive,Paclitaxel,Severe,175 mg,Stable,23
+ID0410,Joseph MARtiN,33,Male,A+,Cancer,2024-05-03,Andrew Hill,"and Davenport Davis Hobbs,",Aetna,36890.2690549742,374,Elective,2024-05-15,Normal,Imatinib,Severe,400 mg,Recovered,12
+ID0411,meLissA SIms,21,Male,O+,Arthritis,2019-08-28,Susan Sampson,Thompson-Becker,Aetna,5716.10420761612,293,Emergency,2019-09-16,Abnormal,Hydroxychloroquine,Moderate,200 mg,Recovered,19
+ID0412,SaraH evans,80,Male,B-,Diabetes,2024-04-21,Darren Becker,Mitchell Inc,Blue Cross,10461.9806850176,481,Emergency,2024-05-07,Abnormal,Metformin,Moderate,500 mg,Improving,16
+ID0413,mARIA ANDeRsON,79,Female,O+,Arthritis,2024-03-12,Lee Santiago,"Mack, Wilson and Fowler",Blue Cross,37879.9790316402,110,Urgent,2024-04-04,Abnormal,Hydroxychloroquine,Severe,200 mg,Critical,23
+ID0414,MariA JOHnStON,44,Male,A+,Obesity,2019-09-29,Holly Walton,"Johnson Garcia, and Anthony",UnitedHealthcare,44355.2041501939,177,Elective,2019-10-05,Inconclusive,Liraglutide,Severe,0.6 mg,Improving,6
+ID0415,JaMES COle,23,Male,AB+,Obesity,2022-08-19,Craig Howard,"and Young Powell Mitchell,",Medicare,28355.4524572653,327,Urgent,2022-08-24,Normal,Metformin,Moderate,500 mg,Stable,5
+ID0416,iSaiaH hOlT,75,Male,A-,Cancer,2021-10-18,Diane Riley,Bishop Inc,Blue Cross,22935.4117080103,217,Elective,2021-11-01,Normal,Imatinib,Mild,400 mg,Critical,14
+ID0417,joSEPH gonzaLeS,60,Male,A-,Hypertension,2023-04-07,John Schroeder,Coleman-Dawson,Medicare,42605.6353407704,366,Elective,2023-05-05,Normal,Losartan,Moderate,50 mg,Recovered,28
+ID0418,JenNiFEr CAMaCho,83,Male,AB-,Asthma,2019-10-28,Mark Watson,Cunningham-King,UnitedHealthcare,24023.9561228201,118,Elective,2019-11-24,Inconclusive,Salbutamol,Severe,2 puffs,Critical,27
+ID0419,HecTOR jonES,61,Female,AB+,Hypertension,2020-06-29,Diane Griffin,Anderson PLC,UnitedHealthcare,20577.7089266596,387,Elective,2020-07-26,Normal,Lisinopril,Mild,10 mg,Improving,27
+ID0420,jEsSIcA jOnes Dds,82,Female,AB+,Diabetes,2022-09-21,Kenneth Mcintosh,"Freeman King Hodges, and",Aetna,7264.88503735054,237,Emergency,2022-10-03,Normal,Glipizide,Moderate,5 mg,Improving,12
+ID0421,IsaBeLlA martIn,40,Male,A-,Arthritis,2023-08-10,Victoria Hernandez,Sons Wilson and,Cigna,29913.8493301869,317,Urgent,2023-08-15,Normal,Naproxen,Severe,500 mg,Critical,5
+ID0422,daNiEL pALMeR,70,Female,B+,Hypertension,2022-05-16,David Zavala,Woodward Ltd,Cigna,43353.4039523194,266,Elective,2022-05-26,Normal,Lisinopril,Moderate,10 mg,Improving,10
+ID0423,sTEPhanIe BeNsoN,68,Female,O+,Cancer,2020-08-25,Frederick Fields,"Powell Branch Osborn, and",Blue Cross,18382.6640546501,355,Elective,2020-09-15,Abnormal,Cisplatin,Severe,50 mg,Improving,21
+ID0424,AshleY WiLliamS,31,Female,B-,Cancer,2023-10-04,Michael Nguyen,"Brown Brown, and Sanders",Blue Cross,49419.8680145578,328,Elective,2023-10-11,Inconclusive,Cisplatin,Moderate,50 mg,Stable,7
+ID0425,GReGOrY NguYEn,28,Male,O+,Asthma,2022-04-28,Casey Fowler,Harris-Oconnor,Aetna,9958.02390082405,364,Emergency,2022-05-27,Inconclusive,Salbutamol,Severe,2 puffs,Recovered,29
+ID0426,joE SmItH,84,Male,O+,Hypertension,2019-05-29,Michael Miller,"Paul Richardson Haynes, and",Blue Cross,21438.2789859338,217,Elective,2019-06-17,Abnormal,Lisinopril,Severe,10 mg,Recovered,19
+ID0427,LIsa wATTS,34,Female,AB+,Arthritis,2024-03-09,Kaylee Hampton,Patterson-Lee,Aetna,1820.01582071994,356,Emergency,2024-03-23,Abnormal,Naproxen,Severe,500 mg,Stable,14
+ID0428,alexAnDER GArcia,25,Female,B+,Hypertension,2020-01-07,Amber Gordon,"and Yang Fox Scott,",Cigna,32760.4687598798,476,Urgent,2020-02-01,Normal,Amlodipine,Moderate,5 mg,Critical,25
+ID0429,ElIzabETh PErKINs,58,Female,B+,Asthma,2019-11-10,Colleen Meyers,"Burch, and Sexton Sandoval",Medicare,35421.8258254822,134,Elective,2019-12-06,Abnormal,Montelukast,Mild,10 mg,Stable,26
+ID0430,LAuRA WELLS,78,Female,O+,Diabetes,2023-01-24,Eileen Hernandez,"Johnson and Delgado, Bennett",Medicare,44393.1805276552,169,Elective,2023-02-01,Inconclusive,Metformin,Severe,500 mg,Recovered,8
+ID0431,robErT mCcORmICk,56,Male,AB+,Diabetes,2019-07-28,Carrie Wright,Garza Group,Blue Cross,16578.9058365789,282,Urgent,2019-08-26,Inconclusive,Insulin,Severe,10 units,Stable,29
+ID0432,MICHAEL yu,77,Male,AB-,Arthritis,2022-07-18,Jeffrey Schmidt,"Olson, Andrade and Dixon",Medicare,33749.8587685578,112,Emergency,2022-08-07,Abnormal,Methotrexate,Mild,15 mg,Improving,20
+ID0433,jacOB GRaHam,61,Female,A+,Asthma,2020-06-07,Jaime Bell,Fisher Inc,UnitedHealthcare,3903.75624349977,301,Urgent,2020-07-01,Abnormal,Montelukast,Severe,10 mg,Stable,24
+ID0434,aNdrea kenNedy,40,Female,B-,Cancer,2020-12-07,Brian Cooper,Farrell-Lyons,Medicare,22720.3337033833,463,Emergency,2020-12-20,Abnormal,Cisplatin,Mild,50 mg,Improving,13
+ID0435,StacEY aNderson,80,Male,AB-,Diabetes,2020-04-10,Anthony Graves,"Greer Cain and Taylor,",Medicare,35411.4713737896,282,Elective,2020-04-30,Abnormal,Glipizide,Mild,5 mg,Recovered,20
+ID0436,jasOn mArsh,35,Male,A-,Hypertension,2023-07-12,Traci White MD,Turner Ltd,Medicare,27342.2267434525,279,Urgent,2023-07-22,Normal,Losartan,Severe,50 mg,Improving,10
+ID0437,tiFfAnY FErguSON,85,Female,A+,Cancer,2022-09-10,Eric Lutz,Johnson Group,Blue Cross,27971.2803607663,120,Emergency,2022-09-14,Abnormal,Paclitaxel,Mild,175 mg,Improving,4
+ID0438,mark hErnaNdEZ,64,Male,AB-,Hypertension,2021-04-15,Brenda Hill,Sherman Inc,Cigna,26894.074932347,208,Emergency,2021-05-07,Normal,Amlodipine,Severe,5 mg,Stable,22
+ID0439,KEITH HenRy,30,Female,O-,Cancer,2020-08-20,Peter Brown,"and Garcia Wade Richardson,",Medicare,36551.0547516079,111,Emergency,2020-08-23,Abnormal,Cisplatin,Mild,50 mg,Improving,3
+ID0440,mIChelLE WRIghT,19,Female,A+,Arthritis,2020-08-14,Benjamin Banks,White-Graham,Medicare,10693.3892640976,435,Elective,2020-08-28,Abnormal,Naproxen,Mild,500 mg,Stable,14
+ID0441,TRoY DaVIS,64,Male,A+,Diabetes,2021-07-17,Natalie Perez,and Miller Sons,UnitedHealthcare,28835.4411907577,270,Urgent,2021-08-03,Inconclusive,Insulin,Severe,10 units,Improving,17
+ID0442,MiSty burton,44,Male,B+,Diabetes,2023-01-27,Erica Williams,"Taylor, and Mullins Lara",Medicare,7083.61426633701,317,Elective,2023-02-02,Inconclusive,Metformin,Severe,500 mg,Improving,6
+ID0443,RObERt rObINsOn,66,Female,O-,Asthma,2020-09-04,Jasmine Webb,"and King, Vega Jones",Medicare,2068.42920362951,302,Urgent,2020-09-20,Inconclusive,Budesonide,Mild,200 mcg,Improving,16
+ID0444,CHrISTiNA caldeROn,79,Female,AB+,Hypertension,2020-02-08,David Cabrera,Alvarez-Cruz,Blue Cross,42956.1289529578,382,Elective,2020-02-21,Normal,Amlodipine,Severe,5 mg,Recovered,13
+ID0445,JOhN GRahAm,59,Female,O+,Diabetes,2019-07-01,Julie Gonzales,"Walker Cisneros and Adams,",Aetna,17307.366222435,255,Urgent,2019-07-05,Abnormal,Glipizide,Mild,5 mg,Recovered,4
+ID0446,mICHAEl PARkER,47,Male,O+,Asthma,2024-01-01,Julia Campbell,Ltd Lewis,Aetna,41492.1275888982,388,Elective,2024-01-12,Normal,Montelukast,Severe,10 mg,Stable,11
+ID0447,WIlliAm EVANs,49,Male,AB+,Obesity,2021-03-10,Zachary Robinson,Esparza-Martinez,UnitedHealthcare,16097.762164349,310,Emergency,2021-04-07,Normal,Liraglutide,Moderate,0.6 mg,Stable,28
+ID0448,vAlEriE hodgES,35,Male,AB+,Cancer,2019-09-19,Christine Smith,"Baker Hernandez and Scott,",Blue Cross,44495.7310384766,469,Elective,2019-10-16,Inconclusive,Paclitaxel,Mild,175 mg,Recovered,27
+ID0449,brENda BecK,69,Female,B+,Obesity,2023-02-24,Barbara Burgess,Group Lopez,Blue Cross,2936.89449862293,223,Emergency,2023-02-25,Abnormal,Orlistat,Severe,120 mg,Critical,1
+ID0450,CHrISTIne DAvIs,57,Male,O+,Obesity,2022-03-30,Malik Goodwin,"and Le Martin Young,",UnitedHealthcare,43374.0114646903,232,Emergency,2022-04-14,Inconclusive,Liraglutide,Moderate,0.6 mg,Stable,15
+ID0451,keVIN dANiEl,51,Female,A+,Asthma,2019-08-30,Diana Shaw,PLC Cook,Aetna,6949.87564499535,366,Urgent,2019-09-17,Inconclusive,Budesonide,Mild,200 mcg,Critical,18
+ID0452,BRIttney WagNER,31,Female,O+,Arthritis,2019-12-21,Michael Mason,"Baker, Davis Hill and",Blue Cross,15449.0639737078,384,Elective,2019-12-31,Abnormal,Hydroxychloroquine,Mild,200 mg,Recovered,10
+ID0453,criStIaN bUChANAn,34,Female,A-,Obesity,2019-08-31,Alexis Bradford,Johnson-Gray,Blue Cross,37458.159278941,184,Elective,2019-09-28,Abnormal,Metformin,Severe,500 mg,Critical,28
+ID0454,MiCHAEl bRady,57,Male,O+,Cancer,2022-03-30,Jasmine Parker,"Mitchell, and Garcia Saunders",Medicare,5919.30008439826,455,Elective,2022-04-11,Normal,Cisplatin,Mild,50 mg,Improving,12
+ID0455,jOrdan LEON,51,Female,O+,Arthritis,2023-08-11,Christina Lopez,Dennis-Roth,Cigna,21534.7155699147,198,Emergency,2023-08-20,Normal,Naproxen,Mild,500 mg,Stable,9
+ID0456,kAteLyn cunNINGHam,85,Male,B+,Asthma,2021-10-29,Richard Franco,"Mcgee Patton Aguirre, and",Cigna,43393.9229151478,123,Elective,2021-11-25,Inconclusive,Salbutamol,Severe,2 puffs,Stable,27
+ID0457,KRyStal mENDoZA,51,Male,A-,Cancer,2020-09-18,Marc Reid,Foster-Thomas,Medicare,50332.9324112066,394,Emergency,2020-10-12,Abnormal,Paclitaxel,Moderate,175 mg,Recovered,24
+ID0458,aLEx RodriGUEz,39,Male,AB+,Cancer,2021-02-24,Ryan Simmons,Group Mann,Aetna,18062.5968435067,140,Urgent,2021-03-17,Inconclusive,Imatinib,Severe,400 mg,Improving,21
+ID0459,GeoFfrEy barkER,75,Male,AB-,Hypertension,2023-07-07,Clinton Sanchez,Martinez-Strickland,UnitedHealthcare,30064.1807902165,110,Urgent,2023-07-13,Normal,Losartan,Severe,50 mg,Improving,6
+ID0460,ALEc miTCheLl,46,Female,O+,Hypertension,2023-06-26,Cindy Gonzalez,"Shaw Tapia and Barnes,",Blue Cross,45440.7928096698,462,Elective,2023-07-23,Inconclusive,Lisinopril,Mild,10 mg,Critical,27
+ID0461,JasOn joRDaN,47,Male,O-,Obesity,2021-11-12,Christy Ochoa,Morris-Campbell,Aetna,12073.0672653691,400,Urgent,2021-12-04,Normal,Metformin,Severe,500 mg,Improving,22
+ID0462,philiP ReYES,38,Female,O+,Arthritis,2021-10-23,Gabriel Livingston,"Anderson Morton and Vang,",UnitedHealthcare,48065.4623931538,147,Urgent,2021-11-08,Abnormal,Hydroxychloroquine,Mild,200 mg,Stable,16
+ID0463,AarOn BradsHaw,25,Female,O+,Arthritis,2019-11-30,Mackenzie Phillips,Olson LLC,Aetna,16342.3637333576,255,Emergency,2019-12-20,Inconclusive,Naproxen,Mild,500 mg,Stable,20
+ID0464,ERicA fOrd,65,Male,AB+,Hypertension,2023-03-19,Gabriel Lane,Juarez and Sons,Cigna,21767.2316749422,410,Elective,2023-04-16,Normal,Lisinopril,Severe,10 mg,Improving,28
+ID0465,dr. KAtIe baRReTt DVM,50,Female,O-,Hypertension,2022-02-02,Whitney Chavez,"Ramos Hansen Clark, and",Blue Cross,16055.9303954196,393,Emergency,2022-02-05,Inconclusive,Losartan,Mild,50 mg,Recovered,3
+ID0466,Jacob youNG,40,Male,AB+,Obesity,2023-09-25,Tara Tucker,PLC Aguirre,UnitedHealthcare,30123.538567926,423,Urgent,2023-10-05,Normal,Metformin,Mild,500 mg,Stable,10
+ID0467,amY RAMos,70,Male,B+,Arthritis,2021-10-28,Dustin Alvarez,"Nelson Baldwin, Boyd and",UnitedHealthcare,38572.1694779157,123,Emergency,2021-10-31,Inconclusive,Hydroxychloroquine,Severe,200 mg,Critical,3
+ID0468,PaTricK moRAlES,56,Female,AB-,Hypertension,2020-06-16,Jessica Conway,"Martinez, and Moore White",Blue Cross,37798.9505878379,392,Urgent,2020-07-14,Abnormal,Lisinopril,Moderate,10 mg,Improving,28
+ID0469,sOpHIA cONwAY,25,Male,O+,Diabetes,2021-10-07,Heidi Wood,"Barker, Costa Hahn and",Medicare,38716.3559348625,283,Emergency,2021-11-06,Normal,Glipizide,Mild,5 mg,Stable,30
+ID0470,jamES mOORE,20,Male,A-,Diabetes,2021-04-29,David Gordon,"Anderson and Higgins Galvan,",Aetna,13666.2833707318,471,Elective,2021-05-17,Inconclusive,Metformin,Severe,500 mg,Improving,18
+ID0471,ChRisTOPHeR cOChRan,73,Female,AB-,Diabetes,2019-05-12,Jonathan Thomas,Flores-Roman,Cigna,30753.6888233077,236,Elective,2019-06-07,Abnormal,Glipizide,Mild,5 mg,Stable,26
+ID0472,RObeRT Carter,82,Male,B-,Obesity,2021-09-12,Lori Diaz,"Miller, Moon Boyd and",UnitedHealthcare,44278.2316567763,295,Elective,2021-09-17,Inconclusive,Metformin,Mild,500 mg,Recovered,5
+ID0473,moRgAn NGUYEn,31,Male,B+,Diabetes,2021-01-25,Martin Dominguez,Inc Harmon,Aetna,6267.54056171807,140,Urgent,2021-01-27,Normal,Metformin,Mild,500 mg,Stable,2
+ID0474,natHAn MONToYA,74,Male,O-,Cancer,2020-05-22,Adam Roberts,"Elliott Jones Hinton, and",Aetna,26276.7926635246,242,Elective,2020-06-17,Normal,Paclitaxel,Moderate,175 mg,Critical,26
+ID0475,jOE Berry PhD,38,Female,B-,Asthma,2022-06-20,Nancy Beck,Sons Mckinney and,Blue Cross,33171.0300887571,319,Elective,2022-07-14,Inconclusive,Budesonide,Mild,200 mcg,Stable,24
+ID0476,daNIeL oRtiz,63,Female,AB-,Cancer,2020-11-16,Christy Hughes,Carroll-Howard,UnitedHealthcare,44984.2415562503,124,Elective,2020-12-06,Normal,Paclitaxel,Moderate,175 mg,Stable,20
+ID0477,mATthEw cLaRk,62,Female,B-,Obesity,2020-10-09,Charles Hernandez,"and Park, Garcia Lam",Cigna,27091.8603731937,315,Urgent,2020-10-14,Inconclusive,Liraglutide,Mild,0.6 mg,Critical,5
+ID0478,JAcQuELINE hArDY,80,Male,O+,Obesity,2023-12-12,Hannah Clay,"Chavez Valenzuela, and Gutierrez",UnitedHealthcare,32387.9251486023,264,Urgent,2023-12-27,Normal,Metformin,Mild,500 mg,Critical,15
+ID0479,eMiLY JoSEPh,25,Female,AB-,Cancer,2022-06-14,Steven Dixon,Hill-Hernandez,Cigna,32905.4767938012,289,Emergency,2022-07-03,Abnormal,Cisplatin,Mild,50 mg,Recovered,19
+ID0480,sarAH HiCKs,51,Male,A-,Diabetes,2023-02-23,Monica Thomas,Skinner LLC,Blue Cross,1332.33843284689,489,Emergency,2023-03-18,Abnormal,Insulin,Mild,10 units,Critical,23
+ID0481,bRiANa rOsS,46,Female,AB+,Obesity,2024-04-25,Alexander Moore,Inc Cox,Aetna,17702.5693860183,385,Urgent,2024-05-12,Inconclusive,Orlistat,Mild,120 mg,Recovered,17
+ID0482,maRY mcculLOUgH,18,Female,A+,Asthma,2022-06-08,Curtis Mckinney,Perez Sons and,UnitedHealthcare,33443.5524861501,342,Emergency,2022-06-22,Normal,Montelukast,Moderate,10 mg,Improving,14
+ID0483,bRIAn OSborNe,30,Female,B-,Cancer,2023-12-07,Stephanie Shepard,"Parker Turner, Houston and",Cigna,23175.4970285953,326,Emergency,2023-12-24,Normal,Cisplatin,Moderate,50 mg,Improving,17
+ID0484,suSAn WALTerS,43,Male,AB-,Cancer,2020-11-03,Russell Soto,Wilson-Chen,Medicare,14224.3122929117,426,Emergency,2020-12-01,Abnormal,Paclitaxel,Moderate,175 mg,Critical,28
+ID0485,CATHerine HaRVEY,21,Male,AB+,Hypertension,2023-10-03,Charles Cardenas,Boone-Duffy,Medicare,23483.4968438774,357,Urgent,2023-10-18,Normal,Losartan,Severe,50 mg,Improving,15
+ID0486,cORY PIERCe,28,Female,B-,Hypertension,2022-06-11,Brandon Montoya,Reid-Simmons,UnitedHealthcare,31326.7267172123,299,Emergency,2022-06-28,Abnormal,Amlodipine,Moderate,5 mg,Critical,17
+ID0487,jeSus jORdan,26,Female,O-,Hypertension,2021-07-03,Andrew Bishop,Dunn-Bentley,Aetna,48651.7366550091,124,Urgent,2021-07-29,Inconclusive,Losartan,Moderate,50 mg,Stable,26
+ID0488,ANn dUNCAN,24,Male,A-,Asthma,2024-03-19,Daniel Sanders,Inc Cherry,Aetna,18932.3146670255,115,Elective,2024-04-02,Inconclusive,Salbutamol,Mild,2 puffs,Improving,14
+ID0489,Sarah pOrTEr,55,Female,AB-,Diabetes,2024-01-11,Jeremiah Nunez,Zavala-Fernandez,Blue Cross,22063.2290316512,147,Elective,2024-01-30,Inconclusive,Glipizide,Severe,5 mg,Critical,19
+ID0490,jACquEliNE DeAN,41,Female,A+,Cancer,2021-06-26,Carolyn Peters,Jones-Fleming,Medicare,20714.7067340701,234,Urgent,2021-07-21,Inconclusive,Imatinib,Moderate,400 mg,Critical,25
+ID0491,AnNE lam,85,Male,O+,Asthma,2024-01-19,Paul Ruiz,Christian-Hall,UnitedHealthcare,34510.884904131,292,Elective,2024-02-05,Inconclusive,Salbutamol,Severe,2 puffs,Stable,17
+ID0492,jEnnifeR GomEz,45,Male,O-,Hypertension,2020-12-15,Robert Palmer,LLC Cabrera,Blue Cross,42200.51465496,115,Elective,2021-01-13,Inconclusive,Lisinopril,Mild,10 mg,Recovered,29
+ID0493,daVId CuRTIs,22,Female,B+,Hypertension,2021-05-14,Lisa Grimes,"Hernandez and Delacruz, Kramer",Cigna,24451.289481048,413,Emergency,2021-05-28,Abnormal,Amlodipine,Mild,5 mg,Critical,14
+ID0494,joSHUa JOHnsON,18,Male,B+,Diabetes,2021-07-10,Ronald Russell,Cervantes-Herrera,UnitedHealthcare,30289.7049088163,165,Emergency,2021-07-12,Normal,Insulin,Moderate,10 units,Stable,2
+ID0495,jEReMy bOwen,60,Male,B-,Diabetes,2020-07-25,Tracey Smith,Garrison-Mcfarland,Medicare,35317.4930397506,431,Urgent,2020-07-29,Normal,Metformin,Moderate,500 mg,Recovered,4
+ID0496,denNIs cLarkE,22,Female,AB+,Obesity,2019-09-17,Mark Baker,Warren-Brown,Cigna,8033.61165471249,293,Elective,2019-10-01,Inconclusive,Liraglutide,Severe,0.6 mg,Improving,14
+ID0497,jeNNiFER spEnCe,65,Female,A+,Obesity,2019-05-14,Austin Perry,Ruiz Group,Medicare,7391.53474543665,270,Elective,2019-05-20,Inconclusive,Metformin,Mild,500 mg,Critical,6
+ID0498,biLlY fITZGERALd,73,Female,B+,Asthma,2020-05-31,Dr. Mackenzie Bell,Anderson-Brown,Aetna,35945.8844741879,146,Emergency,2020-06-28,Inconclusive,Budesonide,Moderate,200 mcg,Critical,28
+ID0499,krisTEN JamES,82,Female,AB+,Hypertension,2020-03-27,Kimberly Calhoun,Hull Sons and,Medicare,10780.7420078347,472,Emergency,2020-04-04,Inconclusive,Lisinopril,Severe,10 mg,Critical,8
+ID0500,cAiTLIN bEndEr,32,Female,O-,Arthritis,2019-12-23,Timothy Aguilar,"Oliver Mcdonald, and Johnson",Aetna,28743.0038378898,493,Elective,2019-12-30,Normal,Methotrexate,Severe,15 mg,Recovered,7
+ID0501,bRENda fULleR,76,Male,A-,Obesity,2024-02-08,Cynthia Stanton MD,Lara-Allen,Blue Cross,47270.245739139,373,Elective,2024-02-16,Abnormal,Orlistat,Moderate,120 mg,Recovered,8
+ID0502,CASSaNdrA rIcE,61,Female,A-,Asthma,2023-09-23,Craig Delgado,Group Summers,Aetna,37846.3522067483,407,Emergency,2023-09-24,Abnormal,Montelukast,Severe,10 mg,Stable,1
+ID0503,SeRgIO saNcheZ,63,Male,AB+,Cancer,2020-05-14,Courtney Parsons,"Phillips Medina, Rivera and",Aetna,46502.765789587,151,Elective,2020-05-20,Inconclusive,Paclitaxel,Severe,175 mg,Recovered,6
+ID0504,keviN stein,54,Female,B+,Hypertension,2020-02-11,Sandra Barker,LLC Flores,Aetna,27660.2850475412,193,Urgent,2020-03-01,Normal,Amlodipine,Moderate,5 mg,Improving,19
+ID0505,MAUrEEN grANT Md,77,Male,AB+,Hypertension,2021-09-13,Michael Hogan,Inc Pace,UnitedHealthcare,36686.6559296173,488,Urgent,2021-10-09,Normal,Lisinopril,Mild,10 mg,Recovered,26
+ID0506,SaMantHA gUtIErrez,64,Male,B+,Diabetes,2020-10-24,Toni Perry MD,Garcia-Robinson,Aetna,19563.2030302898,148,Urgent,2020-10-25,Normal,Glipizide,Moderate,5 mg,Stable,1
+ID0507,GEORgE woodwARd,69,Male,B+,Arthritis,2020-12-29,William Bailey,Snow-Day,Aetna,23523.5968180127,106,Elective,2021-01-21,Inconclusive,Naproxen,Moderate,500 mg,Recovered,23
+ID0508,sHaNe TaTe,31,Male,O+,Cancer,2024-03-19,Tiffany Ortega,Inc Rangel,Cigna,50563.7985846274,441,Urgent,2024-04-07,Inconclusive,Paclitaxel,Moderate,175 mg,Critical,19
+ID0509,KErRY HaWkiNs,40,Male,O-,Arthritis,2021-12-13,Willie Lowery,Irwin-Kaufman,UnitedHealthcare,15518.4577815678,450,Emergency,2021-12-19,Abnormal,Methotrexate,Mild,15 mg,Critical,6
+ID0510,mARissA mORa,50,Male,O-,Asthma,2022-05-17,Jaime Allen,"Brown and Colon, Anderson",Cigna,42150.7037862351,388,Urgent,2022-06-03,Abnormal,Budesonide,Moderate,200 mcg,Critical,17
+ID0511,rICKy mEYeR,83,Female,A-,Arthritis,2022-12-01,Becky Jones,"and Peterson, Rodriguez Murphy",Cigna,42192.9868723336,199,Emergency,2022-12-17,Abnormal,Hydroxychloroquine,Moderate,200 mg,Improving,16
+ID0512,EDWArd JOneS jR.,23,Female,O-,Cancer,2020-03-16,Tiffany Frank,"and Frederick, Jones Garcia",Blue Cross,3925.93384060519,333,Emergency,2020-03-22,Normal,Imatinib,Severe,400 mg,Critical,6
+ID0513,HeatHER mELeNdez,68,Female,AB+,Arthritis,2020-10-20,Joe Mora,"and Fuentes Rogers Gill,",Aetna,12605.7474398212,350,Emergency,2020-10-27,Inconclusive,Methotrexate,Severe,15 mg,Recovered,7
+ID0514,jesSIcA mAciaS,37,Male,AB-,Asthma,2024-01-05,Teresa Tucker,Group Schneider,Blue Cross,7421.1767319191,154,Urgent,2024-01-27,Inconclusive,Montelukast,Severe,10 mg,Critical,22
+ID0515,JaMIe leACh,24,Female,B-,Arthritis,2023-08-17,Ruben Cross,Sandoval-Bennett,Cigna,24561.7371858171,216,Emergency,2023-09-01,Abnormal,Hydroxychloroquine,Mild,200 mg,Recovered,15
+ID0516,matThEW sImMoNs,21,Male,B-,Diabetes,2023-03-31,Timothy Choi,Young Ltd,Cigna,32854.1532647173,132,Emergency,2023-04-22,Abnormal,Insulin,Mild,10 units,Critical,22
+ID0517,SHeILA bAXtEr,46,Female,AB-,Diabetes,2022-11-21,Robert Lester,Lopez-Brooks,Aetna,18828.7641287865,194,Elective,2022-11-22,Abnormal,Insulin,Severe,10 units,Recovered,1
+ID0518,DAVE PaRrISH,61,Female,B+,Arthritis,2020-08-24,Sandra Bender,"Leblanc Conway, Holt and",Aetna,34381.6887121759,330,Urgent,2020-09-06,Inconclusive,Methotrexate,Moderate,15 mg,Recovered,13
+ID0519,brYaN SteWart,25,Male,O-,Arthritis,2022-02-12,Martin Smith,Ltd Roberts,Aetna,31501.7198568013,475,Elective,2022-03-03,Inconclusive,Hydroxychloroquine,Severe,200 mg,Critical,19
+ID0520,JaMes beLL,75,Female,A-,Arthritis,2023-08-15,Martha Johnson,and Carter Sons,Medicare,12098.0332199207,387,Elective,2023-09-04,Abnormal,Hydroxychloroquine,Mild,200 mg,Stable,20
+ID0521,Joshua LOve,43,Female,O-,Diabetes,2023-01-13,Mercedes Harris,"Moore and Rhodes Lang,",UnitedHealthcare,39547.3811893456,436,Elective,2023-02-01,Inconclusive,Metformin,Mild,500 mg,Stable,19
+ID0522,rObErT CLArk,38,Female,B-,Obesity,2020-04-28,Gregory Chung,Poole LLC,Aetna,6486.23572598591,283,Elective,2020-05-20,Abnormal,Liraglutide,Severe,0.6 mg,Improving,22
+ID0523,marisa GOlDEN,28,Male,AB+,Arthritis,2022-10-21,James Young,Hansen-Torres,Medicare,46657.6860818914,265,Urgent,2022-10-22,Inconclusive,Methotrexate,Mild,15 mg,Critical,1
+ID0524,NanCy HaMIltOn,80,Male,O+,Hypertension,2022-12-15,Carla Combs,Park-Douglas,Aetna,31709.4650284724,168,Urgent,2022-12-25,Abnormal,Lisinopril,Severe,10 mg,Critical,10
+ID0525,BRyaN bOwERS,63,Female,O+,Asthma,2020-09-01,Peter Martinez,"Ruiz, Scott Mitchell and",Blue Cross,9894.80940664036,403,Emergency,2020-10-01,Inconclusive,Montelukast,Mild,10 mg,Improving,30
+ID0526,NIColE mArTIN,75,Female,AB-,Cancer,2019-11-18,Christopher Spears,"and Rodriguez Gallegos Henry,",Blue Cross,29995.4285638733,433,Emergency,2019-12-11,Abnormal,Cisplatin,Moderate,50 mg,Critical,23
+ID0527,WillIam HaRmON,59,Female,O+,Arthritis,2022-08-22,Carrie Howell,Ltd Miller,Medicare,7796.25961437667,144,Urgent,2022-08-30,Inconclusive,Hydroxychloroquine,Severe,200 mg,Recovered,8
+ID0528,TOM BRoWN,27,Male,A+,Diabetes,2020-08-01,Tina Ray,"Turner Bradford and Allison,",Blue Cross,48965.1758027853,251,Emergency,2020-08-26,Abnormal,Glipizide,Severe,5 mg,Stable,25
+ID0529,CynthIa NeLSoN,77,Male,A+,Arthritis,2024-01-18,Debbie Jones,Goodwin Ltd,Aetna,16128.2526215832,404,Emergency,2024-02-15,Inconclusive,Hydroxychloroquine,Moderate,200 mg,Stable,28
+ID0530,TODD gROSS,19,Female,B-,Asthma,2020-03-17,Anthony Ortiz,Carrillo-Price,Medicare,16920.1615337821,206,Emergency,2020-04-10,Abnormal,Budesonide,Moderate,200 mcg,Stable,24
+ID0531,sTEphAnie cHung,58,Male,AB+,Arthritis,2022-08-15,Jason Stewart,and Sons Lee,Aetna,49861.8742375614,207,Emergency,2022-09-01,Abnormal,Naproxen,Severe,500 mg,Improving,17
+ID0532,KayLA PeREZ,57,Male,AB+,Cancer,2023-05-15,Derek Dorsey,Rogers-Robles,Blue Cross,36287.3850642607,263,Elective,2023-05-19,Inconclusive,Cisplatin,Moderate,50 mg,Improving,4
+ID0533,paul marTInez,59,Male,A+,Hypertension,2019-06-27,William Carter,Massey Inc,Medicare,48035.3693345951,414,Urgent,2019-07-19,Abnormal,Losartan,Mild,50 mg,Improving,22
+ID0534,joshuA neLson,62,Male,B+,Hypertension,2023-10-29,Angel Jones,Arias-Galvan,Aetna,22030.6933510678,132,Urgent,2023-11-14,Normal,Lisinopril,Mild,10 mg,Stable,16
+ID0535,JAkE COpeLand,71,Male,AB-,Diabetes,2024-01-09,Christopher Fowler,Scott-Moore,UnitedHealthcare,45665.8508918785,387,Elective,2024-01-20,Inconclusive,Metformin,Mild,500 mg,Critical,11
+ID0536,mAria GArdNEr,35,Female,B+,Cancer,2020-08-23,Stephanie Herrera,Jarvis-Roberts,Aetna,4415.75486684084,180,Emergency,2020-08-29,Inconclusive,Paclitaxel,Mild,175 mg,Stable,6
+ID0537,jAnEt ROBERTs DDS,34,Male,AB+,Asthma,2020-01-07,Scott Herring,Clay LLC,Blue Cross,41122.2891368951,440,Urgent,2020-01-12,Normal,Budesonide,Moderate,200 mcg,Stable,5
+ID0538,pETeR ramSey,84,Female,O-,Arthritis,2019-10-25,Angela Cook,"Quinn, Bentley and Allen",Cigna,28401.5569318716,377,Elective,2019-11-15,Inconclusive,Methotrexate,Severe,15 mg,Critical,21
+ID0539,AsHley farmER,77,Female,AB+,Diabetes,2023-09-20,Michael Davis,Williams PLC,UnitedHealthcare,28228.6947224565,277,Urgent,2023-10-08,Inconclusive,Glipizide,Severe,5 mg,Critical,18
+ID0540,kaTHerInE haLE,85,Male,B+,Arthritis,2020-01-12,Thomas Hunt,"Griffith Mccullough Mendoza, and",UnitedHealthcare,2106.3937567995,375,Urgent,2020-01-23,Inconclusive,Naproxen,Mild,500 mg,Recovered,11
+ID0541,GAry BOWEN,34,Female,B+,Asthma,2019-06-04,Dylan Hale,Meyers-Moore,Blue Cross,47398.5862071371,431,Urgent,2019-06-07,Normal,Salbutamol,Severe,2 puffs,Critical,3
+ID0542,LaURA rYan,72,Female,AB-,Asthma,2021-12-14,Bradley Holt,Blair-Bell,Aetna,47454.5946751323,293,Emergency,2021-12-24,Abnormal,Salbutamol,Severe,2 puffs,Recovered,10
+ID0543,TiMoThY lOpeZ,33,Female,A-,Diabetes,2023-05-30,Sandra Powers,Lester-Fletcher,Cigna,22257.6093737339,243,Urgent,2023-06-01,Abnormal,Insulin,Mild,10 units,Improving,2
+ID0544,ANThoNy gUZmAn,80,Female,AB-,Arthritis,2019-08-26,Evan Campbell,Rodriguez LLC,Blue Cross,30324.0659777306,159,Urgent,2019-09-15,Abnormal,Hydroxychloroquine,Moderate,200 mg,Critical,20
+ID0545,MIChael ShaRP,24,Female,O-,Arthritis,2019-11-16,Sylvia Villarreal,LLC Baldwin,Medicare,10053.9245846758,371,Emergency,2019-12-02,Abnormal,Naproxen,Mild,500 mg,Improving,16
+ID0546,daVId CarrOlL,44,Female,A-,Arthritis,2022-04-23,Matthew Hopkins,Riley PLC,Medicare,9823.30343284717,304,Elective,2022-05-19,Normal,Methotrexate,Mild,15 mg,Improving,26
+ID0547,Connor BARTOn,32,Female,B+,Asthma,2020-02-20,Joseph Miller,Snyder-Perry,Medicare,17862.6922498934,482,Elective,2020-02-21,Inconclusive,Montelukast,Moderate,10 mg,Critical,1
+ID0548,AnGElA SCOtT,83,Male,B+,Obesity,2022-10-19,Charles Palmer,Perez-Carlson,Blue Cross,17855.8010677628,349,Emergency,2022-11-10,Inconclusive,Metformin,Severe,500 mg,Improving,22
+ID0549,DAvID ORTiz,80,Male,O-,Arthritis,2022-02-05,Michael Walters,"Richardson Mccormick, Cruz and",Cigna,40178.4632943695,396,Elective,2022-02-18,Inconclusive,Hydroxychloroquine,Mild,200 mg,Stable,13
+ID0550,paTRicK pierce,41,Female,B+,Cancer,2019-08-01,Scott Smith,Underwood-Mcguire,Cigna,24690.2221766802,320,Emergency,2019-08-09,Abnormal,Cisplatin,Severe,50 mg,Recovered,8
+ID0551,KeiTH JohnSoN,39,Male,O-,Arthritis,2021-06-19,Nicole Jensen,"Galvan, Lopez Salazar and",UnitedHealthcare,21862.0563570798,497,Elective,2021-07-16,Normal,Naproxen,Moderate,500 mg,Critical,27
+ID0552,antonio smITh,55,Male,O-,Asthma,2020-06-28,Brent Dickerson,Fisher-Perez,Aetna,29790.846838577,142,Urgent,2020-07-24,Normal,Montelukast,Severe,10 mg,Critical,26
+ID0553,jOHN TaYlOR,59,Male,A-,Asthma,2019-10-06,Nicole Young,"Maldonado Anderson and Adkins,",Cigna,6539.76033221272,270,Urgent,2019-10-24,Abnormal,Salbutamol,Severe,2 puffs,Improving,18
+ID0554,barbAra stEwarT,34,Female,A-,Asthma,2022-07-17,Jared Kemp,Ruiz PLC,Aetna,20453.3174993412,445,Urgent,2022-07-23,Inconclusive,Montelukast,Severe,10 mg,Improving,6
+ID0555,lArRy TaNnEr,27,Female,O+,Hypertension,2021-05-22,Dennis Gilbert,Ltd Watts,Cigna,6827.6979545314,119,Urgent,2021-06-09,Normal,Amlodipine,Moderate,5 mg,Stable,18
+ID0556,MAllORy diAz,56,Female,O+,Diabetes,2022-08-16,William Mcguire,and Martinez Sons,Cigna,7557.59914996845,264,Urgent,2022-09-04,Inconclusive,Insulin,Moderate,10 units,Improving,19
+ID0557,jOhN WILLiams,60,Female,A+,Cancer,2021-03-31,Jesus Wagner,Harrington-Marshall,Aetna,15364.4847852978,181,Emergency,2021-04-18,Abnormal,Imatinib,Moderate,400 mg,Stable,18
+ID0558,peter miller,71,Female,O-,Obesity,2021-09-06,Jose Cooley,Robbins Inc,Aetna,6664.21691671733,228,Elective,2021-09-17,Abnormal,Liraglutide,Mild,0.6 mg,Critical,11
+ID0559,rYaN bUtLeR,20,Male,AB-,Diabetes,2023-08-26,Andrew Clark,"and Conway George, Huff",Cigna,7235.1906901877,197,Urgent,2023-08-27,Inconclusive,Glipizide,Moderate,5 mg,Critical,1
+ID0560,SaMANTHa lOwERY,75,Male,A+,Asthma,2019-11-27,Evelyn Patterson,Group Thompson,Aetna,20336.4929220005,316,Emergency,2019-12-07,Normal,Budesonide,Moderate,200 mcg,Recovered,10
+ID0561,TiFFAny LEe,32,Female,A+,Obesity,2023-03-07,Maria Estes,Rodriguez-Arnold,UnitedHealthcare,38668.6945886764,462,Urgent,2023-03-12,Normal,Liraglutide,Mild,0.6 mg,Improving,5
+ID0562,SamaNthA WiLlIs,66,Female,A-,Diabetes,2022-10-03,Mrs. Linda Miles,"and Sullivan, Mcclure Shields",Aetna,41222.0058713676,255,Elective,2022-10-14,Abnormal,Insulin,Moderate,10 units,Critical,11
+ID0563,pAmela BroWn,78,Female,O-,Diabetes,2023-01-10,Catherine Wiley,Charles LLC,Medicare,38520.0111936996,211,Urgent,2023-01-30,Abnormal,Metformin,Severe,500 mg,Recovered,20
+ID0564,cARLA walkER,49,Male,O-,Cancer,2020-04-12,Olivia Nichols,Morgan-Young,Cigna,44411.1245270808,103,Urgent,2020-05-04,Normal,Imatinib,Severe,400 mg,Recovered,22
+ID0565,MaRy GOnzaLeS,73,Male,B-,Arthritis,2020-11-20,Christie Vargas,"Garcia and Nguyen, Leonard",Aetna,26044.2509380988,101,Urgent,2020-12-15,Inconclusive,Hydroxychloroquine,Mild,200 mg,Improving,25
+ID0566,SHEllEY FlEmInG,69,Male,AB-,Hypertension,2024-04-26,Nathaniel Jacobson,PLC Fox,Aetna,7902.42048279919,419,Emergency,2024-05-24,Abnormal,Lisinopril,Mild,10 mg,Recovered,28
+ID0567,MARK bLakE,51,Female,A+,Hypertension,2023-06-29,Kayla Clark,"Bell Preston Washington, and",Medicare,46245.5839522965,455,Urgent,2023-07-07,Abnormal,Lisinopril,Mild,10 mg,Critical,8
+ID0568,SCoTT KIng,66,Male,O+,Diabetes,2020-01-11,Jessica Jackson,LLC Hernandez,Aetna,40448.9691728188,497,Emergency,2020-02-07,Abnormal,Insulin,Moderate,10 units,Stable,27
+ID0569,JesSicA dAvis,38,Female,O-,Arthritis,2022-06-05,Lynn Benson,Steele PLC,Medicare,20914.9474082277,276,Elective,2022-06-15,Normal,Hydroxychloroquine,Mild,200 mg,Stable,10
+ID0570,anthOnY odom,33,Male,O+,Asthma,2024-01-28,Michael Dodson MD,"and Sims, Gonzalez Huff",Medicare,46682.4467916861,385,Elective,2024-02-22,Inconclusive,Salbutamol,Mild,2 puffs,Recovered,25
+ID0571,charleS bRoWN,27,Male,B-,Cancer,2021-11-06,David Nunez,Allen-Perez,UnitedHealthcare,10965.6957491788,298,Elective,2021-11-07,Normal,Paclitaxel,Severe,175 mg,Improving,1
+ID0572,raChel DaVIS,36,Male,B-,Cancer,2021-07-21,Lindsay Pierce,"and Alexander Crawford Graham,",Aetna,27507.0429833041,286,Emergency,2021-07-31,Normal,Cisplatin,Moderate,50 mg,Recovered,10
+ID0573,SAndRa mccALl,41,Male,A-,Cancer,2019-11-23,Dr. Jeffrey Barnes Jr.,Moyer-Lamb,UnitedHealthcare,12678.0962276415,141,Urgent,2019-12-06,Normal,Cisplatin,Moderate,50 mg,Improving,13
+ID0574,NiCole FraNCIS,33,Male,AB-,Asthma,2019-05-30,Kristie Roberts,Taylor-Wilson,Aetna,38395.5299572771,215,Emergency,2019-06-29,Inconclusive,Montelukast,Moderate,10 mg,Improving,30
+ID0575,STEVEN SmitH,56,Female,AB-,Asthma,2024-03-23,Allison Harper,PLC Sutton,Medicare,28510.80721545,185,Emergency,2024-04-14,Inconclusive,Montelukast,Mild,10 mg,Critical,22
+ID0576,KAREn johnsoN,25,Male,O+,Obesity,2019-06-23,Heather Howard,and Sons Sanders,Medicare,43400.666588542,300,Emergency,2019-07-12,Abnormal,Liraglutide,Moderate,0.6 mg,Stable,19
+ID0577,anna ROgERs,21,Female,O-,Asthma,2022-01-30,Vickie King,Gentry and Sons,Aetna,46890.4260126925,307,Elective,2022-02-26,Abnormal,Budesonide,Severe,200 mcg,Recovered,27
+ID0578,pRiSCiLlA dEckEr,57,Male,B-,Cancer,2022-11-12,Christopher Yoder,Haynes-Silva,Cigna,48491.6432100851,129,Elective,2022-11-22,Normal,Imatinib,Moderate,400 mg,Critical,10
+ID0579,tREVor WRiGHt,39,Female,O+,Cancer,2020-12-22,Matthew Nelson,"Marshall, and Koch Harper",Blue Cross,13643.730851835,380,Elective,2020-12-27,Normal,Paclitaxel,Severe,175 mg,Improving,5
+ID0580,WiLlIAm tuCKEr,51,Female,A-,Diabetes,2022-05-22,Martin Lynch,Duffy-Jackson,Cigna,5415.28351014421,209,Emergency,2022-06-08,Inconclusive,Insulin,Mild,10 units,Stable,17
+ID0581,JEsSIca KElLer,31,Male,B+,Hypertension,2021-03-27,David Hall,Brown-Diaz,Aetna,44008.050211625,392,Elective,2021-04-23,Abnormal,Amlodipine,Severe,5 mg,Improving,27
+ID0582,WILliAM hEnRY,85,Male,AB-,Asthma,2022-06-22,Benjamin Tyler,Mcdaniel-Castaneda,UnitedHealthcare,43866.6584759829,420,Urgent,2022-07-22,Normal,Salbutamol,Mild,2 puffs,Improving,30
+ID0583,RobiN Clarke,76,Male,O+,Diabetes,2022-07-15,Tyler Adams DDS,Lyons LLC,Blue Cross,45242.8569927816,174,Emergency,2022-07-19,Abnormal,Metformin,Moderate,500 mg,Improving,4
+ID0584,jessIca gARZa,59,Male,A+,Asthma,2022-06-06,William White,PLC French,Aetna,13550.1244871951,250,Elective,2022-06-30,Normal,Montelukast,Mild,10 mg,Stable,24
+ID0585,JAmIe salaZAR,64,Male,O-,Diabetes,2020-12-29,Amanda Webb,LLC Coleman,Blue Cross,34963.6389845688,277,Urgent,2021-01-07,Inconclusive,Glipizide,Severe,5 mg,Critical,9
+ID0586,stevEN VAugHaN,28,Male,A+,Arthritis,2020-05-23,Travis Holmes,Tucker-Warren,UnitedHealthcare,48890.4478160298,324,Elective,2020-06-12,Abnormal,Methotrexate,Mild,15 mg,Improving,20
+ID0587,MIChAeL contreraS,63,Male,A-,Obesity,2022-07-25,Amy Small,Wang-Hill,Medicare,17159.5815315142,330,Emergency,2022-08-22,Normal,Orlistat,Mild,120 mg,Stable,28
+ID0588,AllEn roBeRTs,24,Male,A-,Arthritis,2021-04-01,Katherine Gutierrez,Jones Ltd,Cigna,7192.62817823795,443,Emergency,2021-04-19,Abnormal,Hydroxychloroquine,Mild,200 mg,Recovered,18
+ID0589,aMy POwEll,81,Male,B+,Arthritis,2020-07-20,Susan Hess,"White West Herman, and",Medicare,44982.8524720549,121,Elective,2020-07-29,Normal,Hydroxychloroquine,Severe,200 mg,Recovered,9
+ID0590,KeNNeth sMitH,74,Male,A+,Diabetes,2020-02-28,Kristen Thornton,Inc Newton,Medicare,16004.4690772289,254,Emergency,2020-03-28,Inconclusive,Insulin,Moderate,10 units,Critical,29
+ID0591,maTThEW WEsT,28,Male,AB+,Cancer,2023-08-30,Jerry Fisher,Huerta-Sanchez,UnitedHealthcare,7320.04261708616,458,Elective,2023-09-17,Normal,Cisplatin,Severe,50 mg,Improving,18
+ID0592,ERIK MOntoyA,27,Male,AB-,Obesity,2020-07-27,Elizabeth Miller,Snyder-Parrish,Blue Cross,28329.8240693788,470,Emergency,2020-08-24,Normal,Metformin,Severe,500 mg,Improving,28
+ID0593,aUSTin lEwis,24,Male,AB-,Diabetes,2021-03-28,Reginald Grimes,Inc Bryant,UnitedHealthcare,24130.5167546293,214,Urgent,2021-04-05,Inconclusive,Metformin,Moderate,500 mg,Improving,8
+ID0594,KennEtH ThOmPSon,63,Male,A-,Diabetes,2022-05-08,Steven Smith,Williams Inc,Cigna,22361.1475965662,445,Emergency,2022-05-10,Normal,Metformin,Moderate,500 mg,Critical,2
+ID0595,AMANDa DURhAm,46,Female,O+,Obesity,2021-06-16,Katelyn Davis,"Smith White, and Ryan",Blue Cross,19650.0017865913,108,Emergency,2021-07-06,Inconclusive,Metformin,Severe,500 mg,Recovered,20
+ID0596,stEphen HUdSON,35,Female,AB+,Arthritis,2023-10-31,Matthew Jones,"Williams Dillon White, and",Aetna,30986.9325169354,346,Urgent,2023-11-21,Abnormal,Methotrexate,Severe,15 mg,Critical,21
+ID0597,CASsanDRA VeLaZquEZ,28,Female,B+,Diabetes,2022-04-23,Diana Tran,Vargas-Cohen,UnitedHealthcare,45987.1567795129,293,Elective,2022-05-11,Normal,Insulin,Mild,10 units,Recovered,18
+ID0598,suSAN peNA,80,Female,B+,Obesity,2021-12-09,Kevin Kelley,Gardner Group,Medicare,11086.7304763579,482,Urgent,2021-12-12,Inconclusive,Metformin,Severe,500 mg,Recovered,3
+ID0599,anTHoNY PerKinS,31,Male,O-,Obesity,2024-01-10,Anthony Green,Garcia-Blake,Medicare,28483.8769366598,265,Urgent,2024-02-02,Abnormal,Orlistat,Mild,120 mg,Stable,23
+ID0600,KATRIna LOPEz,69,Female,O+,Diabetes,2019-11-17,Jordan Porter,Castaneda-Tran,Cigna,37905.9551783242,368,Emergency,2019-12-15,Inconclusive,Metformin,Moderate,500 mg,Stable,28
+ID0601,bRiAn FoSTER,82,Male,AB+,Asthma,2022-01-05,James Thompson,Kim-Ibarra,Medicare,27878.8508377759,472,Elective,2022-01-11,Normal,Salbutamol,Mild,2 puffs,Recovered,6
+ID0602,JaSon ThOMPson,64,Female,B+,Arthritis,2024-01-15,Andrea King,Boyer-Burgess,Aetna,13900.0542630552,442,Urgent,2024-02-10,Inconclusive,Methotrexate,Severe,15 mg,Stable,26
+ID0603,david AYaLa,77,Female,O+,Arthritis,2022-11-17,Lucas Torres,Cross Ltd,Aetna,30575.7646027089,116,Urgent,2022-12-15,Abnormal,Naproxen,Mild,500 mg,Improving,28
+ID0604,jaReD YoDER,32,Male,O+,Obesity,2021-08-02,Sarah Garcia,"Patel Payne, and Young",Medicare,11941.6312985532,478,Urgent,2021-08-26,Normal,Metformin,Severe,500 mg,Improving,24
+ID0605,gRegoRY cANnON,70,Female,A+,Diabetes,2020-04-20,Amanda Alvarado,Group Santana,Medicare,7422.72525994882,496,Elective,2020-04-23,Abnormal,Glipizide,Severe,5 mg,Critical,3
+ID0606,LISa aNdERSON,50,Female,O-,Hypertension,2023-06-28,Samantha Preston,Sons and Cook,Medicare,34005.5469985236,368,Urgent,2023-06-30,Inconclusive,Losartan,Severe,50 mg,Improving,2
+ID0607,ELIzabEtH ShIelDs,29,Male,O+,Asthma,2022-04-06,David Maxwell,Martin-Rice,UnitedHealthcare,48574.8324380657,448,Elective,2022-04-30,Inconclusive,Salbutamol,Mild,2 puffs,Stable,24
+ID0608,PatriCiA kIM,66,Female,AB+,Cancer,2021-03-31,Kevin Butler,"Ortiz, and Rios Price",Cigna,45010.7976390251,302,Urgent,2021-04-16,Abnormal,Cisplatin,Severe,50 mg,Improving,16
+ID0609,JessiCA sOto,70,Male,AB+,Obesity,2020-03-07,Shannon Sanchez,Barnes-Williams,UnitedHealthcare,7409.33654636802,418,Elective,2020-03-29,Normal,Orlistat,Severe,120 mg,Critical,22
+ID0610,JEnNY ReYnOLDS,56,Female,B-,Cancer,2020-06-03,Shelly Bright,Hardy-Gutierrez,Cigna,34968.0764504074,280,Urgent,2020-06-21,Abnormal,Imatinib,Severe,400 mg,Stable,18
+ID0611,SHANnon baRRett,85,Male,B-,Asthma,2021-08-31,Stephanie Wilcox,Cole LLC,Aetna,5648.17552608592,113,Elective,2021-09-17,Inconclusive,Salbutamol,Mild,2 puffs,Stable,17
+ID0612,tERrI PERry,67,Male,AB+,Cancer,2022-09-22,Amy Diaz,White-Rowe,UnitedHealthcare,14227.3211583074,484,Elective,2022-10-11,Normal,Paclitaxel,Severe,175 mg,Recovered,19
+ID0613,Joseph MaddEN,50,Female,B+,Arthritis,2022-07-02,Stacey Nguyen,"Rodriguez Harris, Willis and",Medicare,47551.5701425301,179,Elective,2022-07-15,Inconclusive,Hydroxychloroquine,Mild,200 mg,Critical,13
+ID0614,RebECCa hOGAN,52,Female,O+,Asthma,2019-06-18,Peter Wright,"Santana Garcia, Alexander and",Aetna,42301.9146193397,132,Elective,2019-07-08,Abnormal,Salbutamol,Moderate,2 puffs,Recovered,20
+ID0615,kELly WAlKER,84,Male,B-,Hypertension,2019-07-19,Eric Shaw,Collins-Lozano,Aetna,2275.63663182883,335,Urgent,2019-08-08,Normal,Amlodipine,Mild,5 mg,Critical,20
+ID0616,jUlIa muEllER,70,Male,A-,Cancer,2022-01-06,Susan Gaines,Brown-Clark,Cigna,10003.6710273817,169,Elective,2022-01-27,Normal,Imatinib,Mild,400 mg,Critical,21
+ID0617,KAyLa mOORe,66,Male,AB-,Diabetes,2022-02-08,Collin Green,"Mcmahon and Kim, Holmes",Aetna,42653.7653446395,263,Urgent,2022-02-28,Normal,Metformin,Mild,500 mg,Improving,20
+ID0618,KAITLyn SmItH,74,Male,AB-,Hypertension,2022-12-09,Richard Harris,Gomez-Smith,Cigna,10722.4950696961,206,Elective,2022-12-28,Inconclusive,Lisinopril,Mild,10 mg,Recovered,19
+ID0619,DAnIEL KemP,75,Female,O+,Obesity,2020-06-14,Charles Fernandez,"Hall Lee Bailey, and",Blue Cross,47516.5205464284,356,Urgent,2020-06-20,Normal,Metformin,Moderate,500 mg,Recovered,6
+ID0620,laurA mYeRs,61,Male,B+,Obesity,2021-03-12,Kyle Williams MD,"Brennan Bentley, and Hunter",Cigna,41379.3826148664,354,Urgent,2021-03-25,Inconclusive,Orlistat,Mild,120 mg,Stable,13
+ID0621,Carol ReEd,82,Male,AB+,Asthma,2022-12-27,Susan Rios DDS,"Mullins, Gray and Reed",UnitedHealthcare,27481.3314784849,411,Elective,2023-01-12,Abnormal,Budesonide,Moderate,200 mcg,Improving,16
+ID0622,JesSIcA caRtER,51,Female,A-,Obesity,2019-12-08,Sarah Ibarra,Anderson Group,Cigna,32006.031565888,200,Urgent,2020-01-05,Normal,Orlistat,Mild,120 mg,Improving,28
+ID0623,vANeSsa ScHaEFeR,37,Female,A-,Arthritis,2023-06-19,Jonathan Burns MD,"Walsh, Howell and Jennings",UnitedHealthcare,14405.939243142,312,Elective,2023-07-14,Inconclusive,Methotrexate,Severe,15 mg,Stable,25
+ID0624,MIgUeL GOmeZ,51,Male,B+,Hypertension,2019-05-10,Jennifer Miller,Haney-Marshall,UnitedHealthcare,24691.2490509144,484,Urgent,2019-06-07,Normal,Lisinopril,Mild,10 mg,Stable,28
+ID0625,linDa cARdeNas,23,Male,A-,Asthma,2021-06-11,Zachary Scott,"Rich and Roach, King",Blue Cross,47491.3923868091,305,Elective,2021-06-27,Abnormal,Budesonide,Severe,200 mcg,Recovered,16
+ID0626,annEtTE JAMES,70,Male,B-,Asthma,2019-10-27,Dennis Robbins,"Johnson, and Petty Rubio",Blue Cross,37861.5091105963,428,Emergency,2019-11-12,Normal,Montelukast,Moderate,10 mg,Recovered,16
+ID0627,sUSaN HuRLEY,60,Female,B+,Cancer,2022-08-27,Sean Rodgers,"Morse, Hudson Williams and",Aetna,22952.729823687,342,Elective,2022-09-15,Normal,Imatinib,Mild,400 mg,Critical,19
+ID0628,carOLyN Wade,45,Female,A+,Arthritis,2019-08-08,Nathan Payne,"Kane, and Dickson Schwartz",UnitedHealthcare,2735.03157490237,497,Emergency,2019-08-14,Inconclusive,Methotrexate,Mild,15 mg,Improving,6
+ID0629,aNgeLA DelEon,30,Male,A-,Arthritis,2023-02-12,Kristina Gray,Inc Mccullough,Medicare,37755.4807776757,128,Elective,2023-02-17,Normal,Naproxen,Moderate,500 mg,Stable,5
+ID0630,cAROLYN COoPer,35,Male,A+,Hypertension,2021-05-04,Regina Bryant,Taylor-Wong,Medicare,2691.04906433409,338,Elective,2021-05-10,Inconclusive,Lisinopril,Mild,10 mg,Improving,6
+ID0631,reBEcca hARRIs,51,Female,O+,Obesity,2021-07-11,Karen Donovan,Avery-Roy,Aetna,7897.28748490567,335,Elective,2021-07-28,Normal,Liraglutide,Severe,0.6 mg,Improving,17
+ID0632,garY cUrtIS,61,Male,A+,Diabetes,2021-02-10,Amber Lopez,LLC Anderson,Medicare,4446.34291682973,345,Emergency,2021-02-18,Inconclusive,Insulin,Moderate,10 units,Critical,8
+ID0633,ryaN LIU,52,Female,AB+,Diabetes,2021-10-16,Vernon Diaz,Castaneda-Young,Blue Cross,20852.1463661622,380,Elective,2021-11-04,Normal,Insulin,Mild,10 units,Recovered,19
+ID0634,DenNiS MOrROw,64,Female,B+,Diabetes,2019-10-03,Luke Nunez,"and Thomas Strong, Cook",UnitedHealthcare,47701.4774328691,109,Urgent,2019-10-25,Inconclusive,Insulin,Moderate,10 units,Stable,22
+ID0635,JEnNiFEr COOpER,25,Male,A+,Obesity,2020-04-26,Mary Williams,Wells-Price,Aetna,49934.1379634404,258,Elective,2020-05-02,Abnormal,Metformin,Mild,500 mg,Improving,6
+ID0636,JaCOB loPez,76,Female,B-,Obesity,2019-09-13,Gina Richards,Rios Ltd,Medicare,17263.9489788308,394,Emergency,2019-09-19,Abnormal,Metformin,Severe,500 mg,Stable,6
+ID0637,carOL McClain,52,Female,B-,Diabetes,2022-01-20,Julie West,Vincent-Hill,Aetna,45274.3965606017,102,Emergency,2022-02-06,Inconclusive,Insulin,Severe,10 units,Critical,17
+ID0638,mIChaeL RiChArdsoN,77,Male,B+,Obesity,2023-10-14,Greg Scott,Brooks LLC,Medicare,10057.9155776424,130,Elective,2023-11-04,Abnormal,Metformin,Moderate,500 mg,Improving,21
+ID0639,MARK NGuYEn,83,Male,A+,Diabetes,2019-11-23,Tracy Serrano,Group Carpenter,Medicare,36369.0911707809,148,Urgent,2019-11-26,Normal,Glipizide,Mild,5 mg,Improving,3
+ID0640,EriC COOk,57,Female,B-,Cancer,2023-12-05,Rhonda Gilbert,"Henderson Carpenter and Barrett,",Blue Cross,3548.05164823374,431,Elective,2023-12-31,Abnormal,Paclitaxel,Mild,175 mg,Recovered,26
+ID0641,kRISTeN STEPheNS,54,Male,B+,Arthritis,2021-02-01,Penny Bryant,Mcdaniel-Walsh,UnitedHealthcare,10011.2907450053,145,Emergency,2021-02-07,Inconclusive,Methotrexate,Severe,15 mg,Improving,6
+ID0642,DaNa WAltoN,62,Male,A-,Cancer,2022-06-30,Edward Webster,Ross-Jones,Blue Cross,14876.3342210964,396,Urgent,2022-07-01,Inconclusive,Paclitaxel,Severe,175 mg,Stable,1
+ID0643,Scott arNOLd,37,Male,B-,Arthritis,2023-11-09,Brandon Flores,"Mathews, Smith and Moss",Medicare,30294.6513804586,216,Elective,2023-11-29,Normal,Hydroxychloroquine,Mild,200 mg,Critical,20
+ID0644,MEGan wHEEleR,56,Female,B+,Hypertension,2020-07-30,Courtney Crane,"and Lawrence, Williams Thomas",Blue Cross,45888.7048579736,365,Elective,2020-08-10,Abnormal,Lisinopril,Moderate,10 mg,Stable,11
+ID0645,AaRON coX,68,Female,O+,Arthritis,2022-04-10,Eric Wallace,Wilkerson Group,UnitedHealthcare,31958.396616157,203,Elective,2022-04-19,Normal,Naproxen,Mild,500 mg,Recovered,9
+ID0646,CassanDRA MArTineZ,46,Male,A-,Obesity,2020-01-02,Nicole Norton,Villanueva-Garcia,Medicare,22645.7861009959,169,Urgent,2020-01-16,Normal,Metformin,Moderate,500 mg,Stable,14
+ID0647,SHawn bROwn,62,Male,B-,Hypertension,2023-11-10,Angela Cunningham,Duffy-Bowman,Medicare,21297.4065119635,362,Emergency,2023-12-01,Abnormal,Losartan,Mild,50 mg,Recovered,21
+ID0648,SAnDRa WillIamSon,49,Female,AB-,Diabetes,2021-02-14,Jessica Morgan,Tyler-Velasquez,Cigna,26432.160988256,402,Urgent,2021-02-18,Inconclusive,Metformin,Moderate,500 mg,Stable,4
+ID0649,jenniFeR sTephEnS,75,Male,B-,Hypertension,2022-07-16,Shari Foster,James Inc,Cigna,6336.70801377606,428,Emergency,2022-08-13,Normal,Lisinopril,Severe,10 mg,Improving,28
+ID0650,stePHANIe ROdRigueZ,40,Female,O+,Diabetes,2023-05-15,Danielle Collins,Montgomery-Jones,Medicare,31063.5567895567,345,Elective,2023-05-27,Normal,Metformin,Severe,500 mg,Improving,12
+ID0651,CaROlIne mCinTyRe,51,Female,AB+,Arthritis,2020-04-30,Beth Mckenzie,Montgomery-Anthony,UnitedHealthcare,10710.3257208337,461,Urgent,2020-05-22,Abnormal,Methotrexate,Mild,15 mg,Recovered,22
+ID0652,Mr. cAMeROn RoBINsoN,64,Male,AB+,Asthma,2021-01-12,Evan Johnson,Davis-Padilla,Blue Cross,25066.5214502494,454,Urgent,2021-01-25,Abnormal,Budesonide,Moderate,200 mcg,Critical,13
+ID0653,taMmY pINEdA,49,Female,O-,Arthritis,2019-05-23,Wendy Rivera,Ellison-Hayden,Cigna,13396.9001693978,273,Emergency,2019-06-02,Normal,Hydroxychloroquine,Moderate,200 mg,Recovered,10
+ID0654,nATaLiE aNdeRson,74,Male,A+,Obesity,2023-04-23,Cindy Maxwell,Long-Lee,Blue Cross,29822.097860118,231,Emergency,2023-05-09,Normal,Liraglutide,Moderate,0.6 mg,Improving,16
+ID0655,jAsminE RodrIgueZ,66,Female,A-,Hypertension,2022-12-07,Crystal Hays,Graves LLC,Medicare,12025.3472972076,434,Urgent,2023-01-01,Abnormal,Losartan,Mild,50 mg,Recovered,25
+ID0656,deBRA MCkee,52,Female,A-,Arthritis,2020-10-25,Jay Barr,and Sons Dixon,Aetna,33708.8575442648,191,Elective,2020-11-04,Abnormal,Hydroxychloroquine,Moderate,200 mg,Improving,10
+ID0657,sANDRa GReENe,58,Female,B-,Obesity,2021-04-08,Lisa Long,"Clark, Garza Tate and",Cigna,40825.0846667644,231,Elective,2021-05-01,Normal,Metformin,Severe,500 mg,Improving,23
+ID0658,cRystAl MorRIS,21,Male,B-,Arthritis,2020-09-09,Brianna Kelly,Bates Inc,Aetna,27345.4552019319,371,Emergency,2020-10-04,Inconclusive,Methotrexate,Mild,15 mg,Stable,25
+ID0659,jaSoN pArKER,69,Male,AB+,Arthritis,2019-12-06,David Hanson,LLC Sanford,Aetna,38751.7965205473,439,Emergency,2019-12-08,Inconclusive,Naproxen,Moderate,500 mg,Stable,2
+ID0660,ROy JONEs,47,Female,AB-,Asthma,2023-02-16,David Stevens,and Harper Sons,Aetna,6252.08355653657,365,Elective,2023-03-06,Inconclusive,Budesonide,Moderate,200 mcg,Recovered,18
+ID0661,RIcHaRd aNDeRsoN,51,Female,O-,Hypertension,2023-09-12,Richard Ayala,"Young Mcclain, Newman and",UnitedHealthcare,18714.3369974197,270,Emergency,2023-10-12,Abnormal,Lisinopril,Severe,10 mg,Critical,30
+ID0662,JenNIfEr FoSTer,20,Female,A+,Cancer,2019-11-21,Nathan Adams,"Ray, Cain and Miller",Blue Cross,14291.6989156958,436,Elective,2019-12-11,Inconclusive,Cisplatin,Mild,50 mg,Stable,20
+ID0663,dEBBIE wILSOn,38,Female,B-,Hypertension,2019-07-14,Jennifer Munoz,Zamora-Rivers,Blue Cross,38210.9649530357,413,Elective,2019-07-19,Inconclusive,Amlodipine,Severe,5 mg,Stable,5
+ID0664,tRavIS flOreS,70,Female,AB+,Obesity,2019-10-03,Beth Brown,"and Perez Smith, Kim",Aetna,7074.7927092645,339,Emergency,2019-11-02,Inconclusive,Liraglutide,Moderate,0.6 mg,Stable,30
+ID0665,emIly yOUNg,73,Male,O-,Arthritis,2019-07-04,Karen Jones,Johnson-Wilson,UnitedHealthcare,35419.5129658162,500,Elective,2019-07-06,Abnormal,Naproxen,Moderate,500 mg,Critical,2
+ID0666,sANDy halL,44,Male,AB+,Hypertension,2019-05-26,Seth Burnett,Delacruz-Chavez,Medicare,3852.94711182208,328,Emergency,2019-06-08,Abnormal,Losartan,Mild,50 mg,Improving,13
+ID0667,madIsOn WRigHT,44,Female,A+,Obesity,2021-12-12,Kevin Johnson,"and Gonzalez, Warren Moore",Cigna,48747.5451856328,321,Elective,2021-12-18,Normal,Metformin,Severe,500 mg,Recovered,6
+ID0668,AMy manN,54,Male,AB-,Hypertension,2021-05-22,Julie Garza,Ramirez-Humphrey,Aetna,40577.6011966936,101,Urgent,2021-06-01,Abnormal,Lisinopril,Mild,10 mg,Stable,10
+ID0669,Jason stEELe,45,Male,AB-,Diabetes,2020-09-03,Brian Mack,and Sons Ford,UnitedHealthcare,16648.5473987106,424,Emergency,2020-09-15,Normal,Metformin,Mild,500 mg,Critical,12
+ID0670,PAmEla mIDdlEtoN,18,Female,B-,Arthritis,2022-03-30,Jennifer Johnson,"and Wells, Thomas Kline",UnitedHealthcare,38588.9725626125,449,Urgent,2022-04-13,Abnormal,Methotrexate,Moderate,15 mg,Critical,14
+ID0671,liSA JAcKsOn,44,Male,B+,Hypertension,2019-12-20,Joseph Barnes,Wood-Herring,Cigna,32990.1943869582,486,Elective,2020-01-18,Normal,Amlodipine,Mild,5 mg,Improving,29
+ID0672,SaMantHA PATEl,28,Female,A+,Obesity,2022-01-21,Daryl Cross,Wilkerson LLC,Medicare,20115.7558719145,236,Urgent,2022-02-20,Abnormal,Orlistat,Severe,120 mg,Improving,30
+ID0673,HeRberT RodRIGUEZ,42,Male,A+,Obesity,2020-05-19,Jonathan Edwards,Brown-Henry,Medicare,5947.68964965465,196,Emergency,2020-06-12,Inconclusive,Orlistat,Moderate,120 mg,Stable,24
+ID0674,OliviA pOWELl,61,Female,A+,Diabetes,2024-02-20,Adam Hardy,Sheppard-Livingston,Cigna,28281.3483787897,477,Emergency,2024-03-08,Abnormal,Insulin,Severe,10 units,Recovered,17
+ID0675,SAmaNThA PERkins,75,Female,AB-,Cancer,2023-08-31,Robert Ashley,Golden PLC,Medicare,30873.6199091688,252,Elective,2023-09-07,Inconclusive,Imatinib,Severe,400 mg,Stable,7
+ID0676,mIchaeL POtTs,85,Male,A+,Hypertension,2023-01-19,Mary Vaughn,"and Perez, Bennett Townsend",Cigna,9542.73970888546,289,Emergency,2023-01-28,Abnormal,Losartan,Mild,50 mg,Stable,9
+ID0677,KeRRy HErnANDEz,74,Male,O-,Obesity,2023-11-20,Steven Simmons,"Johnson, and Benson Harris",Blue Cross,32429.6191269396,191,Emergency,2023-12-17,Inconclusive,Orlistat,Severe,120 mg,Stable,27
+ID0678,jOSHUa reyEs,59,Male,AB+,Obesity,2021-07-28,Mrs. Jessica Martinez,"and Clay, Morton Cunningham",Cigna,5588.9938847347,459,Urgent,2021-08-03,Normal,Orlistat,Moderate,120 mg,Stable,6
+ID0679,JeNniFER oRteGA,49,Male,A-,Asthma,2023-04-04,Erin Arias,Anderson-Estrada,UnitedHealthcare,31497.5548751361,265,Emergency,2023-04-27,Inconclusive,Budesonide,Moderate,200 mcg,Recovered,23
+ID0680,BrIttANY BRaun,85,Female,B-,Obesity,2020-08-11,Daniel Golden,and Sons Carlson,Cigna,14283.0159510098,138,Elective,2020-08-24,Inconclusive,Metformin,Severe,500 mg,Improving,13
+ID0681,daniel cHEn,51,Female,B+,Hypertension,2020-01-28,Anthony Malone,Gonzalez Inc,Cigna,15422.042886846,154,Urgent,2020-02-21,Inconclusive,Losartan,Moderate,50 mg,Critical,24
+ID0682,ErICA hart,23,Male,AB+,Asthma,2020-01-07,Charlotte Reyes MD,Schaefer-Hoffman,Cigna,40309.277423601,219,Emergency,2020-02-05,Inconclusive,Budesonide,Mild,200 mcg,Stable,29
+ID0683,alIcIa scOTt,26,Male,O-,Asthma,2020-04-20,Miguel Green,Wilson Group,Aetna,45916.3248338652,301,Elective,2020-05-17,Abnormal,Montelukast,Mild,10 mg,Improving,27
+ID0684,amandA aGUIrRE,59,Female,AB+,Obesity,2020-03-18,Frederick White,"and Vargas Reynolds Evans,",Blue Cross,41632.5248481026,395,Elective,2020-03-25,Normal,Orlistat,Moderate,120 mg,Recovered,7
+ID0685,mark hIcKs,25,Female,AB-,Diabetes,2020-06-18,Lisa Ruiz,"Cantu and Tanner Rojas,",Medicare,7437.418707997,412,Emergency,2020-06-23,Inconclusive,Metformin,Severe,500 mg,Improving,5
+ID0686,TIMOtHy daVIS,29,Male,O-,Cancer,2023-07-15,Cody Rice,"Thornton, Adams Mccarty and",Medicare,38860.0208846444,436,Elective,2023-07-27,Abnormal,Paclitaxel,Mild,175 mg,Improving,12
+ID0687,LONNIE DomInguEZ,25,Male,A-,Hypertension,2023-10-02,April Foster,Cantrell-Griffith,Cigna,6662.24285394421,249,Urgent,2023-10-24,Inconclusive,Amlodipine,Mild,5 mg,Stable,22
+ID0688,KIMbERLY hALE,61,Male,B-,Diabetes,2021-01-13,Justin Russell,Martin Group,Cigna,13074.2152801333,147,Urgent,2021-02-05,Inconclusive,Glipizide,Severe,5 mg,Recovered,23
+ID0689,Dana WilLIAMsoN,46,Male,A+,Hypertension,2022-05-16,Daniel Thomas,and Sons Nelson,Aetna,10443.2069030008,408,Elective,2022-05-31,Inconclusive,Amlodipine,Severe,5 mg,Critical,15
+ID0690,mr. GEORGe BROwN jr.,54,Male,AB-,Hypertension,2019-10-22,Emily Williamson,Ramirez-Hill,Blue Cross,20227.0394040116,144,Emergency,2019-11-01,Abnormal,Lisinopril,Mild,10 mg,Critical,10
+ID0691,ALLEn cAmACho,41,Male,A+,Obesity,2019-08-09,Veronica Christian,Jackson-Butler,Medicare,38779.2078746581,268,Emergency,2019-09-03,Abnormal,Orlistat,Severe,120 mg,Recovered,25
+ID0692,NATHan woOdS,21,Female,O-,Asthma,2023-12-30,Monica Odonnell,Miller-Avila,Aetna,4561.66420728556,357,Elective,2024-01-27,Abnormal,Salbutamol,Severe,2 puffs,Improving,28
+ID0693,caTheriNe sMitH,38,Female,AB+,Diabetes,2022-07-11,Cody Berger,Reyes-Crawford,Medicare,1656.54821705296,176,Elective,2022-08-03,Abnormal,Insulin,Mild,10 units,Stable,23
+ID0694,JerRy leE,75,Male,AB+,Obesity,2020-09-19,Jeffrey White,Marshall-Smith,Aetna,28463.8609852708,200,Emergency,2020-10-06,Inconclusive,Orlistat,Mild,120 mg,Improving,17
+ID0695,AlexaNder COLEMan,44,Male,B+,Cancer,2019-09-06,Stacey Burgess,"and Peterson Matthews Robinson,",UnitedHealthcare,5268.69045746545,142,Urgent,2019-09-07,Inconclusive,Imatinib,Moderate,400 mg,Improving,1
+ID0696,dAvid JENSEN,23,Male,O-,Obesity,2019-11-22,Ethan Spencer,Nelson PLC,Cigna,24011.7022492557,442,Emergency,2019-12-22,Inconclusive,Orlistat,Severe,120 mg,Critical,30
+ID0697,DeBORAH EVaNs,45,Female,B-,Cancer,2020-07-22,Jonathan Baker,Perez-Mitchell,Medicare,18467.0794491135,177,Elective,2020-07-24,Abnormal,Imatinib,Mild,400 mg,Stable,2
+ID0698,ALEXaNdRIa coLon,58,Male,B+,Cancer,2022-03-01,Tonya Burton,"Gross, Thompson Smith and",Aetna,3782.74141579085,134,Urgent,2022-03-19,Abnormal,Cisplatin,Severe,50 mg,Critical,18
+ID0699,sAMUEL HANSOn,34,Male,B-,Diabetes,2023-03-01,Phillip Campos,"Burch, Moore and Thompson",Aetna,11921.6595106981,355,Urgent,2023-03-21,Inconclusive,Insulin,Severe,10 units,Stable,20
+ID0700,BryaN phILliPS,54,Female,B+,Obesity,2021-04-22,Billy Rodgers,Hamilton Group,Cigna,16725.9795864969,361,Urgent,2021-05-11,Abnormal,Orlistat,Mild,120 mg,Recovered,19
+ID0701,naThaN wileY,29,Female,A+,Obesity,2020-09-23,Sherri Campbell,Shaw LLC,Cigna,39700.8241233977,421,Urgent,2020-09-25,Inconclusive,Metformin,Moderate,500 mg,Improving,2
+ID0702,ALiShA muRpHy,54,Female,A+,Cancer,2023-01-08,Alex Neal,"and Day, Lewis Coleman",Medicare,2568.01196668098,136,Emergency,2023-01-19,Abnormal,Paclitaxel,Mild,175 mg,Improving,11
+ID0703,AMANdA lUcEro,46,Male,AB-,Asthma,2022-08-17,Mark Martin,Stone-Perez,Medicare,15242.3871789992,203,Elective,2022-09-08,Abnormal,Salbutamol,Moderate,2 puffs,Improving,22
+ID0704,SHeIla SelLErs,35,Female,AB+,Hypertension,2021-06-15,James Smith,Ltd Foley,UnitedHealthcare,31054.0460643255,114,Urgent,2021-06-25,Normal,Losartan,Moderate,50 mg,Improving,10
+ID0705,sUSaN Chan,58,Female,AB+,Obesity,2024-03-01,Amber Walker,Ward-Mayer,Blue Cross,49118.5912615238,114,Urgent,2024-03-20,Inconclusive,Liraglutide,Severe,0.6 mg,Stable,19
+ID0706,AnGEL MiTChelL,36,Female,AB+,Hypertension,2023-12-11,Laura Pena,and Martinez Sons,Medicare,3235.58115596155,146,Elective,2024-01-08,Normal,Amlodipine,Mild,5 mg,Critical,28
+ID0707,DARleNE cohEN,80,Female,B+,Arthritis,2022-05-04,Tracy Wilson,Group Anderson,Medicare,26052.0241648188,379,Elective,2022-05-05,Abnormal,Naproxen,Moderate,500 mg,Improving,1
+ID0708,KrIStY ONeILl,43,Male,A-,Arthritis,2021-12-01,Michelle Cox,"Garcia, and Marshall Maxwell",Blue Cross,11095.4018505941,288,Emergency,2021-12-29,Inconclusive,Methotrexate,Moderate,15 mg,Critical,28
+ID0709,sHErrI gArCia,47,Female,B+,Hypertension,2021-09-21,Marie Reed,Inc Martinez,Aetna,10725.8254626362,355,Elective,2021-10-10,Abnormal,Losartan,Moderate,50 mg,Stable,19
+ID0710,MIChaEL wEber,49,Female,B-,Hypertension,2020-03-20,Philip Vaughn,"Mcmahon Ortiz, Owens and",UnitedHealthcare,30038.2759753759,424,Elective,2020-04-09,Abnormal,Losartan,Mild,50 mg,Critical,20
+ID0711,BETh sChwaRTZ,58,Male,AB-,Asthma,2024-03-29,Kyle Montes,Williams-Saunders,UnitedHealthcare,49446.4581793556,108,Emergency,2024-04-16,Abnormal,Montelukast,Moderate,10 mg,Stable,18
+ID0712,cYnTHIA cLARKE,40,Female,AB-,Obesity,2024-03-12,Mr. Ronald Hoover,Spencer Ltd,Cigna,5315.70561625656,258,Emergency,2024-03-25,Abnormal,Orlistat,Mild,120 mg,Critical,13
+ID0713,MArK GiLES,44,Male,A-,Cancer,2022-03-21,Daniel Hurley,Mathis-Schwartz,Blue Cross,13928.2801338995,113,Emergency,2022-04-06,Inconclusive,Paclitaxel,Mild,175 mg,Recovered,16
+ID0714,TAmara beltRaN,38,Male,A+,Diabetes,2020-07-23,Nicole Young,Romero-Ramsey,Aetna,2744.40891002426,162,Emergency,2020-08-09,Abnormal,Insulin,Moderate,10 units,Improving,17
+ID0715,JOsEpH guTierReZ,82,Male,A+,Obesity,2024-03-10,Christopher Mills,Avery and Sons,Cigna,27512.913169434,442,Emergency,2024-04-07,Normal,Liraglutide,Mild,0.6 mg,Critical,28
+ID0716,JAmiE jimeNEZ,71,Male,A-,Arthritis,2020-03-15,Richard Webster,Ltd Richardson,Blue Cross,35854.0864225209,172,Urgent,2020-03-29,Abnormal,Methotrexate,Mild,15 mg,Critical,14
+ID0717,chARles MUrPHY,42,Male,A+,Diabetes,2021-05-10,David Soto,and Sons Williams,Cigna,2784.02053102635,241,Urgent,2021-05-16,Abnormal,Glipizide,Severe,5 mg,Stable,6
+ID0718,CArLOS lOPEz,38,Female,O+,Diabetes,2020-12-29,Michael Paul,Carter-Reyes,UnitedHealthcare,2547.91253142387,322,Elective,2021-01-07,Inconclusive,Glipizide,Moderate,5 mg,Stable,9
+ID0719,joHnnY IrWIN,84,Male,B-,Arthritis,2020-03-23,Robert Gregory,LLC Gray,Aetna,29992.5361643446,456,Urgent,2020-03-29,Normal,Naproxen,Severe,500 mg,Improving,6
+ID0720,SCOTT wERNeR,64,Female,O-,Hypertension,2023-07-13,Ashley Lane,"Gonzalez Anderson Jacobson, and",Aetna,4018.01687632,415,Emergency,2023-07-25,Abnormal,Lisinopril,Moderate,10 mg,Stable,12
+ID0721,TeRRi stEWart,57,Female,AB-,Asthma,2023-07-20,Jennifer Brown,"Miller Massey Lopez, and",Aetna,20508.5889565944,261,Urgent,2023-08-02,Inconclusive,Budesonide,Mild,200 mcg,Critical,13
+ID0722,dAVId DaviS,54,Male,B+,Diabetes,2020-02-14,Kristen Aguirre,"Taylor Walsh Hawkins, and",Blue Cross,25648.0437636094,424,Urgent,2020-03-01,Normal,Metformin,Mild,500 mg,Recovered,16
+ID0723,StEpheN HaRRIS,44,Male,B-,Arthritis,2023-05-28,Kathryn Trevino,LLC Brown,Blue Cross,19691.4206855172,264,Elective,2023-06-22,Inconclusive,Hydroxychloroquine,Severe,200 mg,Critical,25
+ID0724,briDgeT Adams,78,Female,B-,Cancer,2022-06-12,Amanda Ramos,Nelson-Wong,Cigna,10311.9361727306,211,Urgent,2022-06-27,Inconclusive,Paclitaxel,Mild,175 mg,Improving,15
+ID0725,MIchAEL MortON,63,Female,A+,Cancer,2023-12-12,Mr. William Decker,LLC Berry,Medicare,17733.9549923549,114,Elective,2023-12-13,Normal,Paclitaxel,Mild,175 mg,Recovered,1
+ID0726,MIchElLE LIU,66,Female,B-,Hypertension,2023-11-06,Michael Grant,Anderson-Jenkins,Cigna,10521.4719302488,288,Emergency,2023-11-12,Inconclusive,Losartan,Mild,50 mg,Stable,6
+ID0727,ReGina bRIght,75,Male,AB-,Arthritis,2023-05-16,Megan Jones,Wells and Sons,Blue Cross,29910.9055003074,400,Elective,2023-05-30,Abnormal,Methotrexate,Moderate,15 mg,Recovered,14
+ID0728,SaMuel decKEr,36,Male,O-,Diabetes,2022-10-12,Mr. Andrew Hall Jr.,"Allen, Williams and Phillips",Cigna,26612.0084503878,377,Elective,2022-10-14,Normal,Insulin,Severe,10 units,Improving,2
+ID0729,pAuL wRiGHt,18,Female,AB+,Diabetes,2023-12-30,Joseph Hernandez,Gonzalez-Cummings,Aetna,25858.4375209627,324,Elective,2024-01-14,Normal,Glipizide,Mild,5 mg,Recovered,15
+ID0730,brIAN OlSOn,49,Male,B+,Hypertension,2024-02-26,Bryan Brock,"and Richardson Webster Smith,",Aetna,22069.5965676412,142,Elective,2024-03-09,Normal,Amlodipine,Severe,5 mg,Improving,12
+ID0731,TRaCEy harRiSOn,22,Female,B+,Asthma,2021-11-07,Austin Henderson,Hudson-Flores,Cigna,43117.6584824169,458,Emergency,2021-11-26,Abnormal,Montelukast,Moderate,10 mg,Recovered,19
+ID0732,ERiKa joHNsoN,72,Female,B+,Hypertension,2020-02-03,Jessica Bruce MD,Inc Rios,Cigna,3718.54817037328,304,Urgent,2020-02-04,Normal,Lisinopril,Severe,10 mg,Recovered,1
+ID0733,PEteR CuNnInghAm,46,Female,B+,Arthritis,2019-07-05,Kenneth Green,PLC Thompson,Blue Cross,18788.1442337998,267,Emergency,2019-07-20,Inconclusive,Naproxen,Severe,500 mg,Improving,15
+ID0734,sIErrA whITe,50,Male,O-,Asthma,2021-11-13,Shelley Garcia,"Rosario Wells, Roberts and",Cigna,39089.8660613446,466,Urgent,2021-11-23,Abnormal,Montelukast,Moderate,10 mg,Improving,10
+ID0735,eDdIe rUSsO dVm,61,Male,B+,Diabetes,2019-08-15,Justin Douglas,Ramirez-Taylor,Blue Cross,47594.4748424077,145,Elective,2019-09-09,Abnormal,Metformin,Moderate,500 mg,Stable,25
+ID0736,yvEtte tuRnER,40,Male,O+,Asthma,2023-07-19,William Faulkner,Murphy-Mason,Aetna,19261.5108498331,203,Emergency,2023-08-14,Normal,Budesonide,Mild,200 mcg,Improving,26
+ID0737,jameS cHArLes,34,Male,A-,Diabetes,2023-04-06,Stephanie Davis,"Edwards Johnson, and Burgess",Medicare,6578.02905753608,162,Emergency,2023-05-06,Inconclusive,Insulin,Mild,10 units,Critical,30
+ID0738,ALexis ALlEn,71,Female,AB+,Arthritis,2019-10-08,Ronald Parker,LLC Spears,Blue Cross,38435.4477567037,340,Elective,2019-10-28,Abnormal,Naproxen,Severe,500 mg,Improving,20
+ID0739,stephAnIe martIN,61,Male,A+,Obesity,2020-08-10,Kevin Tucker,Perez-Smith,Aetna,29810.0469179352,346,Emergency,2020-09-06,Normal,Metformin,Moderate,500 mg,Improving,27
+ID0740,SHelBy AndeRson,24,Male,A+,Asthma,2019-09-26,Katrina Allen,and Sons Mcbride,Blue Cross,4808.82031154897,415,Emergency,2019-10-14,Normal,Salbutamol,Mild,2 puffs,Improving,18
+ID0741,aBIGail FarmEr,28,Male,O+,Cancer,2021-02-11,Alicia Lopez,Sons and Chapman,Cigna,38365.8727802285,183,Urgent,2021-02-19,Abnormal,Imatinib,Mild,400 mg,Critical,8
+ID0742,chrIStINa MiLLER,21,Female,O+,Arthritis,2019-09-05,Stephen Lopez,Cole-Davila,Blue Cross,45540.0955443213,394,Elective,2019-09-29,Inconclusive,Methotrexate,Severe,15 mg,Recovered,24
+ID0743,MAtTHew wYAtt,40,Female,B+,Asthma,2021-03-01,Alexandra Sims,"Pearson, and Lynch Oconnor",Cigna,31444.0880406221,124,Urgent,2021-03-20,Abnormal,Salbutamol,Severe,2 puffs,Stable,19
+ID0744,dAvID MOnTOYa,57,Male,A-,Cancer,2024-04-19,Andrea Lee,Rivera-Peck,Medicare,37194.2639841502,278,Urgent,2024-05-14,Abnormal,Paclitaxel,Mild,175 mg,Recovered,25
+ID0745,eRic ParK,47,Female,AB+,Cancer,2023-04-27,Olivia Anderson,Hess-White,Blue Cross,12422.7554154748,355,Elective,2023-05-03,Normal,Paclitaxel,Moderate,175 mg,Recovered,6
+ID0746,lOrI trEVinO,59,Male,O+,Cancer,2022-07-06,Michelle Barnett,"Fox and Moreno Williams,",Aetna,8024.4100528891,451,Elective,2022-07-26,Inconclusive,Paclitaxel,Severe,175 mg,Stable,20
+ID0747,dWaYNe CASTIllO,33,Female,O-,Arthritis,2020-10-31,Johnathan Mcmahon,Johnson-Estrada,Blue Cross,13034.075502789,300,Urgent,2020-11-18,Normal,Methotrexate,Severe,15 mg,Critical,18
+ID0748,kRIStInE mcCALl,58,Female,B-,Cancer,2023-09-08,Deborah Lawson,Rivera-Mosley,Cigna,37903.2900444236,421,Elective,2023-09-22,Normal,Paclitaxel,Severe,175 mg,Stable,14
+ID0749,jOsepH SelLeRs,39,Female,O-,Cancer,2022-11-20,Diana Boyd,"Diaz Smith Johnson, and",Blue Cross,45913.1659056016,398,Emergency,2022-12-19,Abnormal,Cisplatin,Severe,50 mg,Improving,29
+ID0750,dR. DONalD AndersON,30,Male,O-,Arthritis,2020-07-04,Crystal Ritter,Harris-Ingram,UnitedHealthcare,30468.2633818547,378,Emergency,2020-08-02,Normal,Naproxen,Severe,500 mg,Improving,29
+ID0751,VicToRiA WiLLiAMS,27,Male,B+,Asthma,2023-06-24,Carla Mcneil,and Esparza Sons,Blue Cross,50202.2078478231,198,Urgent,2023-07-13,Abnormal,Budesonide,Moderate,200 mcg,Improving,19
+ID0752,anna jONEs,39,Female,O-,Hypertension,2020-10-06,Peggy Nunez,Hunt Sons and,Cigna,2104.37739631997,260,Elective,2020-10-14,Normal,Amlodipine,Mild,5 mg,Stable,8
+ID0753,mR. RobeRT DaVIS,76,Female,B+,Cancer,2023-03-16,Kenneth White,LLC Hernandez,Aetna,43206.2241110336,441,Emergency,2023-04-02,Inconclusive,Paclitaxel,Mild,175 mg,Recovered,17
+ID0754,jeFfrEY HALl,62,Male,O-,Arthritis,2019-09-16,Leonard Alvarez,Perez-Smith,Blue Cross,10622.2825437367,199,Urgent,2019-09-21,Abnormal,Naproxen,Moderate,500 mg,Stable,5
+ID0755,tERrY GRAvEs,71,Male,O-,Asthma,2021-04-10,Henry Rogers,"Foster Lamb, Graham and",Medicare,10659.6088129445,170,Elective,2021-04-18,Abnormal,Salbutamol,Severe,2 puffs,Improving,8
+ID0756,JErome MorAles,67,Male,B-,Diabetes,2019-07-21,George Smith,Sanchez LLC,Cigna,10919.1109526876,288,Elective,2019-08-17,Normal,Insulin,Severe,10 units,Stable,27
+ID0757,kEith ROdRiGuez,34,Female,A+,Cancer,2021-12-14,Anthony Anderson,Fox-Anthony,Medicare,8407.48879202866,425,Urgent,2021-12-21,Abnormal,Cisplatin,Mild,50 mg,Improving,7
+ID0758,tAmARA davENpOrT,31,Male,O-,Cancer,2023-09-19,Meghan Bailey,"Fuentes Knight, Sandoval and",Aetna,32926.2335403222,459,Emergency,2023-10-16,Inconclusive,Imatinib,Severe,400 mg,Improving,27
+ID0759,JOnatHAN SiMON,25,Male,A-,Cancer,2024-01-27,Jason Phillips,Hudson-Williams,Aetna,48004.9746787929,416,Emergency,2024-02-26,Normal,Cisplatin,Moderate,50 mg,Critical,30
+ID0760,HolLY ARMsTrOnG,33,Female,O-,Arthritis,2020-04-03,Bailey Ibarra,"Lowery, Dunn Anderson and",Cigna,28452.7834879721,180,Elective,2020-05-03,Inconclusive,Methotrexate,Severe,15 mg,Stable,30
+ID0761,rONaLd bAnKs,61,Female,AB+,Hypertension,2020-04-16,Kelsey Simpson,Mullen-Hernandez,Medicare,20651.6148391435,470,Urgent,2020-04-22,Abnormal,Lisinopril,Mild,10 mg,Recovered,6
+ID0762,rYAn BRadforD DDS,42,Female,O+,Hypertension,2019-08-23,Sarah Guerra,"Herman, Liu and Hill",Cigna,31822.7308529992,370,Emergency,2019-09-05,Abnormal,Losartan,Severe,50 mg,Stable,13
+ID0763,jaNICE hAlL,44,Male,AB-,Diabetes,2021-07-01,Tony Matthews,"Davis White, Flores and",UnitedHealthcare,21856.7382546574,482,Elective,2021-07-23,Inconclusive,Metformin,Mild,500 mg,Recovered,22
+ID0764,JaCOB mcDOnaLD,18,Female,B+,Obesity,2022-08-21,David Gonzalez,Williams-Jones,Medicare,45326.914860092,260,Emergency,2022-09-04,Abnormal,Orlistat,Severe,120 mg,Recovered,14
+ID0765,GlENN maSSeY,51,Male,A-,Cancer,2020-08-06,Michael Villanueva,Inc Holloway,UnitedHealthcare,25152.2938878587,103,Emergency,2020-08-26,Abnormal,Imatinib,Moderate,400 mg,Recovered,20
+ID0766,SAndrA mURray,26,Female,AB+,Diabetes,2022-01-16,Alan Cain,"Phillips Jones and Wu,",Cigna,37544.8037077419,430,Elective,2022-02-10,Inconclusive,Metformin,Mild,500 mg,Stable,25
+ID0767,maRK wiLLIaMs,44,Male,O-,Diabetes,2021-08-02,Melissa Turner,"Wilson and Lopez, Molina",UnitedHealthcare,35487.512408368,190,Urgent,2021-08-04,Abnormal,Metformin,Moderate,500 mg,Stable,2
+ID0768,stEPHAnie rEid dvm,56,Female,AB+,Obesity,2020-03-17,Alexander Robles,Jones-Garrett,Blue Cross,2076.32553604069,265,Emergency,2020-04-13,Inconclusive,Orlistat,Mild,120 mg,Critical,27
+ID0769,sEth BArTleTt ii,24,Male,AB+,Obesity,2020-07-23,Joseph Carr,"and Brown, James Green",Medicare,35312.3014811029,314,Emergency,2020-08-03,Normal,Metformin,Mild,500 mg,Improving,11
+ID0770,jerEmY rIcH,39,Male,O-,Hypertension,2022-07-22,David Poole,"Meadows and Nelson, Owen",Cigna,13869.7885226571,314,Urgent,2022-07-24,Abnormal,Amlodipine,Severe,5 mg,Stable,2
+ID0771,eLIZAbeTh MiLLEr,53,Male,O-,Hypertension,2020-08-08,Cynthia Thomas,Sons and Gallegos,Aetna,36107.4031400341,363,Emergency,2020-08-21,Normal,Lisinopril,Severe,10 mg,Improving,13
+ID0772,ErIn MaRtiN,21,Male,O-,Asthma,2023-09-29,Rebecca Reed,Davis Group,Blue Cross,41208.1675885204,359,Emergency,2023-10-06,Normal,Budesonide,Mild,200 mcg,Recovered,7
+ID0773,FRaNK HESS,82,Female,B-,Cancer,2022-01-05,Steven Boyle,Herrera Group,Aetna,14292.0657920994,420,Urgent,2022-01-08,Abnormal,Imatinib,Mild,400 mg,Recovered,3
+ID0774,pAul Rogers,61,Female,AB-,Cancer,2020-06-22,Bryan Wu,Juarez-Weiss,Aetna,17722.9610787116,221,Emergency,2020-07-20,Abnormal,Cisplatin,Severe,50 mg,Critical,28
+ID0775,JEnNiFEr edWArDS,59,Female,AB-,Obesity,2019-10-26,James Quinn,Dawson-Jones,Aetna,21125.3219786322,264,Elective,2019-10-29,Normal,Orlistat,Severe,120 mg,Improving,3
+ID0776,BRian halL,51,Female,O+,Arthritis,2024-02-21,Ryan Rich,Hickman Group,UnitedHealthcare,5164.55385633537,470,Urgent,2024-03-19,Abnormal,Hydroxychloroquine,Severe,200 mg,Improving,27
+ID0777,kIMbERly WILLIamS,43,Male,AB+,Hypertension,2023-01-07,James Robinson,Herman-Ewing,UnitedHealthcare,2162.60729708275,256,Emergency,2023-01-08,Abnormal,Lisinopril,Mild,10 mg,Improving,1
+ID0778,IsAaC MENdeZ,79,Male,B+,Cancer,2023-09-21,Edwin Sparks,Gutierrez Inc,Blue Cross,2675.23060946584,389,Emergency,2023-10-01,Normal,Cisplatin,Mild,50 mg,Stable,10
+ID0779,SarAh SmitH,79,Female,B-,Arthritis,2022-12-07,Tyler Parsons,Hurley-Gill,Aetna,44918.3237999027,217,Emergency,2022-12-21,Abnormal,Hydroxychloroquine,Mild,200 mg,Stable,14
+ID0780,dAniEl Wolf,49,Male,O+,Obesity,2022-12-13,Kirk Rich II,Dillon PLC,Medicare,6327.80102622511,371,Emergency,2022-12-28,Abnormal,Liraglutide,Mild,0.6 mg,Stable,15
+ID0781,RobeRT RoSS,68,Female,O-,Hypertension,2022-11-16,Andrew Neal,"Murphy, and Garcia Jones",Blue Cross,29526.3215250996,384,Elective,2022-11-21,Inconclusive,Lisinopril,Moderate,10 mg,Stable,5
+ID0782,DOuglAS fosTEr,69,Female,O+,Asthma,2019-06-19,Susan Silva,Ramsey-Thomas,Medicare,38989.5337611512,165,Elective,2019-07-17,Inconclusive,Budesonide,Moderate,200 mcg,Improving,28
+ID0783,LOuIS LoWERY,49,Female,B+,Obesity,2023-01-29,Lynn York,Miller and Sons,Blue Cross,33395.1036616005,490,Emergency,2023-02-18,Normal,Liraglutide,Mild,0.6 mg,Recovered,20
+ID0784,JESsICA Tyler,27,Female,O-,Cancer,2023-11-30,Ellen Bush,"Chung Herrera, and Pollard",Cigna,20258.7803185935,491,Elective,2023-12-12,Abnormal,Paclitaxel,Severe,175 mg,Critical,12
+ID0785,wiLLiAm davIES,73,Male,A+,Obesity,2021-03-26,Anthony Smith,"and Hernandez Waters, Cruz",Medicare,43050.8313822153,340,Urgent,2021-04-20,Abnormal,Metformin,Moderate,500 mg,Critical,25
+ID0786,JeSSICA rEyeS,42,Female,AB+,Diabetes,2021-08-21,Mary Schwartz,Schmidt Sons and,Cigna,37284.0497087778,283,Elective,2021-09-03,Abnormal,Metformin,Moderate,500 mg,Critical,13
+ID0787,dAnIEl JoneS,59,Female,O-,Cancer,2024-01-03,Victoria Osborne,"and Carroll Orr Kelly,",Blue Cross,42434.7768616828,494,Urgent,2024-01-25,Abnormal,Imatinib,Severe,400 mg,Improving,22
+ID0788,PAUla moRaLes,20,Female,A+,Hypertension,2024-03-23,Regina Glass,"Smith and Rose Rivera,",UnitedHealthcare,38570.1264074279,487,Emergency,2024-04-21,Abnormal,Lisinopril,Mild,10 mg,Stable,29
+ID0789,DAvId spEArS,61,Female,A+,Cancer,2022-12-03,Craig Ray,Odonnell-Watts,Medicare,22108.9719993926,334,Emergency,2022-12-10,Inconclusive,Cisplatin,Moderate,50 mg,Critical,7
+ID0790,ScoTT bErRY,50,Male,B+,Asthma,2021-09-25,Carlos Steele,Inc Roberts,UnitedHealthcare,40783.1503036693,366,Urgent,2021-10-23,Inconclusive,Salbutamol,Moderate,2 puffs,Improving,28
+ID0791,dAltON NGuYEN,29,Female,B-,Asthma,2020-08-23,Michael Pugh,LLC Chaney,Cigna,28296.1834997073,490,Emergency,2020-08-26,Normal,Salbutamol,Mild,2 puffs,Recovered,3
+ID0792,SCoTT clARK,44,Male,B+,Asthma,2020-09-18,Mark Mccarthy,"Hutchinson, Wilson Daniel and",Cigna,46950.5832578833,384,Elective,2020-10-16,Inconclusive,Budesonide,Severe,200 mcg,Stable,28
+ID0793,JaMIE bAKEr,37,Female,AB+,Diabetes,2022-08-01,Shane Green,Davis-Martin,UnitedHealthcare,41548.1508258725,157,Elective,2022-08-30,Inconclusive,Metformin,Moderate,500 mg,Stable,29
+ID0794,couRTnEy pAtrick,79,Female,AB-,Hypertension,2020-01-11,Hayley Payne,"and Thompson Cook Wiggins,",Cigna,43277.5644936598,214,Urgent,2020-01-25,Inconclusive,Losartan,Moderate,50 mg,Stable,14
+ID0795,wILLiAm waRE,18,Male,AB+,Hypertension,2020-10-16,Christopher Sharp,Baldwin PLC,Cigna,41248.1308378106,125,Elective,2020-10-17,Abnormal,Lisinopril,Mild,10 mg,Improving,1
+ID0796,AmBer andeRSoN,25,Female,A+,Cancer,2024-04-29,Joseph Chandler,Heath-Brown,UnitedHealthcare,6162.34595947817,332,Emergency,2024-05-19,Inconclusive,Cisplatin,Mild,50 mg,Recovered,20
+ID0797,caSey joHNson,64,Female,O+,Cancer,2022-07-05,Brandi Elliott,"Mendez, and Smith Munoz",Blue Cross,45208.3376944067,243,Urgent,2022-07-06,Abnormal,Imatinib,Moderate,400 mg,Recovered,1
+ID0798,ZAcHaRY ColLins,23,Male,B+,Diabetes,2019-08-27,Brian Fox,Inc Daugherty,Aetna,36324.5234754365,377,Emergency,2019-09-15,Normal,Metformin,Mild,500 mg,Critical,19
+ID0799,ZACHArY rEed,57,Male,A-,Hypertension,2024-03-10,Paul Coleman,Gonzalez LLC,Medicare,46084.6737689602,224,Urgent,2024-03-22,Abnormal,Lisinopril,Mild,10 mg,Stable,12
+ID0800,CHRisTOPHer wEiss,49,Female,AB-,Asthma,2023-02-16,Kelly Thompson,Hunter-Hughes,Aetna,-1018.24537122828,204,Elective,2023-03-09,Inconclusive,Montelukast,Mild,10 mg,Recovered,21
+ID0801,CHArleS sTrong,49,Female,O-,Diabetes,2024-04-25,Corey Perez,"and Woods, Rodriguez Williams",Aetna,6657.34714143169,415,Elective,2024-05-14,Abnormal,Insulin,Mild,10 units,Recovered,19
+ID0802,kathErINE KeLLY,65,Female,B-,Asthma,2023-09-25,Blake Phillips,Lowery-Howard,UnitedHealthcare,39357.459739905,409,Urgent,2023-10-13,Normal,Salbutamol,Moderate,2 puffs,Improving,18
+ID0803,chrIstOPhEr heNdERSon,59,Female,AB-,Arthritis,2022-09-12,Nicole Phelps,Colon-Leon,Cigna,23154.6385012288,418,Emergency,2022-09-21,Normal,Naproxen,Moderate,500 mg,Critical,9
+ID0804,jOsEPh bROWn,82,Male,O+,Diabetes,2019-06-30,Lorraine Powers,Boyle-Woods,UnitedHealthcare,6653.59156049303,449,Emergency,2019-07-22,Normal,Metformin,Severe,500 mg,Stable,22
+ID0805,josEpH SAncHEz,31,Male,B-,Diabetes,2023-02-12,Michael Colon,"and Graham Morris, Gonzales",Cigna,15327.7421595132,397,Urgent,2023-02-27,Inconclusive,Metformin,Severe,500 mg,Improving,15
+ID0806,KYle pEREz,63,Female,AB-,Obesity,2020-01-23,Taylor Sullivan,Tucker-Moyer,Cigna,31457.7973069052,316,Elective,2020-02-01,Normal,Orlistat,Severe,120 mg,Improving,9
+ID0807,EdUaRdO hOuSTOn,78,Male,AB+,Asthma,2022-11-25,Natalie Howell,Sons and Stephenson,Aetna,21875.0833239254,137,Elective,2022-12-11,Inconclusive,Budesonide,Mild,200 mcg,Recovered,16
+ID0808,lORi roACh,25,Female,A+,Diabetes,2021-02-10,Lonnie Duncan,Hernandez PLC,Aetna,49635.3065206016,138,Elective,2021-02-17,Normal,Glipizide,Severe,5 mg,Recovered,7
+ID0809,ErIc bUtleR,66,Male,AB-,Cancer,2023-01-30,Bruce Rivera,Dougherty Group,Medicare,41413.8093919015,323,Emergency,2023-02-27,Inconclusive,Cisplatin,Mild,50 mg,Improving,28
+ID0810,jEfFREY bROWn,58,Male,O+,Arthritis,2019-08-24,Jordan Shannon,"Morgan Zimmerman, Matthews and",Aetna,16352.5862779409,478,Urgent,2019-09-17,Normal,Methotrexate,Severe,15 mg,Recovered,24
+ID0811,ThOmAs hAAS,28,Female,A+,Arthritis,2024-02-05,Cindy Jones,Jimenez-Huff,UnitedHealthcare,1805.52280570939,205,Urgent,2024-02-06,Normal,Naproxen,Moderate,500 mg,Recovered,1
+ID0812,kelLY tURner,18,Female,O+,Arthritis,2021-08-30,Reginald Mckinney,Stevenson-Chen,Blue Cross,38363.2612689719,286,Emergency,2021-09-25,Inconclusive,Methotrexate,Mild,15 mg,Critical,26
+ID0813,lANce SiMPsOn,46,Female,B+,Asthma,2022-01-07,Tiffany Hunt,Parker-White,Cigna,32746.5563747251,416,Urgent,2022-01-25,Normal,Budesonide,Severe,200 mcg,Critical,18
+ID0814,jeffrey GReeN,44,Male,AB+,Arthritis,2023-09-08,Frank Pierce,"Vang Schneider and Torres,",Cigna,36649.3242803098,114,Elective,2023-10-06,Inconclusive,Naproxen,Mild,500 mg,Critical,28
+ID0815,ErIc cOLlInS,52,Female,B+,Cancer,2021-10-07,Olivia White,Booth-Williams,UnitedHealthcare,3288.12587865642,215,Elective,2021-10-10,Abnormal,Cisplatin,Mild,50 mg,Improving,3
+ID0816,brIanNa wiLlIaMs,24,Female,B+,Cancer,2020-02-29,Laura Hill,Gray-Black,UnitedHealthcare,32993.4923989072,151,Urgent,2020-03-17,Normal,Cisplatin,Mild,50 mg,Critical,17
+ID0817,RoBerT gRavEs,53,Male,A+,Obesity,2019-08-06,Angela Rogers,Johnson-Garcia,UnitedHealthcare,3338.21551120665,362,Emergency,2019-09-03,Normal,Orlistat,Severe,120 mg,Stable,28
+ID0818,CINDy wiLLIamS,46,Female,A-,Obesity,2019-08-06,James Smith,"Salinas Terrell Villanueva, and",Blue Cross,21401.5210577155,292,Urgent,2019-08-09,Abnormal,Liraglutide,Mild,0.6 mg,Improving,3
+ID0819,VIcToR sULLivan,72,Female,O+,Asthma,2021-12-06,Brian Cooper,Phelps Group,Blue Cross,35828.3195022364,248,Emergency,2021-12-12,Inconclusive,Montelukast,Severe,10 mg,Recovered,6
+ID0820,Frank SCotT,54,Female,A-,Asthma,2020-05-19,Jonathan Jimenez,"Harrison and Erickson, Barnett",UnitedHealthcare,14171.9897130828,297,Elective,2020-06-11,Inconclusive,Salbutamol,Moderate,2 puffs,Improving,23
+ID0821,Mark BRaDShaw,73,Male,AB+,Hypertension,2019-12-27,Ashley Bishop,Fischer Ltd,Medicare,30283.17458661,311,Emergency,2019-12-29,Abnormal,Losartan,Moderate,50 mg,Improving,2
+ID0822,JeSSicA duNn,69,Female,AB-,Cancer,2022-06-04,Charles Harris,Rhodes-Kelly,Cigna,31419.1193724991,201,Urgent,2022-06-13,Normal,Imatinib,Severe,400 mg,Stable,9
+ID0823,KELsEy foX,32,Male,O+,Diabetes,2023-01-18,Brandon Richardson,"Tate Pierce and Jackson,",Aetna,23734.8540115534,394,Emergency,2023-02-03,Normal,Metformin,Moderate,500 mg,Improving,16
+ID0824,MarY RICE,29,Male,B+,Diabetes,2023-07-25,Shane Wong,Inc Daniel,Aetna,45417.6423467335,167,Elective,2023-07-28,Inconclusive,Glipizide,Mild,5 mg,Critical,3
+ID0825,RACHeL jaCKSON,82,Female,A+,Arthritis,2020-07-17,Michael Oliver,"and Roberson Lee Young,",Blue Cross,12822.7832871436,356,Urgent,2020-08-09,Inconclusive,Naproxen,Severe,500 mg,Recovered,23
+ID0826,leah FRederICk,19,Male,O-,Obesity,2023-02-03,John Cooper,Giles-Miller,Aetna,25856.220204486,441,Emergency,2023-02-23,Abnormal,Orlistat,Moderate,120 mg,Improving,20
+ID0827,COnnOr ODoNNell,63,Male,A-,Arthritis,2021-11-27,Daniel Freeman,"Martinez, and Snyder Hill",UnitedHealthcare,10443.6777697778,125,Elective,2021-12-08,Normal,Hydroxychloroquine,Severe,200 mg,Recovered,11
+ID0828,clAUdIa DoWNS,38,Male,A-,Hypertension,2020-08-18,Adriana Gould,Barber-Page,Blue Cross,40606.4584827272,496,Emergency,2020-08-24,Inconclusive,Losartan,Moderate,50 mg,Critical,6
+ID0829,wIlliaM LaNG,74,Male,B+,Diabetes,2019-07-06,Amanda Hall,"and Hess Delgado Foster,",Medicare,32535.4483660904,359,Emergency,2019-08-02,Normal,Glipizide,Severe,5 mg,Critical,27
+ID0830,LIsA MORAn,38,Male,B-,Asthma,2024-02-17,Michael Mcbride,Johnson-Holland,UnitedHealthcare,34557.2886363492,174,Emergency,2024-02-19,Normal,Budesonide,Severe,200 mcg,Improving,2
+ID0831,rUBeN BUrTOn,53,Male,AB-,Arthritis,2021-09-06,Deborah Wise,"and Gonzales Dunn, Camacho",Aetna,35116.7104719574,142,Emergency,2021-10-05,Normal,Naproxen,Moderate,500 mg,Improving,29
+ID0832,bRANdon sMith,36,Male,AB+,Diabetes,2021-12-17,Ronald Edwards,"Rodriguez Diaz Daugherty, and",Blue Cross,28270.3035717442,119,Elective,2022-01-07,Inconclusive,Insulin,Mild,10 units,Recovered,21
+ID0833,jeSSiCa MURPHY,67,Female,A+,Arthritis,2022-09-20,Raymond Bowen,Rowland-Abbott,Blue Cross,47734.9878707083,143,Emergency,2022-10-07,Abnormal,Naproxen,Moderate,500 mg,Critical,17
+ID0834,miSty wiLLIamS,63,Male,AB-,Asthma,2021-12-13,Jill Bailey,"Murphy, Reid Knox and",Cigna,19176.261695738,452,Elective,2021-12-20,Inconclusive,Montelukast,Severe,10 mg,Recovered,7
+ID0835,brAndY GEORGE,39,Male,A+,Arthritis,2021-10-12,Jennifer Pope,Ryan-Mcneil,Blue Cross,8731.4822745908,219,Emergency,2021-10-27,Normal,Naproxen,Severe,500 mg,Critical,15
+ID0836,ANDrea Buck,55,Male,O-,Asthma,2023-08-08,Taylor Craig,"Ramos Miller and Moore,",Medicare,19249.6871864753,107,Emergency,2023-08-21,Abnormal,Budesonide,Moderate,200 mcg,Critical,13
+ID0837,STephanIE bUrKE,80,Male,AB-,Obesity,2019-11-15,Kristy Waters,Sons Cherry and,Aetna,22758.6376013223,170,Elective,2019-12-13,Inconclusive,Liraglutide,Mild,0.6 mg,Critical,28
+ID0838,STEPHaNiE moON,18,Female,B-,Asthma,2021-12-17,Elizabeth Blevins,Cook LLC,Blue Cross,20929.0665444153,135,Emergency,2021-12-26,Normal,Budesonide,Moderate,200 mcg,Critical,9
+ID0839,sHaRON joHnsON,41,Male,O+,Cancer,2022-11-08,Janice Jones,Phillips Ltd,Cigna,3899.86364076517,234,Emergency,2022-11-11,Abnormal,Paclitaxel,Severe,175 mg,Improving,3
+ID0840,MaTtHeW haLEY,81,Male,A+,Arthritis,2020-02-24,Joann Anderson,"Oliver Griffin Johnson, and",Blue Cross,19698.0007425582,279,Elective,2020-03-16,Abnormal,Hydroxychloroquine,Moderate,200 mg,Stable,21
+ID0841,SaBRInA May,66,Female,O+,Asthma,2022-05-28,Christine Mejia,Gregory Group,Aetna,34060.2729478252,111,Elective,2022-06-22,Inconclusive,Montelukast,Moderate,10 mg,Stable,25
+ID0842,melindA aUstiN,44,Male,A+,Hypertension,2022-09-03,Pamela Reed,"and Camacho Thomas Malone,",UnitedHealthcare,40367.6341734317,317,Elective,2022-09-30,Inconclusive,Losartan,Severe,50 mg,Critical,27
+ID0843,angElA MonTgOmery,81,Female,AB-,Arthritis,2020-04-07,William Holmes,LLC Smith,Cigna,3638.2461963533,125,Emergency,2020-04-30,Abnormal,Naproxen,Severe,500 mg,Recovered,23
+ID0844,VAnessA MaRTiN,77,Male,O+,Arthritis,2019-08-25,Heather Bowman,"Cunningham Andrade and Butler,",Cigna,46134.925978636,107,Elective,2019-09-04,Inconclusive,Hydroxychloroquine,Mild,200 mg,Stable,10
+ID0845,gABriel steVEnS,62,Male,B-,Obesity,2021-05-28,Brittany Burns,Curtis-Lin,Medicare,14549.4946706322,286,Urgent,2021-06-09,Abnormal,Orlistat,Moderate,120 mg,Improving,12
+ID0846,MichAEL wOLfE,78,Male,O+,Cancer,2024-02-25,Amber Carpenter,Ltd Smith,Aetna,30549.6533247304,314,Emergency,2024-03-08,Inconclusive,Imatinib,Mild,400 mg,Stable,12
+ID0847,bROokE TorreS,70,Male,O+,Diabetes,2019-09-08,Kimberly Castaneda,Inc Sanchez,Medicare,13666.17587126,331,Elective,2019-09-09,Normal,Metformin,Severe,500 mg,Critical,1
+ID0848,vicTOr DUKE,33,Male,B-,Asthma,2023-05-25,Jessica Vasquez,"Rice, Cooper Rivera and",Aetna,45199.2733088141,388,Elective,2023-05-29,Abnormal,Montelukast,Severe,10 mg,Stable,4
+ID0849,josepH gaRrETt,56,Female,AB-,Arthritis,2023-07-11,Joseph Robinson,Garcia LLC,Medicare,20514.4001787807,214,Elective,2023-08-01,Abnormal,Methotrexate,Mild,15 mg,Critical,21
+ID0850,kARa lI,38,Male,A+,Cancer,2024-03-20,Travis Morales,Bell Ltd,Blue Cross,47700.5375286225,303,Emergency,2024-04-05,Normal,Cisplatin,Moderate,50 mg,Recovered,16
+ID0851,jUan kEllEy,33,Male,AB+,Hypertension,2021-11-05,Carrie Montes,"Hogan, Young Holmes and",Medicare,2462.21031957497,329,Urgent,2021-11-06,Inconclusive,Lisinopril,Severe,10 mg,Stable,1
+ID0852,sHawNA rUsseLl,25,Male,O-,Hypertension,2023-08-27,Alexander Walters,Vazquez-Sanchez,Aetna,31401.5018502849,265,Urgent,2023-08-28,Inconclusive,Lisinopril,Mild,10 mg,Recovered,1
+ID0853,LOrI LawREnce,66,Female,B-,Obesity,2022-05-26,Justin Paul,Mcintyre Ltd,UnitedHealthcare,20749.8628181168,179,Elective,2022-05-30,Inconclusive,Metformin,Mild,500 mg,Stable,4
+ID0854,WhItney jonES,47,Male,B+,Hypertension,2021-09-13,Curtis Fox,"White Roberts and Lee,",Blue Cross,47297.4190743691,389,Emergency,2021-09-16,Normal,Amlodipine,Severe,5 mg,Stable,3
+ID0855,JOE DaVila,53,Female,O-,Obesity,2024-03-10,Theresa Harrison,"Simpson Espinoza, and Thompson",Aetna,26223.1658347895,122,Urgent,2024-03-15,Normal,Metformin,Severe,500 mg,Improving,5
+ID0856,lISa KELlEr,37,Male,AB+,Asthma,2022-09-26,Mark Maynard,and Moore Sons,Cigna,35821.649335478,230,Urgent,2022-10-24,Normal,Montelukast,Severe,10 mg,Stable,28
+ID0857,jOrdAN BUSh,56,Male,A-,Arthritis,2019-12-26,Randy Graham,"and Mclaughlin Powers Stevens,",Medicare,21633.3277634366,111,Elective,2019-12-27,Inconclusive,Naproxen,Moderate,500 mg,Improving,1
+ID0858,BrEnDA yU,51,Male,A-,Arthritis,2021-01-18,Michael Jenkins,"and Anderson, Porter Becker",Blue Cross,39448.8865093978,124,Elective,2021-02-11,Inconclusive,Naproxen,Severe,500 mg,Critical,24
+ID0859,JASmine sHort,40,Female,O-,Cancer,2021-02-23,Amy Johnson,Bailey-Hunt,Medicare,8867.74666914176,302,Emergency,2021-03-20,Inconclusive,Paclitaxel,Severe,175 mg,Recovered,25
+ID0860,Tamara LEonArd,56,Female,AB+,Arthritis,2020-03-15,Timothy Wagner,"King and Bryant Olsen,",Cigna,5571.23524567007,192,Elective,2020-03-22,Normal,Naproxen,Moderate,500 mg,Recovered,7
+ID0861,keVIN wong,76,Male,A+,Asthma,2019-09-22,Kara Stevens,"Watson Johnson Joseph, and",Aetna,13014.3300004474,108,Emergency,2019-09-28,Abnormal,Montelukast,Moderate,10 mg,Recovered,6
+ID0862,LIsa LopeZ,81,Male,AB+,Obesity,2023-12-07,David Keller,Group Evans,Aetna,27828.9395181477,226,Emergency,2023-12-13,Abnormal,Metformin,Mild,500 mg,Critical,6
+ID0863,jUSTiN VArgAs,84,Female,O-,Arthritis,2020-07-01,Emily Sanders,"Collins Porter and Rodgers,",Aetna,36931.4828491646,337,Elective,2020-07-09,Normal,Methotrexate,Mild,15 mg,Recovered,8
+ID0864,JoDy loPEZ,54,Male,O+,Obesity,2020-05-12,Chris Green,"and Goodwin, Hernandez Andrade",Medicare,41307.8958291383,141,Elective,2020-05-17,Normal,Liraglutide,Mild,0.6 mg,Critical,5
+ID0865,JONaTHaN wOODs,40,Male,B+,Asthma,2022-08-29,Kurt Hamilton,Solomon PLC,Medicare,36632.3183545198,476,Urgent,2022-09-10,Inconclusive,Montelukast,Severe,10 mg,Critical,12
+ID0866,eMMa RAY,79,Male,O-,Cancer,2019-11-01,Richard Jones,Flores Sons and,Blue Cross,17658.4724035534,461,Emergency,2019-11-19,Inconclusive,Cisplatin,Severe,50 mg,Recovered,18
+ID0867,andrEa jOHNSon,52,Male,AB-,Cancer,2019-08-16,Brian Herrera,Lowe LLC,Blue Cross,10034.7212646627,362,Emergency,2019-09-15,Abnormal,Imatinib,Severe,400 mg,Critical,30
+ID0868,waYnE SHArp,42,Male,B+,Diabetes,2021-02-28,Robert Perkins,"Lopez Keller, Williams and",Cigna,7383.38335920499,395,Emergency,2021-03-14,Normal,Insulin,Severe,10 units,Critical,14
+ID0869,sHelby BLack,41,Male,A+,Asthma,2020-09-07,Peter Nunez,Brown-Wood,Blue Cross,28974.4553263161,377,Elective,2020-09-30,Normal,Budesonide,Mild,200 mcg,Stable,23
+ID0870,maRthA MARTiN,26,Male,A+,Arthritis,2024-02-16,Diane Richardson,Martinez-Davis,Blue Cross,4697.23433432292,143,Elective,2024-02-28,Abnormal,Hydroxychloroquine,Severe,200 mg,Stable,12
+ID0871,amanDA wilSoN,76,Female,B+,Cancer,2021-01-16,Julia Monroe,Alexander-Oconnor,Cigna,41150.1906871481,244,Elective,2021-01-27,Abnormal,Cisplatin,Severe,50 mg,Improving,11
+ID0872,JErEMy NGuyeN,29,Female,A+,Arthritis,2023-01-31,Michael Palmer,Carlson-Stone,Cigna,30324.4509103686,156,Emergency,2023-02-14,Normal,Hydroxychloroquine,Mild,200 mg,Recovered,14
+ID0873,eILEEN HaRRIs,19,Male,B-,Hypertension,2022-07-29,Hector King,"George Ward, and Clark",Medicare,33646.1140908455,457,Emergency,2022-08-21,Normal,Losartan,Severe,50 mg,Improving,23
+ID0874,johN becKEr,30,Female,O-,Diabetes,2022-04-27,Michael Webster,Nicholson-Johnson,Cigna,46717.9501109654,147,Urgent,2022-05-01,Inconclusive,Glipizide,Moderate,5 mg,Recovered,4
+ID0875,FelICIa wILey,37,Female,O-,Asthma,2020-06-06,Christy Maxwell,PLC Carr,Aetna,49997.3263696861,427,Elective,2020-06-22,Normal,Budesonide,Mild,200 mcg,Critical,16
+ID0876,JESsE JOneS,82,Female,AB-,Asthma,2019-11-02,Jorge Armstrong,Alexander-Middleton,Blue Cross,38397.0233221755,316,Elective,2019-11-28,Abnormal,Montelukast,Mild,10 mg,Recovered,26
+ID0877,steVEN gleNn,84,Female,B+,Obesity,2022-09-12,Alexander Patterson,Horton-Martinez,UnitedHealthcare,10135.8655242559,469,Urgent,2022-09-22,Inconclusive,Liraglutide,Mild,0.6 mg,Critical,10
+ID0878,CAROLine sWanSoN,52,Female,A+,Arthritis,2021-01-10,Richard Rodgers,Group Schneider,Aetna,25685.6257609646,260,Emergency,2021-01-25,Abnormal,Methotrexate,Moderate,15 mg,Improving,15
+ID0879,TERRy NiCHolson,75,Female,B-,Hypertension,2019-11-05,Jasmine King,PLC Obrien,Blue Cross,6007.69394274639,426,Emergency,2019-11-08,Inconclusive,Amlodipine,Severe,5 mg,Critical,3
+ID0880,KelLy tHOmAS,30,Male,A+,Cancer,2021-02-17,Nancy Sutton,Ramos-Holt,Blue Cross,7609.436016567,404,Urgent,2021-03-07,Abnormal,Cisplatin,Severe,50 mg,Stable,18
+ID0881,stevEn McgeE,76,Male,A-,Diabetes,2023-06-04,Brittany Anderson,"Patterson and Peterson, Velazquez",Medicare,46287.0493098817,451,Emergency,2023-06-27,Inconclusive,Glipizide,Moderate,5 mg,Recovered,23
+ID0882,sHeLleY waRE,56,Male,B-,Diabetes,2023-09-07,Heather Long,"Jensen and Jackson, Greene",Medicare,19204.9177799971,131,Emergency,2023-10-06,Inconclusive,Metformin,Severe,500 mg,Recovered,29
+ID0883,MELiSSA bRADY,65,Female,O-,Hypertension,2022-09-29,Amy Hawkins,Mathews-Lawrence,UnitedHealthcare,45019.0263132596,237,Emergency,2022-10-09,Abnormal,Losartan,Mild,50 mg,Improving,10
+ID0884,MArIA hAll,83,Female,A+,Obesity,2022-02-03,Victor Fowler,"Morales, Johnson and Carlson",Blue Cross,44581.1534954096,374,Urgent,2022-02-08,Abnormal,Orlistat,Severe,120 mg,Stable,5
+ID0885,AnDRE sMITh,43,Female,B+,Hypertension,2024-02-14,Sharon Hall,"Wilson, Ward Taylor and",Medicare,8726.69900648832,164,Elective,2024-03-02,Inconclusive,Amlodipine,Mild,5 mg,Improving,17
+ID0886,KareN GOnZaleZ,84,Male,A+,Hypertension,2020-09-10,Jeffrey Arellano,Torres-Johnson,Cigna,41966.5689099778,293,Urgent,2020-09-21,Inconclusive,Amlodipine,Mild,5 mg,Critical,11
+ID0887,ViNCENt SelLErS,84,Female,B+,Hypertension,2023-01-24,Mary Johnson,Inc Mcbride,Blue Cross,44255.3260106818,102,Urgent,2023-01-27,Inconclusive,Losartan,Mild,50 mg,Improving,3
+ID0888,brANDon buRKe,77,Male,O-,Obesity,2021-10-01,Kimberly Key,"and Dunlap, Wright Mays",UnitedHealthcare,43644.3370805813,298,Emergency,2021-10-23,Abnormal,Orlistat,Moderate,120 mg,Critical,22
+ID0889,MR. MArK hANCocK,60,Male,O+,Arthritis,2021-06-05,Tara Lopez,Sullivan-Crosby,Blue Cross,45304.3894975776,424,Elective,2021-06-11,Inconclusive,Hydroxychloroquine,Severe,200 mg,Recovered,6
+ID0890,kenNETH PEReZ,48,Male,O+,Arthritis,2023-08-09,Angela Lara,"and Shaw, Davis Pollard",UnitedHealthcare,18891.9209931502,274,Urgent,2023-08-26,Inconclusive,Hydroxychloroquine,Mild,200 mg,Critical,17
+ID0891,MArtiN haNsEn,80,Female,B-,Asthma,2020-12-22,Laurie Brewer,Williams LLC,Aetna,18381.5829500255,261,Urgent,2021-01-16,Normal,Montelukast,Moderate,10 mg,Improving,25
+ID0892,susAn bROWN,46,Male,A+,Hypertension,2022-06-21,Margaret Hensley DVM,Franklin Ltd,Cigna,42316.124269502,360,Elective,2022-07-10,Inconclusive,Amlodipine,Severe,5 mg,Stable,19
+ID0893,niCOle ALVAraDO,38,Male,B-,Arthritis,2021-05-05,Adam Bowers,Galloway-Barnett,Medicare,15072.5709264739,321,Elective,2021-05-15,Abnormal,Methotrexate,Mild,15 mg,Critical,10
+ID0894,JeSsicA RodRiGUeZ,72,Female,A-,Asthma,2024-04-20,Renee Odom,"Miller Olson, and Collins",Cigna,7380.731298358,124,Elective,2024-05-10,Normal,Salbutamol,Mild,2 puffs,Stable,20
+ID0895,tiNA PriCE,70,Female,A+,Asthma,2022-06-13,Amanda Morris,"Wheeler and Miller Burch,",UnitedHealthcare,5936.36341146121,117,Elective,2022-07-05,Abnormal,Budesonide,Moderate,200 mcg,Recovered,22
+ID0896,mR. jaCk wIlliS,46,Female,O+,Hypertension,2023-09-01,Gregory Oneill,Mercer-Booker,Cigna,7704.300990915,331,Emergency,2023-09-18,Abnormal,Lisinopril,Mild,10 mg,Critical,17
+ID0897,GreGoRY aDAMS,82,Male,AB+,Cancer,2020-03-14,Erika Smith,"and Burke Skinner Myers,",Blue Cross,12099.7931002341,440,Urgent,2020-04-01,Normal,Imatinib,Moderate,400 mg,Stable,18
+ID0898,DAVId RObErtS,44,Female,A+,Hypertension,2022-06-05,Michelle Harmon,"and Parker, Stout Chase",Blue Cross,17202.8996414058,308,Elective,2022-06-29,Inconclusive,Amlodipine,Mild,5 mg,Stable,24
+ID0899,COry PERry,34,Female,O+,Asthma,2019-12-19,Shane Russell,"Fernandez Harris, and Wilson",UnitedHealthcare,25275.9442276636,475,Urgent,2020-01-16,Inconclusive,Montelukast,Moderate,10 mg,Critical,28
+ID0900,JeSsica BarrY,49,Male,A-,Hypertension,2020-12-06,Rhonda Miller,Young-Myers,Aetna,17002.3032707143,194,Emergency,2020-12-09,Normal,Amlodipine,Mild,5 mg,Recovered,3
+ID0901,cyNthIA thOmAs,44,Female,B+,Cancer,2019-05-13,Aaron Turner,Johnson PLC,Medicare,4794.75135454625,382,Emergency,2019-06-10,Inconclusive,Cisplatin,Mild,50 mg,Critical,28
+ID0902,sHannOn JOHnSOn,37,Male,A-,Hypertension,2023-01-17,Angela Anderson,"Barber Waters Castillo, and",Cigna,7241.19598889808,316,Elective,2023-02-05,Normal,Losartan,Mild,50 mg,Recovered,19
+ID0903,jUSTIn whITE,37,Male,AB-,Arthritis,2022-07-28,Caitlin Jackson,Jarvis-Craig,Aetna,45218.7410511559,346,Elective,2022-08-16,Abnormal,Naproxen,Moderate,500 mg,Critical,19
+ID0904,reGINA sTewarT,58,Female,O+,Diabetes,2022-10-15,Jeremy Stout,Schneider-Patton,Cigna,32052.0564587382,109,Urgent,2022-11-05,Abnormal,Insulin,Severe,10 units,Recovered,21
+ID0905,chelsEa FInLeY,20,Female,A+,Obesity,2020-05-25,Michele Warren,"Kane Porter and Robinson,",Medicare,30718.5462808348,226,Elective,2020-06-06,Normal,Liraglutide,Severe,0.6 mg,Improving,12
+ID0906,emmA beNNeTt,43,Male,A-,Obesity,2021-02-13,Eric English,Archer Inc,UnitedHealthcare,51441.7290534539,449,Urgent,2021-03-03,Abnormal,Orlistat,Moderate,120 mg,Recovered,18
+ID0907,AlaN lEe,57,Female,AB-,Cancer,2023-05-31,Shirley Armstrong,Castaneda-Powell,Blue Cross,1821.34794642876,379,Emergency,2023-06-25,Inconclusive,Cisplatin,Mild,50 mg,Stable,25
+ID0908,KatELYn MiLler,76,Male,AB+,Arthritis,2020-01-18,Mary Miller,"King, Williams and Terry",Aetna,23857.4994842816,214,Urgent,2020-01-26,Inconclusive,Naproxen,Severe,500 mg,Improving,8
+ID0909,aManda morriS,53,Female,B-,Cancer,2020-08-19,Steve Anderson,Henry PLC,Cigna,4795.51343890974,152,Urgent,2020-08-28,Abnormal,Paclitaxel,Mild,175 mg,Recovered,9
+ID0910,dAvID pRatt,45,Male,A-,Diabetes,2022-12-24,Candice Harris,"and Carpenter, Hernandez Chang",UnitedHealthcare,25500.7069991382,415,Emergency,2023-01-22,Normal,Glipizide,Severe,5 mg,Improving,29
+ID0911,MAtTheW cunnINGHAm,21,Female,O+,Asthma,2020-09-05,Rhonda Lucas,Santiago-Bush,Aetna,10837.6145834728,261,Emergency,2020-09-25,Normal,Montelukast,Severe,10 mg,Critical,20
+ID0912,bObBY CarSoN,64,Male,A-,Arthritis,2022-09-10,Cody Mcintyre,"Williams Hale and Summers,",Aetna,46836.7059028468,234,Elective,2022-09-22,Normal,Hydroxychloroquine,Mild,200 mg,Critical,12
+ID0913,meliNda WIlSOn,71,Male,AB-,Diabetes,2021-04-26,Scott Adams DDS,Ltd Carroll,UnitedHealthcare,11426.0121308383,169,Emergency,2021-05-04,Abnormal,Glipizide,Mild,5 mg,Stable,8
+ID0914,NancY HaNSEn,28,Female,O-,Diabetes,2024-01-20,Jason Dixon,"Stevenson, Harding and Woods",Cigna,20590.515395957,105,Urgent,2024-01-28,Normal,Metformin,Severe,500 mg,Improving,8
+ID0915,gReGoRY wALlS,79,Male,A-,Hypertension,2021-03-05,Larry Williams,Munoz Ltd,Aetna,28100.0925304751,349,Emergency,2021-03-15,Normal,Losartan,Mild,50 mg,Critical,10
+ID0916,aMBer NiXoN,40,Male,O+,Arthritis,2020-12-27,Candice Gray,LLC Hernandez,Cigna,33188.9265495037,107,Urgent,2021-01-23,Abnormal,Methotrexate,Severe,15 mg,Stable,27
+ID0917,KriStIn fRancO,50,Female,AB+,Asthma,2021-09-22,Michael Richardson,"Kidd Romero, and Douglas",UnitedHealthcare,47130.0255967814,311,Urgent,2021-10-15,Abnormal,Montelukast,Severe,10 mg,Recovered,23
+ID0918,JEremIAH vAZQuEz,64,Female,B-,Cancer,2023-05-01,Megan Allen,and Cordova Sons,Cigna,20361.8655179066,366,Urgent,2023-05-31,Abnormal,Cisplatin,Mild,50 mg,Recovered,30
+ID0919,AnthONy SmITH,81,Male,O+,Obesity,2019-05-12,Jonathan Crawford,Garcia-Clark,Aetna,11229.7554869141,425,Emergency,2019-05-23,Abnormal,Orlistat,Mild,120 mg,Improving,11
+ID0920,vIcToRiA brADy,52,Female,O+,Hypertension,2021-02-22,Benjamin Cruz,Robinson Group,Medicare,6969.09152159104,379,Emergency,2021-03-15,Normal,Losartan,Severe,50 mg,Improving,21
+ID0921,erIN cLaRk,76,Male,B+,Obesity,2022-03-10,Tracy Marks,"Hayes Ryan, and Martinez",Blue Cross,31405.5806284379,103,Urgent,2022-03-18,Inconclusive,Orlistat,Mild,120 mg,Stable,8
+ID0922,hEAtHer BOyLe,52,Male,B+,Obesity,2022-10-23,Nathan Benjamin,"Glover and Oneill Miller,",Cigna,22976.907581907,309,Emergency,2022-11-03,Abnormal,Liraglutide,Mild,0.6 mg,Critical,11
+ID0923,eLiZAbeTH ShEPPARd,77,Female,O-,Cancer,2024-03-13,Sara Cole,Diaz Inc,Aetna,32136.5104076893,384,Emergency,2024-03-29,Inconclusive,Imatinib,Moderate,400 mg,Improving,16
+ID0924,roBErT boOne,81,Male,AB+,Hypertension,2019-08-06,Sara Warner,Martin-Nguyen,UnitedHealthcare,39313.8898329137,448,Elective,2019-08-16,Normal,Losartan,Mild,50 mg,Improving,10
+ID0925,geoFFrEy DANiELs,36,Male,B-,Obesity,2020-09-15,Stanley Moreno,Roberts Inc,Cigna,5624.28866875598,380,Emergency,2020-09-26,Inconclusive,Orlistat,Mild,120 mg,Recovered,11
+ID0926,joHN khAn,72,Female,AB+,Cancer,2019-10-31,Nina Smith,"Riley, Grimes Ruiz and",Blue Cross,5823.04806130711,219,Elective,2019-11-03,Inconclusive,Imatinib,Mild,400 mg,Critical,3
+ID0927,ChrISTopheR aRmSTRoNg,70,Male,O-,Diabetes,2020-09-07,Justin Nguyen,Ltd Rogers,Aetna,11628.6173440034,332,Urgent,2020-09-19,Inconclusive,Metformin,Mild,500 mg,Critical,12
+ID0928,JeNNiFER lopez,44,Female,O-,Arthritis,2021-08-27,Michele Ramos,Gomez Inc,Medicare,8104.6679772966,174,Elective,2021-09-24,Inconclusive,Naproxen,Mild,500 mg,Stable,28
+ID0929,mELISSa ROBerTson,81,Female,A-,Arthritis,2019-12-21,James Harris,PLC Mack,Cigna,12093.0868137337,246,Emergency,2020-01-15,Inconclusive,Methotrexate,Moderate,15 mg,Critical,25
+ID0930,KAren PriCE,41,Male,B-,Arthritis,2019-09-23,Carla Burgess,Castro-Gomez,Medicare,29465.8170890851,271,Urgent,2019-09-26,Abnormal,Hydroxychloroquine,Mild,200 mg,Stable,3
+ID0931,LiSa fRanKLin,32,Female,A+,Arthritis,2022-05-21,Luke York,"Chan, Goodman and Gould",Cigna,22545.9292309013,294,Emergency,2022-05-25,Inconclusive,Hydroxychloroquine,Severe,200 mg,Critical,4
+ID0932,KRisTIN BURtoN,58,Female,B-,Obesity,2019-12-29,Whitney Phillips,"Russell and Randolph, Lawrence",Medicare,2641.01617944814,234,Elective,2020-01-04,Normal,Orlistat,Mild,120 mg,Improving,6
+ID0933,caiTLin aDAms,33,Male,A-,Arthritis,2020-04-03,Daniel Johnson,Evans-Gonzalez,Cigna,16527.2578729106,395,Elective,2020-04-04,Inconclusive,Methotrexate,Moderate,15 mg,Stable,1
+ID0934,EvaN HeRnANDez,80,Male,A+,Cancer,2022-12-15,Audrey Lewis,Miller Sons and,Medicare,13624.8292803078,363,Urgent,2022-12-28,Inconclusive,Imatinib,Moderate,400 mg,Critical,13
+ID0935,jEnNiFer KNiGht,67,Male,O-,Obesity,2020-08-07,Donald Wagner,Watts-Schneider,Aetna,39570.0689615352,161,Urgent,2020-08-09,Inconclusive,Metformin,Moderate,500 mg,Stable,2
+ID0936,BOnnIE WiLSon,39,Male,A-,Diabetes,2022-03-19,Lisa Fisher,Harrell Inc,Aetna,13256.4145644399,146,Urgent,2022-03-20,Normal,Metformin,Mild,500 mg,Critical,1
+ID0937,kEnnETh raMIREZ,52,Male,A+,Arthritis,2024-03-10,Amber Williams,"Reed Valdez and Pratt,",Medicare,32633.203074129,484,Emergency,2024-03-26,Normal,Hydroxychloroquine,Moderate,200 mg,Improving,16
+ID0938,ELleN mCCuLloUgh,49,Male,AB-,Arthritis,2019-11-29,Patrick Medina,Ali Group,Blue Cross,19720.0359027959,114,Emergency,2019-11-30,Normal,Naproxen,Moderate,500 mg,Critical,1
+ID0939,THomAS SToNe,41,Male,B-,Hypertension,2019-07-17,Sheri Castro,Conner-Nelson,Blue Cross,46421.261252841,124,Emergency,2019-08-12,Abnormal,Losartan,Moderate,50 mg,Recovered,26
+ID0940,katHLEEn ArMstrong,81,Female,O-,Hypertension,2020-05-27,Crystal Thornton,"and Miller Prince Rodriguez,",Blue Cross,10767.3766698325,126,Elective,2020-06-12,Normal,Losartan,Moderate,50 mg,Recovered,16
+ID0941,tErrY BEnnetT,19,Female,A-,Hypertension,2019-09-06,Kimberly Carter,"Parker Davis Clark, and",Blue Cross,47656.5170065843,286,Emergency,2019-10-01,Inconclusive,Losartan,Moderate,50 mg,Improving,25
+ID0942,kRISTIN NGuYeN,83,Male,AB+,Hypertension,2021-04-06,Frederick Arnold,Mills-Petersen,Cigna,46186.1632482473,114,Elective,2021-05-06,Abnormal,Amlodipine,Moderate,5 mg,Improving,30
+ID0943,aNgEla rANdOLph,36,Female,O+,Cancer,2019-05-19,Anna Atkinson,"Smith Anderson and Hunt,",UnitedHealthcare,44148.5428825193,336,Emergency,2019-05-29,Abnormal,Paclitaxel,Severe,175 mg,Improving,10
+ID0944,chrIsTOpHEr tAtE,43,Female,A-,Cancer,2023-09-24,Mary Coleman,Kennedy-Smith,Cigna,12447.26511667,360,Elective,2023-10-20,Abnormal,Cisplatin,Mild,50 mg,Stable,26
+ID0945,chrisTopHeR wALToN,72,Male,AB-,Diabetes,2019-09-30,Jeremy Parker,"and Moore, Ballard Johnson",Cigna,43298.4336992711,290,Urgent,2019-10-10,Abnormal,Insulin,Moderate,10 units,Critical,10
+ID0946,mEAGAN MIranDA,73,Female,A+,Asthma,2022-07-23,Dorothy Garcia,"Williams Reynolds and Rangel,",Cigna,33379.5454673791,142,Emergency,2022-08-16,Abnormal,Budesonide,Moderate,200 mcg,Recovered,24
+ID0947,dAvId BrOwn,32,Male,AB-,Cancer,2020-05-11,John Sanders,"Shelton Johnson, and Green",Blue Cross,37553.1609729174,256,Emergency,2020-06-06,Inconclusive,Paclitaxel,Mild,175 mg,Critical,26
+ID0948,EriC MilleR,39,Male,O+,Asthma,2019-08-01,Ashlee Cooper,"Lopez, and Howard Morrison",Aetna,44931.1287719402,194,Elective,2019-08-08,Normal,Montelukast,Moderate,10 mg,Improving,7
+ID0949,JoeL BaRTlEtT,72,Male,B+,Asthma,2019-09-06,Nicole Vance,Sons and Cortez,Medicare,44595.9708637619,203,Urgent,2019-09-15,Abnormal,Salbutamol,Moderate,2 puffs,Improving,9
+ID0950,stAcY GIlLEspiE,24,Male,B-,Cancer,2023-01-28,Karen Lynn,Roberts Ltd,Cigna,10243.9720615149,383,Emergency,2023-02-26,Inconclusive,Cisplatin,Severe,50 mg,Stable,29
+ID0951,cINdy SHaW,32,Female,O-,Obesity,2023-09-11,Rachel Lopez,Sellers-Shepard,Blue Cross,8762.50307169242,454,Emergency,2023-10-11,Abnormal,Liraglutide,Moderate,0.6 mg,Improving,30
+ID0952,Andrew eriCKsON,57,Female,AB+,Asthma,2020-03-11,Samuel Williams,"Lloyd Scott, and Reese",Medicare,10363.668930673,384,Emergency,2020-03-18,Normal,Salbutamol,Severe,2 puffs,Stable,7
+ID0953,aShleY roDrIguez,56,Male,B-,Asthma,2021-03-07,Steven Rogers,Gibson-Osborne,Medicare,22827.8109032324,124,Urgent,2021-03-21,Abnormal,Budesonide,Moderate,200 mcg,Critical,14
+ID0954,dARrYl CruZ,84,Female,O+,Asthma,2024-04-03,Melanie Lloyd,Matthews-Morgan,UnitedHealthcare,22913.348727039,238,Urgent,2024-04-10,Inconclusive,Budesonide,Severe,200 mcg,Stable,7
+ID0955,shEiLA cHurcH,46,Male,B-,Cancer,2022-12-25,Bobby Mayo,Scott and Sons,Aetna,33800.9084900491,437,Urgent,2023-01-10,Abnormal,Imatinib,Moderate,400 mg,Improving,16
+ID0956,NANcY munOZ,55,Male,AB+,Obesity,2020-04-01,Fernando Hodge,Diaz-Richards,Aetna,23713.923814165,187,Urgent,2020-04-26,Inconclusive,Liraglutide,Moderate,0.6 mg,Stable,25
+ID0957,REBeccA MarTinEZ,19,Female,A+,Hypertension,2020-01-23,Valerie Simmons,LLC Johnson,Medicare,41794.3554262154,354,Emergency,2020-02-20,Abnormal,Losartan,Moderate,50 mg,Improving,28
+ID0958,johN SIMmOns,69,Female,O+,Diabetes,2023-02-10,Cheryl Herrera,Murphy Group,Blue Cross,40304.3800733008,449,Emergency,2023-02-25,Inconclusive,Metformin,Moderate,500 mg,Stable,15
+ID0959,LANce TORREs,69,Female,B-,Cancer,2023-10-20,John Rodriguez MD,"Barajas and Byrd, Wolf",Medicare,43825.0566704835,329,Elective,2023-10-28,Normal,Imatinib,Severe,400 mg,Recovered,8
+ID0960,tImotHy TErrY,56,Male,A-,Hypertension,2020-07-15,Ashley Jackson,"Salazar Newman White, and",Medicare,16509.8932281747,472,Emergency,2020-08-11,Inconclusive,Losartan,Severe,50 mg,Stable,27
+ID0961,joHn MOorE,36,Female,A-,Arthritis,2023-01-14,Samuel Hebert,Hancock-Lewis,Medicare,46268.7290367606,425,Elective,2023-02-08,Normal,Naproxen,Mild,500 mg,Recovered,25
+ID0962,bRAdLeY RAMos,44,Male,A-,Arthritis,2021-06-19,Ryan Garcia,Barrett-Wright,UnitedHealthcare,36272.7518193057,465,Emergency,2021-07-14,Normal,Methotrexate,Severe,15 mg,Recovered,25
+ID0963,JIlL TayLOR,32,Male,O-,Obesity,2020-05-18,Kelli Gutierrez,"Bowers Blankenship Jackson, and",Medicare,5614.51822677262,169,Urgent,2020-05-19,Abnormal,Orlistat,Severe,120 mg,Critical,1
+ID0964,kelLy brown,61,Female,B-,Arthritis,2020-05-16,Kenneth Watson,Hahn-Wilson,UnitedHealthcare,21429.6739120968,493,Elective,2020-06-15,Abnormal,Naproxen,Mild,500 mg,Improving,30
+ID0965,jonATHan chAVEZ,61,Male,AB+,Cancer,2021-03-11,Jo Donaldson,"Ramirez and Nelson, Collins",Cigna,24057.4709309876,304,Emergency,2021-04-02,Normal,Imatinib,Moderate,400 mg,Recovered,22
+ID0966,deniSe Wall,47,Male,B-,Arthritis,2023-02-05,Ronald Patrick,Sosa-Jackson,Blue Cross,22775.4709385453,462,Elective,2023-02-12,Abnormal,Hydroxychloroquine,Moderate,200 mg,Recovered,7
+ID0967,ToDd martinez,49,Female,A+,Obesity,2021-10-19,Lonnie Patton,Dillon-Richard,Cigna,30953.7822567848,186,Urgent,2021-11-12,Normal,Liraglutide,Moderate,0.6 mg,Stable,24
+ID0968,jEnnIFer foRD,83,Male,B-,Asthma,2019-09-07,Gabrielle Hendrix,Stokes and Sons,Medicare,12101.1306552964,424,Urgent,2019-09-29,Abnormal,Salbutamol,Severe,2 puffs,Critical,22
+ID0969,RAYMOnD Park JR.,63,Male,B-,Asthma,2021-05-26,Brandy Parsons,Inc Nguyen,Blue Cross,1478.1811393289,478,Elective,2021-06-20,Normal,Salbutamol,Mild,2 puffs,Recovered,25
+ID0970,jUlia reYNOLDs,26,Female,O-,Cancer,2021-05-07,Anthony Norris,Gallagher-Hernandez,Aetna,37197.8556473132,124,Urgent,2021-05-27,Abnormal,Paclitaxel,Severe,175 mg,Recovered,20
+ID0971,JOhN McleAn,20,Female,AB-,Arthritis,2023-01-17,Kristina Mendez MD,"Johnson David Carpenter, and",Medicare,5407.72875451754,294,Elective,2023-01-29,Normal,Hydroxychloroquine,Mild,200 mg,Recovered,12
+ID0972,KATie hOwARd,69,Male,AB-,Asthma,2020-03-05,Justin Clark,"and Montes Marshall Valdez,",Medicare,6035.45806854317,282,Urgent,2020-03-06,Normal,Montelukast,Moderate,10 mg,Stable,1
+ID0973,AmandA LAWSon,26,Male,AB-,Asthma,2022-09-16,Charles Schmidt,PLC Kelly,Blue Cross,5778.24581949244,408,Elective,2022-10-16,Normal,Budesonide,Severe,200 mcg,Critical,30
+ID0974,PAUL muRRaY,36,Male,AB+,Arthritis,2022-06-03,Johnny Alvarado,Wilson-Sherman,UnitedHealthcare,46602.6926843485,229,Elective,2022-06-28,Abnormal,Hydroxychloroquine,Severe,200 mg,Recovered,25
+ID0975,JAmEs MorRis,27,Male,AB-,Diabetes,2020-12-30,Patricia Kidd,Peterson Group,Medicare,47789.825967887,493,Emergency,2021-01-26,Abnormal,Metformin,Mild,500 mg,Recovered,27
+ID0976,MaTTHew cOlliNs,60,Female,B-,Obesity,2020-08-09,Christopher Fleming,Hall-Taylor,Aetna,46608.3928886818,142,Emergency,2020-08-15,Abnormal,Liraglutide,Severe,0.6 mg,Critical,6
+ID0977,sharOn cArPenTeR,67,Female,AB-,Arthritis,2021-03-10,Robert Higgins,Rios PLC,UnitedHealthcare,8709.03596282032,187,Elective,2021-03-29,Normal,Naproxen,Mild,500 mg,Improving,19
+ID0978,maRcUS bRoWn,41,Female,O+,Cancer,2021-03-15,Adrian Powell,"Lutz, Lester and Kelly",UnitedHealthcare,18270.9952693763,178,Urgent,2021-03-26,Abnormal,Cisplatin,Moderate,50 mg,Stable,11
+ID0979,mItcHElL DeCkeR,45,Male,B-,Hypertension,2021-08-23,Alexander Rivera,"Scott, Moore and Brewer",Medicare,17679.0266781595,132,Urgent,2021-08-24,Normal,Lisinopril,Moderate,10 mg,Critical,1
+ID0980,dONald mURPhY,37,Male,A+,Diabetes,2023-11-11,Pam Johnson,"Sullivan Henderson Lloyd, and",Cigna,21965.147404814,406,Emergency,2023-11-28,Inconclusive,Glipizide,Mild,5 mg,Recovered,17
+ID0981,JOSePh faRlEy,46,Male,A+,Cancer,2023-12-31,Tracy Howard,"and Rhodes Trujillo, Booth",Cigna,27309.7078784393,326,Emergency,2024-01-27,Inconclusive,Imatinib,Mild,400 mg,Recovered,27
+ID0982,BReNdaN paRKer,71,Female,A+,Arthritis,2019-09-21,Matthew Taylor,Bailey-White,Cigna,4437.95634965318,406,Emergency,2019-10-20,Normal,Hydroxychloroquine,Mild,200 mg,Recovered,29
+ID0983,SaMuEL dAVis,69,Female,B+,Hypertension,2022-11-04,Sharon Harding,Bridges Inc,UnitedHealthcare,15704.0892182133,334,Emergency,2022-11-13,Inconclusive,Lisinopril,Moderate,10 mg,Recovered,9
+ID0984,KeLsey POrTeR,65,Male,O-,Asthma,2019-08-08,Kristine Browning,"Jackson Carr, Garcia and",Medicare,16528.8018231127,286,Urgent,2019-08-19,Abnormal,Budesonide,Severe,200 mcg,Stable,11
+ID0985,mArk bRYaNt,75,Female,O+,Arthritis,2023-10-05,Timothy Kim,Richardson-Griffin,Cigna,3621.1616906829,346,Elective,2023-10-08,Inconclusive,Naproxen,Mild,500 mg,Recovered,3
+ID0986,mARGAret ZamoRa,77,Male,O+,Diabetes,2020-08-28,Joshua Ross,Allen-Campbell,UnitedHealthcare,47863.0239195924,159,Urgent,2020-09-04,Normal,Insulin,Mild,10 units,Improving,7
+ID0987,dAVid pAyne,22,Male,A+,Obesity,2020-07-08,Linda Adams,Ferguson-Liu,Medicare,46772.5811980863,311,Emergency,2020-07-13,Abnormal,Metformin,Moderate,500 mg,Critical,5
+ID0988,tony salAs pHD,58,Female,O+,Obesity,2023-10-06,Richard Andrews,Lee Ltd,Medicare,18479.7432776037,438,Urgent,2023-10-09,Inconclusive,Orlistat,Moderate,120 mg,Improving,3
+ID0989,AdRiaN bowMan,25,Female,A-,Cancer,2023-07-01,Julie Warren,Baldwin-Marshall,Blue Cross,7285.48959150567,103,Urgent,2023-07-05,Normal,Cisplatin,Moderate,50 mg,Stable,4
+ID0990,MRS. laUrEn morgaN,83,Female,B-,Diabetes,2021-08-07,Angela Mathis,Norman PLC,Blue Cross,6818.72448001167,101,Elective,2021-08-20,Normal,Metformin,Severe,500 mg,Critical,13
+ID0991,joSHuA muRRay,27,Male,A-,Hypertension,2020-05-13,Beth Williams,Boyd-Fisher,Blue Cross,14374.3129973427,291,Urgent,2020-05-26,Abnormal,Lisinopril,Mild,10 mg,Critical,13
+ID0992,JAsoN webER,32,Male,B-,Arthritis,2023-09-26,Alejandra Williams,Inc Davis,UnitedHealthcare,5936.17714527583,313,Urgent,2023-09-29,Normal,Methotrexate,Mild,15 mg,Recovered,3
+ID0993,reBeCcA LeWis,40,Male,A+,Diabetes,2023-06-14,Jennifer Mitchell,Perry Inc,Cigna,32897.2673145643,228,Urgent,2023-06-15,Inconclusive,Glipizide,Severe,5 mg,Recovered,1
+ID0994,JOAn aRcHeR,25,Male,AB-,Asthma,2024-05-05,Bradley Hunter,"and Brown Larson Moyer,",Cigna,3963.12112831519,415,Urgent,2024-05-07,Abnormal,Budesonide,Moderate,200 mcg,Critical,2
+ID0995,brittAnY EDwarDs,69,Male,A-,Asthma,2023-04-03,Todd Houston,Soto-Boyle,Blue Cross,16057.8201619831,431,Elective,2023-04-11,Normal,Budesonide,Moderate,200 mcg,Critical,8
+ID0996,tiMotHy dIAz,25,Female,B-,Diabetes,2021-10-24,Michael Grant,Jones-Ellis,Medicare,44041.5737381922,454,Emergency,2021-11-13,Normal,Glipizide,Mild,5 mg,Recovered,20
+ID0997,DaniEL BLaNKenShIP,66,Female,B+,Arthritis,2023-05-24,Debra Carpenter,"Jenkins, Mathews and Ho",Medicare,15086.1587800273,445,Urgent,2023-06-09,Abnormal,Naproxen,Mild,500 mg,Improving,16
+ID0998,mAry stEphenS,62,Male,A+,Hypertension,2019-12-20,Amanda Johnson,Villa Inc,UnitedHealthcare,16377.5231280267,174,Urgent,2020-01-17,Inconclusive,Amlodipine,Severe,5 mg,Stable,28
+ID0999,BrIAN FigUERoA,30,Male,A-,Hypertension,2022-04-27,Joseph Flores,Castro PLC,UnitedHealthcare,43488.8386274731,341,Elective,2022-05-04,Inconclusive,Lisinopril,Mild,10 mg,Critical,7
